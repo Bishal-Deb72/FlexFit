@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+}
+
+.FrontalBodyMapping {
+    width: 450px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.FrontalBodyMapping svg {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    
+}
+
+.FrontalBodyMapping path{
+    cursor: pointer;
+    transition: fill 0.3s ease;
+}
+
+.Calves-group:hover .LeftCalve,
+.Calves-group:hover .RightCalve {
+    fill: red;
+}
+
+.abdominal:hover {
+    fill: red;
+}
+
+.Quads-group:hover .RightQuad,
+.Quads-group:hover .LeftQuad {
+    fill: red;
+}
+
+.Chests-group:hover .RightChest,
+.Chests-group:hover .LeftChest {
+    fill: red;
+}
+
+.Obliques-group:hover .RightObliques,
+.Obliques-group:hover .LeftObliques {
+    fill: red;
+}
+
+.Lower-Forearms-group:hover .RightLowerForearm,
+.Lower-Forearms-group:hover .LeftLowerForearm {
+    fill: red;
+}
+
+.Upper-Forearms-group:hover .RightUpperForearm,
+.Upper-Forearms-group:hover .LeftUpperForearm {
+    fill: red;
+}
+
+.Front-Shoulders-group:hover .RightFrontShoulder,
+.Front-Shoulders-group:hover .LeftFrontShoulder {
+    fill: red;
+}
+
+.Hands-group:hover .RightHand,
+.Hands-group:hover .LeftHand,
+.Hands-group:hover .RHFinger,
+.Hands-group:hover .LHFinger {
+    fill: red;
+}
+
+.Traps-group:hover .RightTrap,
+.Traps-group:hover .LeftTrap {
+    fill: red;
+}

@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+}
+.BackBodyMapping{
+    width: 450px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.BackBodyMapping svg{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.BackBodyMapping path{
+    cursor: pointer;
+    transition: fill 0.3s ease;
+}
+
+.Lats-group:hover .LeftLats,
+.Lats-group:hover .RightLats{
+    fill:#DD513B;
+}
+
+.Glutes-group:hover .LeftGlutes,
+.Glutes-group:hover .RightGlutes{
+    fill:#DD513B;
+}
+
+.LowerBack:hover{
+    fill:#DD513B;
+}
+
+.Hamstring-group:hover .LeftHamstring,
+.Hamstring-group:hover .RightHamstring{
+    fill:#DD513B;
+}
+
+.MiddleTraps:hover{
+    fill:#DD513B;
+}
+
+.Calves-group:hover .LeftCalves,
+.Calves-group:hover .RightCalves{
+    fill:#DD513B;
+}
+
+.Traps:hover{
+    fill:#DD513B;
+}
+
+.UpperForearm-group:hover .LUForearm,
+.UpperForearm-group:hover .RUForearm{
+    fill:#DD513B;
+}
+
+.BackShoulder-group:hover .LBShoulder,
+.BackShoulder-group:hover .RBShoulder{
+    fill:red;
+}
+
+.LowerForearm-group:hover .RLForearm,
+.LowerForearm-group:hover .LLForearm{
+    fill:#DD513B;
+}
+
+.Hand-group:hover .LeftHand,
+.Hand-group:hover .RightHand{
+    fill:#DD513B;
+}
