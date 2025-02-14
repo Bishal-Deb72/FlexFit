@@ -16,7 +16,8 @@ import CalorieCalculator from './components/Tools/CalorieCalculator';
 import MacroCalculator from './components/Tools/MacroCalculator';
 import OneRMCalculator from './components/Tools/OneRMCalculator';
 import BMICalculator from './components/Tools/BMICalculator';
-
+import Yoga from './pages/Yoga';
+import YogaDetails from './pages/YogaDetails';
 
 
 const App = () => {
@@ -40,6 +41,9 @@ const App = () => {
         <Route path="/MacroCalculator" element={<MacroCalculator />} /> {/* register page */}
         <Route path="/OneRMCalculator" element={<OneRMCalculator />} /> {/* register page */}
         <Route path="/BMICalculator" element={<BMICalculator />} /> {/* register page */}
+        <Route path="/yoga" element={<Yoga/>} /> 
+        <Route path="/pose/:id" element={<YogaDetails/>} /> 
+
 
       </Routes>
     </div>

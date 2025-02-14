@@ -13,6 +13,7 @@ import { TbTools } from "react-icons/tb";
 import { GrYoga } from "react-icons/gr";
 import { IoLogOutOutline } from "react-icons/io5";
 import { FaDumbbell, FaNutritionix } from "react-icons/fa";
+import { Link } from "react-router-dom";
 
 export function SidebarWithBurgerMenu({ isDrawerOpen, toggleDrawer }) {
   return (
@@ -36,49 +37,49 @@ export function SidebarWithBurgerMenu({ isDrawerOpen, toggleDrawer }) {
             <ListItemPrefix>
               <AiOutlineHome className="h-8 w-8 text-white" />
             </ListItemPrefix>
-            <Typography color="white" className="font-medium text-lg">
+            <Link color="white" className="font-medium text-lg text-white ml-2">
               Home
-            </Typography>
+            </Link>
           </ListItem>
           <ListItem onClick={toggleDrawer} className="flex items-center">
             <ListItemPrefix>
               <TbTools className="h-8 w-8 text-white" />
             </ListItemPrefix>
-            <Typography color="white" className="font-medium text-lg">
+            <Link color="white" className="font-medium text-lg text-white ml-2">
               Tools
-            </Typography>
+            </Link>
           </ListItem>
           <ListItem onClick={toggleDrawer} className="flex items-center">
             <ListItemPrefix>
               <GrYoga className="h-8 w-8 text-white" />
             </ListItemPrefix>
-            <Typography color="white" className="font-medium text-lg">
+            <Link to="/yoga" className="font-medium text-white text-lg">
               Yoga And Asanas
-            </Typography>
+            </Link>
           </ListItem>
           <ListItem onClick={toggleDrawer} className="flex items-center">
             <ListItemPrefix>
               <FaDumbbell className="h-8 w-8 text-white" />
             </ListItemPrefix>
-            <Typography color="white" className="font-medium text-lg">
+            <Link className="font-medium text-lg text-white ml-2"> 
               Workouts
-            </Typography>
+            </Link>
           </ListItem>
           <ListItem onClick={toggleDrawer} className="flex items-center">
             <ListItemPrefix>
               <FaNutritionix className="h-8 w-8 text-white" />
             </ListItemPrefix>
-            <Typography color="white" className="font-medium text-lg">
+            <Link className="font-medium text-lg text-white ml-2">
               Nutrition
-            </Typography>
+            </Link>
           </ListItem>
           <ListItem onClick={toggleDrawer} className="flex items-center">
             <ListItemPrefix>
               <IoLogOutOutline className="h-8 w-8 text-white" />
             </ListItemPrefix>
-            <Typography color="white" className="font-medium text-lg">
+            <Link className="font-medium text-lg text-white ml-2">
               Log Out
-            </Typography>
+            </Link>
           </ListItem>
         </List>
 
