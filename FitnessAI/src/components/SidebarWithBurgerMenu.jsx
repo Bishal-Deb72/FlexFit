@@ -17,13 +17,15 @@ import { Link } from "react-router-dom";
 
 export function SidebarWithBurgerMenu({ isDrawerOpen, toggleDrawer }) {
   return (
+    
     <Drawer 
+      color="blueGray"
       open={isDrawerOpen}  
       onClose={toggleDrawer}
       className="fixed top-0 left-0 z-0 w-64 h-full"
       overlay={false} // Disable the backdrop overlay if supported
       >
-        
+      
       <Card
         color="transparent"
         shadow={false}
@@ -45,7 +47,7 @@ export function SidebarWithBurgerMenu({ isDrawerOpen, toggleDrawer }) {
             <ListItemPrefix>
               <TbTools className="h-8 w-8 text-white" />
             </ListItemPrefix>
-            <Link color="white" className="font-medium text-lg text-white ml-2">
+            <Link to="/tools/BMICalculator/" className="font-medium text-lg text-white ml-2">
               Tools
             </Link>
           </ListItem>

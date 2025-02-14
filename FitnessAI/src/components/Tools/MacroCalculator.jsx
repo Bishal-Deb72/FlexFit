@@ -2,6 +2,7 @@ import { useState } from "react";
 import { Card, CardContent, TextField, MenuItem, Typography, Grid, Box, AppBar, Toolbar, Slider } from "@mui/material";
 import { Doughnut } from "react-chartjs-2";
 import { Chart, ArcElement, Tooltip, Legend } from "chart.js";
+import ToolsNavBar from "./ToolsNavBar";
 
 // Register required Chart.js components
 Chart.register(ArcElement, Tooltip, Legend);
@@ -73,7 +74,10 @@ const MacroCalculator = () => {
   };
 
   return (
-    <Card sx={{ maxWidth: 900, margin: "auto", boxShadow: 3, borderRadius: 3 }}>
+    <div  className="max-w-4xl mx-auto p-6 bg-gray-300 shadow-lg rounded-lg ">
+      <div className="mb-6 mt-4">
+        <ToolsNavBar />
+      </div>
       {/* Custom Navbar */}
       <AppBar position="static" sx={{ background: "linear-gradient(90deg, red, black)" }}>
         <Toolbar>
@@ -188,7 +192,7 @@ const MacroCalculator = () => {
           </Grid>
         </Grid>
       </CardContent>
-    </Card>
+    </div>
   );
 };
 

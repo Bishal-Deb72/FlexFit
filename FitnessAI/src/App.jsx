@@ -37,12 +37,13 @@ const App = () => {
         <Route path="/BackBody" element={<BackBody />} /> {/* register page */}
         <Route path="/ProfileCard" element={<ProfileCard />} /> {/* register page */}
         <Route path="/VideoInstructionSection" element={<VideoInstructionSection/>} /> {/* register page */}
-        <Route path="/CalorieCalculator" element={<CalorieCalculator />} /> {/* register page */}
-        <Route path="/MacroCalculator" element={<MacroCalculator />} /> {/* register page */}
-        <Route path="/OneRMCalculator" element={<OneRMCalculator />} /> {/* register page */}
-        <Route path="/BMICalculator" element={<BMICalculator />} /> {/* register page */}
+        <Route path="/tools/CalorieCalculator" element={<CalorieCalculator />} /> {/* register page */}
+        <Route path="/tools/MacroCalculator" element={<MacroCalculator />} /> {/* register page */}
+        <Route path="/tools/OneRMCalculator" element={<OneRMCalculator />} /> {/* register page */}
+        <Route path="/tools/BMICalculator" element={<BMICalculator />} /> {/* register page */}
         <Route path="/yoga" element={<Yoga/>} /> 
         <Route path="/pose/:id" element={<YogaDetails/>} /> 
+        
 
 
       </Routes>

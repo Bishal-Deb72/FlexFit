@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { calculateCalories } from './calorieCalculatorLogic';
 import maleImage from './assets/male.png';
 import femaleImage from './assets/female.png';
+import ToolsNavBar from './ToolsNavBar';
 
 const CalorieCalculator = () => {
   const [gender, setGender] = useState('');
@@ -54,6 +55,9 @@ const CalorieCalculator = () => {
 
   return (
     <div className="max-w-4xl mx-auto p-6 bg-gray-100 shadow-lg rounded-lg">
+      <div className="mb-6 mt-4">
+        <ToolsNavBar />
+      </div>
       {showResult ? (
         // Result Card
         <div>
