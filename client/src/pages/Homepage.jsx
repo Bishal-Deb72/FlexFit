@@ -1,3 +1,4 @@
+import React from 'react'
 import { Layout } from '../components/Layouts'
 import { Link } from 'react-router-dom'
 
