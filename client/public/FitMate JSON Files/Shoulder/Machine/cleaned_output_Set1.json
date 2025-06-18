@@ -1,0 +1,150 @@
+[
+    {
+        "id": 1508,
+        "name": "Machine Overhand Overhead Press",
+        "description": null,
+        "next": 0,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 47,
+                "name": "Front Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Machine"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Adjust the seat to match your height."
+            },
+            {
+                "order": 2,
+                "text": "Press your back into the back pad."
+            },
+            {
+                "order": 3,
+                "text": "Press upwards until your elbows are nearly extended. But not fully extended."
+            },
+            {
+                "order": 4,
+                "text": "Lower until the plates nearly touch back down."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-overhand-overhead-press-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-machine-overhand-overhead-press-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-overhand-overhead-press-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-machine-overhand-overhead-press-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_overhand_overhead_press_front_male_9RUIDzf.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_overhand_overhead_press_back_male_9hye9xj.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_overhand_overhead_press_front_female_AO3dSb9.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_overhand_overhead_press_back_female_FP8REwP.png"
+            }
+        ]
+    },
+    {
+        "id": 1509,
+        "name": "Machine Neutral Overhead Press",
+        "description": null,
+        "muscles": [
+            {
+                "id": 47,
+                "name": "Front Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Machine"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Adjust the seat to match your height."
+            },
+            {
+                "order": 2,
+                "text": "Press your back into the back pad."
+            },
+            {
+                "order": 3,
+                "text": "Press upwards until your elbows are nearly extended. But not fully extended."
+            },
+            {
+                "order": 4,
+                "text": "Lower until the plates nearly touch back down."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-neutral-overhead-press-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-machine-neutral-overhead-press-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-neutral-overhead-press-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-machine-neutral-overhead-press-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_neutral_overhead_press_front_male_67sljq4.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_neutral_overhead_press_back_male_hbLZ3mh.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_neutral_overhead_press_front_female_nLaKzzk.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_neutral_overhead_press_back_female_dHxvs2B.png"
+            }
+        ]
+    }
+]

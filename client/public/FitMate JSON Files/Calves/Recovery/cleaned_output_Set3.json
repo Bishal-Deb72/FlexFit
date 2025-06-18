@@ -1,0 +1,293 @@
+[
+    {
+        "id": 1441,
+        "name": "Calf Raise 2B Unilateral Floor",
+        "description": null,
+        "next":0,
+        "prev":1,
+        "muscles": [
+            {
+                "id": 11,
+                "name": "Calves",
+                "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "From the standing position, shift your weight onto onto one foot"
+            },
+            {
+                "order": 2,
+                "text": "Raise the heel of the working leg off the ground, before lowering it back to the ground"
+            },
+            {
+                "order": 3,
+                "text": "Do not rest at the bottom. As soon as you feel your heel touch the ground, repeat the movement"
+            },
+            {
+                "order": 4,
+                "text": "You should feel your calf working"
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-calf-raise-2b-unilateral-floor-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-calf-raise-2b-unilateral-floor-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-calf-raise-2b-unilateral-floor-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-calf-raise-2b-unilateral-floor-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_raise_2b_unilateral_floor_front_male_iqxG43R.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_raise_2b_unilateral_floor_back_male_0dhqdWR.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_raise_2b_unilateral_floor_front_female_u022C89.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_raise_2b_unilateral_floor_back_female_bElMw0R.png"
+            }
+        ]
+    },
+    {
+        "id": 1439,
+        "name": "Calf Raise 2C Eccentric Unilateral From Box",
+        "description": null,
+        "muscles": [
+            {
+                "id": 11,
+                "name": "Calves",
+                "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "While standing on the edge of a step, use both legs to raise your heels, before shifting your weight onto the working leg"
+            },
+            {
+                "order": 2,
+                "text": "Hold the top position for a split second and then very slowly lower your heel below the level of the step or until you start feeling a stretch in the calf"
+            },
+            {
+                "order": 3,
+                "text": "Try to avoid muscular (calf) contraction while raising the heels and then exert muscular contraction on the eccentric phase"
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-calf-raise-2c-eccentric-unilateral-from-box-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-calf-raise-2c-eccentric-unilateral-from-box-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-calf-raise-2c-eccentric-unilateral-from-box-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-calf-raise-2c-eccentric-unilateral-from-box-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_raise_2c_eccentric_unilateral_from_box_front_male_AvH880U.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_raise_2c_eccentric_unilateral_from_box_back_male_Uw4Euuj.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_raise_2c_eccentric_unilateral_from_box_front_female_EAM3p7u.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_raise_2c_eccentric_unilateral_from_box_back_female_Vo4fVTI.png"
+            }
+        ]
+    },
+    {
+        "id": 1437,
+        "name": "Calf Raise 2D Unilateral From Box",
+        "description": null,
+        "muscles": [
+            {
+                "id": 11,
+                "name": "Calves",
+                "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Use the edge of a step to place the balls of one foot on"
+            },
+            {
+                "order": 2,
+                "text": "Raise the heel, before lowering it below the level of the step, or until you feel a stretch in the calf"
+            },
+            {
+                "order": 3,
+                "text": "Try pausing on both ends of range for a split second"
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-calf-raise-2d-unilateral-from-box-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-calf-raise-2d-unilateral-from-box-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-calf-raise-2d-unilateral-from-box-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-calf-raise-2d-unilateral-from-box-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_raise_2d_unilateral_from_box_front_male_yEkVilf.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_raise_2d_unilateral_from_box_back_male_tJMyvYy.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_raise_2d_unilateral_from_box_front_female_bdvKiCT.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_raise_2d_unilateral_from_box_back_female_nZEId8N.png"
+            }
+        ]
+    },
+    {
+        "id": 1435,
+        "name": "Calf Raise 3A Soleus Bias Bilateral",
+        "description": null,
+        "muscles": [
+            {
+                "id": 11,
+                "name": "Calves",
+                "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+            },
+            {
+                "id": 32,
+                "name": "Soleus",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "From the standing position, bend your knees till you get to a squated or semi-squated position"
+            },
+            {
+                "order": 2,
+                "text": "Maintain the squat while raising both heels off the ground"
+            },
+            {
+                "order": 3,
+                "text": "Hold the position for a split second before lowering your heels again"
+            },
+            {
+                "order": 4,
+                "text": "Do not rest at the bottom. As soon as you feel your heels touch the ground, repeat the movement"
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-calf-raise-3a-soleus-bias-bilateral-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-calf-raise-3a-soleus-bias-bilateral-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-calf-raise-3a-soleus-bias-bilateral-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-calf-raise-3a-soleus-bias-bilateral-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_raise_3a_soleus_bias_bilateral_front_male_AleS60K.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_raise_3a_soleus_bias_bilateral_back_male_bfDlpv1.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_raise_3a_soleus_bias_bilateral_front_female_CIo3LwM.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_raise_3a_soleus_bias_bilateral_back_female_HBKHpDZ.png"
+            }
+        ]
+    }
+]

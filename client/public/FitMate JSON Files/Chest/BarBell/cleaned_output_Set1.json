@@ -1,0 +1,317 @@
+[
+    {
+        "id": 4,
+        "name": "Barbell Bench Press",
+        "description": "<h1>Detailed How-To</h1>\r\n\r\n<h2>Do Your Work Early (The Setup)</h2>\r\n\r\n<h3>Foot Placement</h3>\r\n\r\n<p>You can either be flat footed or just have toes on the ground. Either way, push your toes to generate some tension in your quads. Generating tension through your whole body will help you lift more weight.</p>\r\n\r\n<h3>Torso Technique</h3>\r\n\r\n<p>Point your rib cage at the ceiling and pull your shoulder blades back really hard. Dig your shoulder blades into the bench. This will arch your spine somewhat. This is the only time it is ok to extend your spine. Because you are braced against the bench, the bench will soak up a lot of the tension that would otherwise fall on your lumbar spine.</p>\r\n\r\n<h3>Grip</h3>\r\n\r\n<p>Grip width should be just outside of shoulder width. Make sure the bar is set very deeply in your hands. This will help prevent your wrists from getting extended, which will in run help you handle more weight safely.</p>\r\n\r\n<h2>Performing The Bench Press</h2>\r\n\r\n<p>Un-rack the bar. Break at the elbows and bring the bar toward your rib cage, not chest. The bar path should be an arc like curve.</p>\r\n\r\n<p>Make sure the bar touches your rib cage before you initiate the concentric.</p>\r\n\r\n<p>At the top of the rep, extend your elbows but stop short of hyperextending as this could lead to an injury.</p>\r\n\r\n<p>When the rep is complete, slam the bar back into the rack, then lower into the hooks/cups.</p>\r\n\r\n<h2>Ty's Tips</h2>\r\n\r\n<h3>Timing is everything</h3>\r\n\r\n<p>As you perform the eccentric, you want to move under control, but not slowly. I've seen many times a client or friend miss a heavy rep on the bench press because they moved too slowly during the lowering phase. Moving slowly during the eccentric is usually caused by unsureness. Think about it, when you're lifting a heavy weight, and not sure if you are going to complete it, you move slower.</p>\r\n\r\n<p>Also, try to properly time out when you initiate the press. You should begin pressing back toward the ceiling as the bar is touching your sternum.</p>\r\n\r\n<p>Lift with confidence always! If you fail the rep, then you failed the rep. No big deal. Just keep it pushing and you'll get it at some point. This leads me to my second tip.</p>\r\n\r\n<h3>No Shame in Asking For Help</h3>\r\n\r\n<p>Don't be hesitant to ask for a spot if you don't have a gym partner. Most people are happy to help. There's research showing that a lifter will perform better with a spotter. Your muscles won't be any stronger with or without a spotter of course. So why the improvement in performance? The confidence alluded to in the how-to section. Knowing someone is there to get the bar if you fail provides the security to allow you to lift with confidence.</p>\r\n\r\n<p>Just make sure you communicate before starting the set.</p>\r\n\r\n<p>First, ask them to give you a lift off. I've had many ask me for a spot then say they don't want a lift off. Never quite understood why. In many cases (unless you have very long arms), you will lose your shoulder blade retraction when trying to un-rack the bar. If your arms are mostly extended the only choice you have to un-rack is to protract your shoulder blades. The further you can get your shoulder blades pulled back the better. Retracting the shoulder blades also gives more room in the shoulder joint so it is generally a safer position.</p>\r\n\r\n<p>Also, let the spotter know how many reps you're going for so they know what to expect and don't jump in too early. Let them know whether or not you want help completing any reps. For example, \"I'm going for 10 reps, but I might fail around 8. If I can't get all the reps by myself, can you help me get the remaining ones?\"</p>\r\n\r\n<p>Although, I suggest once you hit muscular fatigue, you end your set. Once a muscle hits fatigue, doing additional reps does not induce more muscle growth, but does fatigue you more. Too much risk, not enough reward.</p>",
+        "next": 1,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 2,
+                "name": "Chest",
+                "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+            },
+            {
+                "id": 24,
+                "name": "Mid and Lower Chest",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [
+            {
+                "id": 1,
+                "youtube_link": "https://www.youtube.com/embed/WPM5e8Xv69A"
+            },
+            {
+                "id": 2,
+                "youtube_link": "https://www.youtube.com/embed/WPM5e8Xv69A"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lay flat on the bench with your feet on the ground. With straight arms unrack the bar."
+            },
+            {
+                "order": 2,
+                "text": "Lower the bar to your mid chest"
+            },
+            {
+                "order": 3,
+                "text": "Raise the bar until you've locked your elbows."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-triceps-stretch-variation-3-side_01iBKm9.mp4",
+                "unbranded_video": null
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-triceps-stretch-variation-3-side_a4ZMpsB.mp4",
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_bench_press_front_male_OAkqUzJ.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_bench_press_back_male_v8U6Kc0.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_bench_press_front_female_siUVG1z.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_bench_press_back_female_eXRWc3C.png"
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "name": "Barbell Incline Bench Press",
+        "description": "<p><br></p>\r\n<h1>Barbell Incline Bench Press: A Comprehensive Guide</h1>\r\n<h2>Setup</h2>\r\n<ul>\r\n  <li>Choose a suitable weight for the barbell and place it on the incline bench</li>\r\n  <li>Lie down on the bench with your feet firmly planted on the floor</li>\r\n  <li>Grip the barbell with your palms facing away from your body</li>\r\n  <li>Lift the barbell off the rack and hold it above your chest with straight arms</li>\r\n  <li>Take a deep breath and brace your core</li>\r\n</ul>\r\n<h2>How to Perform</h2>\r\n<ul>\r\n  <li>Lower the barbell towards your chest, keeping your elbows close to your body</li>\r\n  <li>Pause for a moment at the bottom of the movement and then push the barbell back up to the starting position</li>\r\n  <li>Repeat the movement for the desired number of repetitions</li>\r\n</ul>\r\n<h2>Technique</h2>\r\n<ul>\r\n  <li>Keep your shoulder blades squeezed together throughout the exercise</li>\r\n  <li>Maintain a slight arch in your lower back to avoid excessive rounding</li>\r\n  <li>Do not allow the barbell to drift away from your chest</li>\r\n  <li>Focus on engaging your chest muscles throughout the movement</li>\r\n  <li>Exhale at the top of the movement and inhale at the bottom</li>\r\n</ul>\r\n<h2>Things to Avoid</h2>\r\n<ul>\r\n  <li>Using too much weight that results in poor form</li>\r\n  <li>Allowing your elbows to flare out during the exercise</li>\r\n  <li>Rounding your lower back during the movement</li>\r\n  <li>Bouncing the barbell off your chest</li>\r\n  <li>Neglecting to warm up adequately before performing the exercise</li>\r\n</ul>",
+        "muscles": [
+            {
+                "id": 19,
+                "name": "Anterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 2,
+                "name": "Chest",
+                "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+            },
+            {
+                "id": 23,
+                "name": "Upper Pectoralis",
+                "description": ""
+            },
+            {
+                "id": 47,
+                "name": "Front Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [
+            {
+                "id": 231,
+                "youtube_link": "https://www.youtube.com/embed/Q5oKabCPV8k?si=XtpNXqTbuTmIiwTc"
+            },
+            {
+                "id": 232,
+                "youtube_link": "https://www.youtube.com/embed/Q5oKabCPV8k?si=XtpNXqTbuTmIiwTc"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Position the bench between 30 and 45 degrees."
+            },
+            {
+                "order": 2,
+                "text": "Lay flat on the bench with your feet on the ground. With straight arms unrack the bar."
+            },
+            {
+                "order": 3,
+                "text": "Lower the bar to your mid chest"
+            },
+            {
+                "order": 4,
+                "text": "Raise the bar (slowly and controlled) until you've locked your elbows."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-incline-bench-press-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-barbell-incline-bench-press-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-incline-bench-press-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-barbell-incline-bench-press-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_incline_bench_press_front_male_BT0cbr1.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_incline_bench_press_back_male_rFkrsS4.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_incline_bench_press_front_female_Fw9Racy.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_incline_bench_press_back_female_d8dnaAN.png"
+            }
+        ]
+    },
+    {
+        "id": 296,
+        "name": "Barbell Floor Press",
+        "description": "<p><br></p>\r\n<h1>Barbell Floor Press: A Comprehensive Guide</h1>\r\n<h2>Setup</h2>\r\n<ul>\r\n  <li>Start by selecting a barbell that is appropriate for your strength level and place it on the floor.</li>\r\n  <li>Lie down on the floor with your back flat and feet flat on the ground. Grasp the barbell with both hands, using a grip that is slightly wider than shoulder-width apart.</li>\r\n  <li>Raise the barbell off the floor so that it is directly above your chest, keeping your arms straight.</li>\r\n  <li>Make sure your back is flat on the floor and that your neck and head are in a neutral position.</li>\r\n</ul>\r\n<h2>How to Perform</h2>\r\n<ul>\r\n  <li>Slowly lower the barbell to your chest, keeping your elbows close to your sides.</li>\r\n  <li>Once the barbell touches your chest, pause for a moment and then press it back up to the starting position.</li>\r\n  <li>Repeat for the desired number of repetitions.</li>\r\n</ul>\r\n<h2>Technique</h2>\r\n<ul>\r\n  <li>Keep your back flat on the floor and your elbows close to your sides throughout the entire movement.</li>\r\n  <li>Focus on using your chest muscles to press the barbell, not your shoulders or triceps.</li>\r\n  <li>Maintain a slow and controlled tempo, avoiding any jerking or bouncing movements.</li>\r\n  <li>Make sure to inhale as you lower the barbell and exhale as you press it back up.</li>\r\n</ul>\r\n<h2>Things to Avoid</h2>\r\n<ul>\r\n  <li>Avoid arching your back or lifting your butt off the floor during the exercise, as this can cause injury to your lower back.</li>\r\n  <li>Do not allow your elbows to flare out to the sides, as this places unnecessary stress on your shoulders.</li>\r\n  <li>Avoid using too much weight, as this can cause you to lose proper form and increase the risk of injury.</li>\r\n</ul>",
+        "muscles": [
+            {
+                "id": 5,
+                "name": "Triceps",
+                "description": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+            },
+            {
+                "id": 2,
+                "name": "Chest",
+                "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Advanced"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Un-rack the bar and break at the elbows and shoulders."
+            },
+            {
+                "order": 2,
+                "text": "Bring your elbows to the floor, rest for a second to remove all the momentum from the rep, then press to a lockout."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-floor-press-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-barbell-floor-press-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-floor-press-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-barbell-floor-press-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_floor_press_front_male_AyTyBtw.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_floor_press_back_male_QUQ80tD.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_floor_press_front_female_pYfZDNS.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_floor_press_back_female_FkBju1Q.png"
+            }
+        ]
+    },
+    {
+        "id": 1616,
+        "name": "Barbell Reverse Grip Bench Press",
+        "description": null,
+        "muscles": [
+            {
+                "id": 2,
+                "name": "Chest",
+                "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+            },
+            {
+                "id": 24,
+                "name": "Mid and Lower Chest",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lay flat on the bench with your feet on the ground. With straight arms unrack the bar with a reverse grip."
+            },
+            {
+                "order": 2,
+                "text": "Lower the bar to your lower chest"
+            },
+            {
+                "order": 3,
+                "text": "Raise the bar until you've locked your elbows."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-reverse-grip-bench-press-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-barbell-reverse-grip-bench-press-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-reverse-grip-bench-press-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-barbell-reverse-grip-bench-press-side.mp4"
+            }
+        ],
+        "body_map_images": []
+    }
+]

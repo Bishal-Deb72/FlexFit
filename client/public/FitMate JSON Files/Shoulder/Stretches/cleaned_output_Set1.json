@@ -1,0 +1,354 @@
+[
+    {
+        "id": 141,
+        "name": "Shoulders Stretch Variation One",
+        "description": null,
+        "next": 1,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 6,
+                "name": "Shoulders",
+                "description": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+            },
+            {
+                "id": 18,
+                "name": "Lateral Deltoid",
+                "description": ""
+            },
+            {
+                "id": 19,
+                "name": "Anterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 47,
+                "name": "Front Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Stretches"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "",
+            "description": ""
+        },
+        "mechanic": {
+            "name": "",
+            "description": ""
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Reach one arm behind your body, with your elbow pointing upward behind your head."
+            },
+            {
+                "order": 2,
+                "text": "Assist the stretch with your other hand on your elbow to engage your shoulder."
+            },
+            {
+                "order": 3,
+                "text": "Pause for a few seconds, then repeat the stretch with your other arm."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/shoulders_stretch_variation_one_front_male_70ilJgp.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/shoulders_stretch_variation_one_back_male_mJ0GZif.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/shoulders_stretch_variation_one_front_female_xuhSjHu.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/shoulders_stretch_variation_one_back_female_wZZuE6c.png"
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "name": "Shoulders Stretch Variation Two",
+        "description": null,
+        "muscles": [
+            {
+                "id": 6,
+                "name": "Shoulders",
+                "description": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+            },
+            {
+                "id": 19,
+                "name": "Anterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 20,
+                "name": "Posterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 47,
+                "name": "Front Shoulders",
+                "description": null
+            },
+            {
+                "id": 48,
+                "name": "Rear Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Stretches"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start with your arms at either side. Begin by pushing your shoulders forward and in towards your chest."
+            },
+            {
+                "order": 2,
+                "text": "Continue the circular motion with your shoulders, pinching up towards your ears, and then extending your chest outwards while you finish the motion."
+            },
+            {
+                "order": 3,
+                "text": "Repeat as necessary."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/shoulders_stretch_variation_two_front_male_hZ7vXHD.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/shoulders_stretch_variation_two_back_male_LH6SM6z.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/shoulders_stretch_variation_two_front_female_APyOHxe.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/shoulders_stretch_variation_two_back_female_qq9sx8e.png"
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "name": "Shoulders Stretch Variation Three",
+        "description": null,
+        "muscles": [
+            {
+                "id": 6,
+                "name": "Shoulders",
+                "description": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+            },
+            {
+                "id": 19,
+                "name": "Anterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 47,
+                "name": "Front Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Stretches"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "",
+            "description": ""
+        },
+        "mechanic": {
+            "name": "",
+            "description": ""
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Place the top of your hand into the small of your back, your arm at a 90 degree angle."
+            },
+            {
+                "order": 2,
+                "text": "Hold your elbow with the other arm, and slowly pull the arm forward until you feel your shoulder engaged in the stretch. Pause at the apex of the stretch and return to the starting position."
+            },
+            {
+                "order": 3,
+                "text": "Return to starting position, and repeat with your other arm."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/shoulders_stretch_variation_three_front_male_qf09zxl.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/shoulders_stretch_variation_three_back_male_oKtx5Bp.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/shoulders_stretch_variation_three_front_female_kFzR8bn.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/shoulders_stretch_variation_three_back_female_2pTrvhc.png"
+            }
+        ]
+    },
+    {
+        "id": 1130,
+        "name": "Alternating Pole Rotation",
+        "description": null,
+        "muscles": [
+            {
+                "id": 6,
+                "name": "Shoulders",
+                "description": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+            },
+            {
+                "id": 18,
+                "name": "Lateral Deltoid",
+                "description": ""
+            },
+            {
+                "id": 19,
+                "name": "Anterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 20,
+                "name": "Posterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 47,
+                "name": "Front Shoulders",
+                "description": null
+            },
+            {
+                "id": 48,
+                "name": "Rear Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Stretches"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start with the pole in front of you with an overhand wider than shoulder width grip."
+            },
+            {
+                "order": 2,
+                "text": "Rotate one arm overhead and behind while keeping the other arm in front of you."
+            },
+            {
+                "order": 3,
+                "text": "Then rotate the other arm."
+            },
+            {
+                "order": 4,
+                "text": "Bring the original arm back to the starting position, then the other arm. Repeat."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Stretches-alternating-pole-rotation-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Stretches-alternating-pole-rotation-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Stretches-alternating-pole-rotation-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Stretches-alternating-pole-rotation-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/alternating_pole_rotation_front_male_K0DPBJ3.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/alternating_pole_rotation_back_male_s1l6j0V.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/alternating_pole_rotation_front_female_9moFqXv.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/alternating_pole_rotation_back_female_seLdWo5.png"
+            }
+        ]
+    }
+]

@@ -1,0 +1,151 @@
+[
+    {
+        "id": 687,
+        "name": "Urdhva Dhanurasana Wheel Pose",
+        "description": null,
+        "next": 0,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 12,
+                "name": "Abdominals",
+                "description": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the \u201c6 pack,\u201d however, this is only one part of the abdominals."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lie down on your back with your feet hip-distance apart and your knees bent."
+            },
+            {
+                "order": 2,
+                "text": "Place your hands on the floor beside your head, fingertips pointing towards your shoulders."
+            },
+            {
+                "order": 3,
+                "text": "Push your feet and hands into the floor, lift your hips up and straighten your arms."
+            },
+            {
+                "order": 4,
+                "text": "Lift your chest towards the ceiling and hold the pose for a few breaths before lowering back down."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-Urdhva-Dhanurasana-wheel-pose-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-Urdhva-Dhanurasana-wheel-pose-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-Urdhva-Dhanurasana-wheel-pose-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-Urdhva-Dhanurasana-wheel-pose-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/urdhva_dhanurasana_wheel_pose_front_male_wUbojCk.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/urdhva_dhanurasana_wheel_pose_back_male_QslNPNa.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/urdhva_dhanurasana_wheel_pose_front_female_wFHDthV.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/urdhva_dhanurasana_wheel_pose_back_female_Kq86X79.png"
+            }
+        ]
+    },
+    {
+        "id": 861,
+        "name": "Cobra Pose",
+        "description": "",
+        "muscles": [
+            {
+                "id": 13,
+                "name": "Lower back",
+                "description": "The erector spinae is another often-misunderstood muscle. The spinal erectors are thought of as the \u201clower back\u201d muscles. However, the spinal erectors travel the length of the entire spine. The upper fibers tuck under the latissimus dorsi and trapezius, and therefore are not visible to the naked eye."
+            },
+            {
+                "id": 12,
+                "name": "Abdominals",
+                "description": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the \u201c6 pack,\u201d however, this is only one part of the abdominals."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start prone, hands under shoulders."
+            },
+            {
+                "order": 2,
+                "text": "Inhale, lift chest, arch back."
+            },
+            {
+                "order": 3,
+                "text": "Elongate neck, gaze up. Breathe, hold. Release, exhale."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Yoga-cobra-pose-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Yoga-cobra-pose-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Yoga-cobra-pose-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Yoga-cobra-pose-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cobra_pose_front_male_91EH1ir.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cobra_pose_back_male_uXQmUMm.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cobra_pose_front_female_ADnWxQf.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cobra_pose_back_female_ggKXccK.png"
+            }
+        ]
+    }
+]

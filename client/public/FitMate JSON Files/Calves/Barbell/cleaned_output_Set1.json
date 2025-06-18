@@ -1,0 +1,325 @@
+[
+    {
+        "id": 210,
+        "name": "Barbell Calf Raises",
+        "next":1,
+        "prev":0,
+        "description": "<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><font color=\"#000000\" face=\"Arial\"><span style=\"font-size: 36px; white-space: pre-wrap;\"><b>How To Do The Barbell Calve Raise</b></span></font></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><font color=\"#000000\" face=\"Arial\"><span style=\"font-size: 14.6667px; white-space: pre-wrap;\"><b><br></b></span></font></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><font color=\"#000000\" face=\"Arial\"><span style=\"font-size: 24px; white-space: pre-wrap;\"><b>Setup</b></span></font></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\"><br></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Place the barbell hooks just below shoulder height so you don't have to go up on your tippy toes to un-rack and re-rack the bar.</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\"><br></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Take a wider than shoulder width grip. Whatever is most comfortable. Shrug your shoulders up and press your upper traps into the bar. Break at the knees and hips and squat out of the barbell hooks. Take two steps back into a shoulder width stance with your toes facing forward.</span></p><p><b style=\"font-weight:normal;\" id=\"docs-internal-guid-bce7f65f-7fff-6574-f670-5a6ffa327907\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">In our demo video, I am performing the exercise flat on the ground. You can get a longer range of motion by putting a plate or a small step in front of you to place the balls of your feet on. This will let you flex your ankles to a much greater extent.</span></p><p><b style=\"font-weight:normal;\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b>Performing</b></span></p><p><b style=\"font-weight:normal;\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Start flat footed. Pull your heels up as high as your ankle range of motion will allow for. You should feel a hard contraction in your calf muscle. Spend an extra second in this contracted position before going back to the starting point.</span></p><p></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Be careful with this exercise. It can be alluring to use too much weight. If you are having trouble maintaining a neutral spine, or are unable to keep your knees mostly extended, then the weight is too heavy. Your central nervous system is very smart. If you approach this exercise with the mindset of simply getting from point A to point B, your nervous system will begin to recruit your quadriceps into the movement by slightly flexing and extending your knee joints.</span></p><div><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\"><br></span></div>",
+        "muscles": [
+            {
+                "id": 11,
+                "name": "Calves",
+                "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+            },
+            {
+                "id": 33,
+                "name": "Gastrocnemius",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 227,
+                "youtube_link": "https://www.youtube.com/embed/qVqTCzHFePk?si=_s6R06ziBqxsPuVE"
+            },
+            {
+                "id": 228,
+                "youtube_link": "https://www.youtube.com/embed/qVqTCzHFePk?si=_s6R06ziBqxsPuVE"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Place the bar on your back"
+            },
+            {
+                "order": 2,
+                "text": "Start with feet flat on the ground"
+            },
+            {
+                "order": 3,
+                "text": "Extend your heels upwards while keeping your knees stationary, and pause at the contracted position."
+            },
+            {
+                "order": 4,
+                "text": "Slowly return to the starting position. Repeat."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-calf-raises-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-barbell-calf-raises-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-calf-raises-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-barbell-calf-raises-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_calf_raises_front_male_dtPJRtb.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_calf_raises_back_male_bnl7OCB.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_calf_raises_front_female_Qn0IGlP.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_calf_raises_back_female_PVeGclM.png"
+            }
+        ]
+    },
+    {
+        "id": 329,
+        "name": "Barbell Calf Jump",
+        "description": null,
+        "muscles": [
+            {
+                "id": 11,
+                "name": "Calves",
+                "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+            },
+            {
+                "id": 32,
+                "name": "Soleus",
+                "description": ""
+            },
+            {
+                "id": 33,
+                "name": "Gastrocnemius",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Advanced"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand with your feet shoulder-width apart and your knees slightly bent."
+            },
+            {
+                "order": 2,
+                "text": "Shift your weight onto the balls of your feet and raise stay flat footed. Using your calf muscles, mimic a jumping motion but don't leave the floor."
+            },
+            {
+                "order": 3,
+                "text": "Explode onto your tip toes and hold for a second."
+            },
+            {
+                "order": 4,
+                "text": "Bring your heels back to the floor then initiate the next rep."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_calf_jump_front_male_C4jtWvX.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_calf_jump_back_male_qAoDpq5.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_calf_jump_front_female_AdjufbW.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_calf_jump_back_female_ZA841PR.png"
+            }
+        ]
+    },
+    {
+        "id": 350,
+        "name": "Barbell Seated Calf Raise",
+        "description": "",
+        "muscles": [
+            {
+                "id": 11,
+                "name": "Calves",
+                "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+            },
+            {
+                "id": 32,
+                "name": "Soleus",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            },
+            {
+                "name": "Underhand",
+                "description": "Supinated"
+            },
+            {
+                "name": "Mixed",
+                "description": "Mixed"
+            }
+        ],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start by sitting on a bench with a barbell resting on your knees. Your feet should be flat on the ground, about hip-width apart."
+            },
+            {
+                "order": 2,
+                "text": "Place your hands on the barbell for support, and lift your heels off the ground."
+            },
+            {
+                "order": 3,
+                "text": "Hold this position for a moment, then slowly lower your heels back to the ground."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_seated_calf_raise_front_male_7YWBQqO.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_seated_calf_raise_back_male_lbwKPSG.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_seated_calf_raise_front_female_VDJ5POX.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_seated_calf_raise_back_female_YQwP88s.png"
+            }
+        ]
+    },
+    {
+        "id": 363,
+        "name": "Barbell Toes Up Calf Raise",
+        "description": "",
+        "muscles": [
+            {
+                "id": 11,
+                "name": "Calves",
+                "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Begin by standing on a raised surface (such as a step or box) with the balls of your feet on the edge of the surface and your heels hanging off. Hold a barbell across your upper back and shoulders, using an overhand grip."
+            },
+            {
+                "order": 2,
+                "text": "Keeping your core engaged and your back straight, push through the balls of your feet to raise your heels up as high as you can."
+            },
+            {
+                "order": 3,
+                "text": "Lower your heels back down to the starting position, allowing your calves to stretch."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_toes_up_calf_raise_front_male_1n56B6S.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_toes_up_calf_raise_back_male_NLhh5MA.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_toes_up_calf_raise_front_female_EXzTkNy.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_toes_up_calf_raise_back_female_2LcMZFr.png"
+            }
+        ]
+    }
+]

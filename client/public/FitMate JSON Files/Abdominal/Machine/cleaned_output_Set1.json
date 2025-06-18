@@ -1,0 +1,231 @@
+[
+    {
+        "id": 54,
+        "name": "Machine Roll Outs",
+        "description": null,
+        "next": 0,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 12,
+                "name": "Abdominals",
+                "description": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the \u201c6 pack,\u201d however, this is only one part of the abdominals."
+            },
+            {
+                "id": 21,
+                "name": "Lower Abdominals",
+                "description": null
+            },
+            {
+                "id": 22,
+                "name": "Upper Abdominals",
+                "description": ""
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Machine"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "",
+            "description": ""
+        },
+        "mechanic": {
+            "name": "",
+            "description": ""
+        },
+        "long_form_content": [
+            {
+                "id": 299,
+                "youtube_link": "https://www.youtube.com/embed/keNX3PT_od0?si=1T6RpPAehAnS6zKa"
+            },
+            {
+                "id": 300,
+                "youtube_link": "https://www.youtube.com/embed/keNX3PT_od0?si=1T6RpPAehAnS6zKa"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Hold the Ab Roller with both hands and kneel on the floor with your feet up and crossed."
+            },
+            {
+                "order": 2,
+                "text": "Slowly roll the ab roller straight forward, stretching your body into a straight position."
+            },
+            {
+                "order": 3,
+                "text": "After a pause at the stretched position, start pulling yourself back to the starting position. This should be a slow and controlled movement."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_roll_outs_front_male_O4y9szC.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_roll_outs_back_male_kEzN9sW.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_roll_outs_front_female_O0zlTes.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_roll_outs_back_female_GQg0Ig6.png"
+            }
+        ]
+    },
+    {
+        "id": 1128,
+        "name": "Rower Knee Tuck",
+        "description": null,
+        "muscles": [
+            {
+                "id": 12,
+                "name": "Abdominals",
+                "description": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the \u201c6 pack,\u201d however, this is only one part of the abdominals."
+            },
+            {
+                "id": 21,
+                "name": "Lower Abdominals",
+                "description": null
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Machine"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Place your feet on the rower seat and get in to a hand plank position."
+            },
+            {
+                "order": 2,
+                "text": "Pull your knees to your chest and flex your abs."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-rower-knee-tuck-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-rower-knee-tuck-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-rower-knee-tuck-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-rower-knee-tuck-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/rower_knee_tuck_front_male_fpROhtM.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/rower_knee_tuck_back_male_XoCsuE0.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/rower_knee_tuck_front_female_YAgrO3P.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/rower_knee_tuck_back_female_U80AEXN.png"
+            }
+        ]
+    },
+    {
+        "id": 1129,
+        "name": "Rower Pike",
+        "description": null,
+        "muscles": [
+            {
+                "id": 12,
+                "name": "Abdominals",
+                "description": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the \u201c6 pack,\u201d however, this is only one part of the abdominals."
+            },
+            {
+                "id": 21,
+                "name": "Lower Abdominals",
+                "description": null
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Machine"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Place your feet on the rower seat and get in to a plank position."
+            },
+            {
+                "order": 2,
+                "text": "Pull your hips straight up toward the ceiling."
+            },
+            {
+                "order": 3,
+                "text": "Lower your hips until you're back in a plank position."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-rower-pike-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-rower-pike-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-rower-pike-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-rower-pike-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/rower_pike_front_male_qdh6zAH.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/rower_pike_back_male_xt0ggls.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/rower_pike_front_female_fXy5VOF.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/rower_pike_back_female_L5YilBk.png"
+            }
+        ]
+    }
+]

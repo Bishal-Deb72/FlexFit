@@ -1,0 +1,276 @@
+[
+    {
+        "id": 626,
+        "name": "Chair Pose",
+        "description": "",
+        "next":1,
+        "prev":0,
+        "muscles": [
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand straight with your feet hip-width apart and arms at your sides."
+            },
+            {
+                "order": 2,
+                "text": "Inhale and raise your arms straight up over your head."
+            },
+            {
+                "order": 3,
+                "text": "Exhale and bend your knees, lowering your hips as if you were sitting in a chair."
+            },
+            {
+                "order": 4,
+                "text": "Hold the pose for a few breaths, then inhale and stand up straight."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-chair-pose-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-chair-pose-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-chair-pose-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-chair-pose-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/chair_pose_front_male_IDjhhN4.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/chair_pose_back_male_XJqGOPr.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/chair_pose_front_female_UMtuvO9.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/chair_pose_back_female_hT4jw2H.png"
+            }
+        ]
+    },
+    {
+        "id": 630,
+        "name": "Crescent Moon Pose",
+        "description": "",
+        "muscles": [
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Begin in Runner's Lunge pose with your right foot forward."
+            },
+            {
+                "order": 2,
+                "text": "Slowly lift your torso up and bring your arms overhead, palms facing each other."
+            },
+            {
+                "order": 3,
+                "text": "Make sure your right knee is directly above your ankle, and your left leg is straight behind you."
+            },
+            {
+                "order": 4,
+                "text": "Hold for a few breaths before repeating on the other side."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-crescent-moon-pose-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-crescent-moon-pose-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-crescent-moon-pose-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-crescent-moon-pose-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/crescent_moon_pose_front_male_cvgWGLW.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/crescent_moon_pose_back_male_Vte88wM.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/crescent_moon_pose_front_female_XZlhclO.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/crescent_moon_pose_back_female_qtB5dCY.png"
+            }
+        ]
+    },
+    {
+        "id": 631,
+        "name": "Crescent Moon Pose Quad Stretch",
+        "description": "",
+        "muscles": [
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Begin in Crescent Moon Pose with your right foot forward and a block nearby."
+            },
+            {
+                "order": 2,
+                "text": "Place the block at the highest height under your left hand."
+            },
+            {
+                "order": 3,
+                "text": "Reach your left arm behind you and take hold of your left foot or ankle."
+            },
+            {
+                "order": 4,
+                "text": "Gently pull your foot towards your buttocks while pressing your left hand into the block to deepen the stretch in your left quad. Hold for a few breaths before releasing and repeating on the other side."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-crescent-moon-pose-quad-stretch-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-crescent-moon-pose-quad-stretch-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-crescent-moon-pose-quad-stretch-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-crescent-moon-pose-quad-stretch-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/crescent_moon_pose_quad_stretch_front_male_l3RgJz7.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/crescent_moon_pose_quad_stretch_back_male_oWifwQs.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/crescent_moon_pose_quad_stretch_front_female_CZARzrc.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/crescent_moon_pose_quad_stretch_back_female_Ug4JFFx.png"
+            }
+        ]
+    },
+    {
+        "id": 632,
+        "name": "Crescent Moon Pose Quad Stretch With Block",
+        "description": "",
+        "muscles": [
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Begin in Crescent Moon Pose with your right foot forward and a block nearby."
+            },
+            {
+                "order": 2,
+                "text": "Place the block at the highest height under your left hand."
+            },
+            {
+                "order": 3,
+                "text": "Reach your left arm behind you and take hold of your left foot or ankle."
+            },
+            {
+                "order": 4,
+                "text": "Gently pull your foot towards your buttocks while pressing your left hand into the block to deepen the stretch in your left quad. Hold for a few breaths before releasing and repeating on the other side."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-crescent-moon-pose-quad-stretch-with-block-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-crescent-moon-pose-quad-stretch-with-block-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-crescent-moon-pose-quad-stretch-with-block-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-crescent-moon-pose-quad-stretch-with-block-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/crescent_moon_pose_quad_stretch_with_block_front_male_8CilpEp.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/crescent_moon_pose_quad_stretch_with_block_back_male_nxZ42Fc.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/crescent_moon_pose_quad_stretch_with_block_front_female_gV23713.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/crescent_moon_pose_quad_stretch_with_block_back_female_egONNkL.png"
+            }
+        ]
+    }
+]

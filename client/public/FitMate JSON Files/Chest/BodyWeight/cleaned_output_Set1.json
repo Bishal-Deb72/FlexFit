@@ -1,0 +1,343 @@
+[
+    {
+        "id": 182,
+        "name": "Push Up",
+        "description": null,
+        "next": 1,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 2,
+                "name": "Chest",
+                "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+            },
+            {
+                "id": 24,
+                "name": "Mid and Lower Chest",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Bodyweight"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [
+            {
+                "id": 83,
+                "youtube_link": "https://www.youtube.com/embed/lxufUii4fd4?si=9fttoFmT-UdHafWj"
+            },
+            {
+                "id": 84,
+                "youtube_link": "https://www.youtube.com/embed/lxufUii4fd4?si=9fttoFmT-UdHafWj"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Place your hands firmly on the ground, directly under shoulders."
+            },
+            {
+                "order": 2,
+                "text": "Flatten your back so your entire body is straight and slowly lower your body"
+            },
+            {
+                "order": 3,
+                "text": "Draw shoulder blades back and down, keeping elbows tucked close to your body"
+            },
+            {
+                "order": 4,
+                "text": "Exhale as you push back to the starting position."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-push-up-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-push-up-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-push-up-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-push-up-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/push_up_front_male_d6webkz.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/push_up_back_male_xljxWfv.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/push_up_front_female_RUwHKMf.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/push_up_back_female_0BHHwT2.png"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Box Dips",
+        "description": null,
+        "muscles": [
+            {
+                "id": 5,
+                "name": "Triceps",
+                "description": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+            },
+            {
+                "id": 2,
+                "name": "Chest",
+                "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+            },
+            {
+                "id": 24,
+                "name": "Mid and Lower Chest",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Bodyweight"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [
+            {
+                "id": 149,
+                "youtube_link": "https://www.youtube.com/embed/hsEKg3M45dc"
+            },
+            {
+                "id": 150,
+                "youtube_link": "https://www.youtube.com/embed/hsEKg3M45dc"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Hold your body with arms locked above the equipment"
+            },
+            {
+                "order": 2,
+                "text": "Lower your body slowly while leaning forward, flare out your elbows"
+            },
+            {
+                "order": 3,
+                "text": "Raise your body above the bars until your arms are locked."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-dips-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-dips-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-dips-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-dips-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/box_dips_front_male_zucxDHW.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/box_dips_back_male_MIfvNaN.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/box_dips_front_female_cwZJ9TC.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/box_dips_back_female_OZLQsCU.png"
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "name": "Incline Push Up",
+        "description": null,
+        "muscles": [
+            {
+                "id": 5,
+                "name": "Triceps",
+                "description": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+            },
+            {
+                "id": 2,
+                "name": "Chest",
+                "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Bodyweight"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [
+            {
+                "id": 81,
+                "youtube_link": "https://www.youtube.com/embed/R4uGphXkSiQ"
+            },
+            {
+                "id": 82,
+                "youtube_link": "https://www.youtube.com/embed/R4uGphXkSiQ"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand facing bench or sturdy elevated platform."
+            },
+            {
+                "order": 2,
+                "text": "Place hands on edge of bench or platform, slightly wider than shoulder width."
+            },
+            {
+                "order": 3,
+                "text": "Slowly lower your body until your chest almost touches the bench."
+            },
+            {
+                "order": 4,
+                "text": "Push body up until arms are extended."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-incline-push-up-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-incline-push-up-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-incline-push-up-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-incline-push-up-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/incline_push_up_front_male_PJjyyNB.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/incline_push_up_back_male_jBF0710.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/incline_push_up_front_female_osPdrwQ.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/incline_push_up_back_female_lTG9NuL.png"
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "name": "Decline Push Up",
+        "description": null,
+        "muscles": [
+            {
+                "id": 5,
+                "name": "Triceps",
+                "description": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+            },
+            {
+                "id": 2,
+                "name": "Chest",
+                "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Bodyweight"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [
+            {
+                "id": 79,
+                "youtube_link": "https://www.youtube.com/embed/R4uGphXkSiQ"
+            },
+            {
+                "id": 80,
+                "youtube_link": "https://www.youtube.com/embed/R4uGphXkSiQ"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Use a bench to elevate your feet."
+            },
+            {
+                "order": 2,
+                "text": "Put your hands slightly wider than shoulder-width."
+            },
+            {
+                "order": 3,
+                "text": "Slowly lower your body until your chest almost touches the ground"
+            },
+            {
+                "order": 4,
+                "text": "Raise your body until you almost lock your elbows."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-decline-push-up-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-decline-push-up-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-decline-push-up-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-decline-push-up-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/decline_push_up_front_male_c35eOI0.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/decline_push_up_back_male_3DhA5DD.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/decline_push_up_front_female_gdHEnmn.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/decline_push_up_back_female_f1YhmNB.png"
+            }
+        ]
+    }
+]

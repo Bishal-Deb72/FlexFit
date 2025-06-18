@@ -1,0 +1,292 @@
+[
+    {
+        "id": 1231,
+        "name": "Seated Upper Trap And Suprispinatus Stretch",
+        "description": null,
+        "next": 0,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 4,
+                "name": "Traps",
+                "description": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Sit on the back of your palm."
+            },
+            {
+                "order": 2,
+                "text": "Straighten the back and pull the shoulders back."
+            },
+            {
+                "order": 3,
+                "text": "Lean your head to the opposite side."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-upper-trap-and-suprispinatus-stretch-seated-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-upper-trap-and-suprispinatus-stretch-seated-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-upper-trap-and-suprispinatus-stretch-seated-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-upper-trap-and-suprispinatus-stretch-seated-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_upper_trap_and_suprispinatus_stretch_front_male.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_upper_trap_and_suprispinatus_stretch_back_male.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_upper_trap_and_suprispinatus_stretch_front_female.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_upper_trap_and_suprispinatus_stretch_back_female.png"
+            }
+        ]
+    },
+    {
+        "id": 1245,
+        "name": "Shoulder Flexion Thoracic Extensions",
+        "description": null,
+        "muscles": [
+            {
+                "id": 4,
+                "name": "Traps",
+                "description": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Place a tube roller or half tube on the ground parallel to your body."
+            },
+            {
+                "order": 2,
+                "text": "Lie on the tube making sure your whole back and neck are supported."
+            },
+            {
+                "order": 3,
+                "text": "Knees bent and on the ground, lower back flat on the tube and chin tucked in."
+            },
+            {
+                "order": 4,
+                "text": "Bring your arms by you hips and pull shoulders back."
+            },
+            {
+                "order": 5,
+                "text": "This is your starting position. Raise arms and drop them back towards the ground over your head"
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-thoracic-extensions-via-shoulder-flexion-foam-roller-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-thoracic-extensions-via-shoulder-flexion-foam-roller-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-thoracic-extensions-via-shoulder-flexion-foam-roller-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-thoracic-extensions-via-shoulder-flexion-foam-roller-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/shoulder_flexion_thoracic_extensions_front_male.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/shoulder_flexion_thoracic_extensions_back_male.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/shoulder_flexion_thoracic_extensions_front_female.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/shoulder_flexion_thoracic_extensions_back_female.png"
+            }
+        ]
+    },
+    {
+        "id": 1246,
+        "name": "Thoracic Extensions Foam Roller",
+        "description": null,
+        "muscles": [
+            {
+                "id": 4,
+                "name": "Traps",
+                "description": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Place a foam roller on the floor perpendicular to your body."
+            },
+            {
+                "order": 2,
+                "text": "Sit and lie back onto it aiming for your mid back to be in contact with the roller."
+            },
+            {
+                "order": 3,
+                "text": "Gently tilt your hips backward, squeeze glutes and engage core to protect the lower back."
+            },
+            {
+                "order": 4,
+                "text": "Support head on palms, elbows rotated in. Slightly lift hips off the ground."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-thoracic-extensions-foam-roller-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-thoracic-extensions-foam-roller-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-thoracic-extensions-foam-roller-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-thoracic-extensions-foam-roller-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/thoracic_extensions_foam_roller_front_male.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/thoracic_extensions_foam_roller_back_male.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/thoracic_extensions_foam_roller_front_female.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/thoracic_extensions_foam_roller_back_female.png"
+            }
+        ]
+    },
+    {
+        "id": 1244,
+        "name": "Thoracic Flexion And Extensions",
+        "description": null,
+        "muscles": [
+            {
+                "id": 4,
+                "name": "Traps",
+                "description": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Bring yourself on all 4's. Push the ground away from you, rounding back and shoulders as much as possible."
+            },
+            {
+                "order": 2,
+                "text": "To enhance the spine flexion suck the belly button in and tuck the tailbone (coccyx) under. Hold this position for a brief moment"
+            },
+            {
+                "order": 3,
+                "text": "Now do the exact opposite, try to bend the spine backwards. Go back and forth on these positions"
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-thoracic-flexion-and-extensions-mobility-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-thoracic-flexion-and-extensions-mobility-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-thoracic-flexion-and-extensions-mobility-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-thoracic-flexion-and-extensions-mobility-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/thoracic_flexion_and_extensions_front_male.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/thoracic_flexion_and_extensions_back_male.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/thoracic_flexion_and_extensions_front_female.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/thoracic_flexion_and_extensions_back_female.png"
+            }
+        ]
+    }
+]

@@ -1,0 +1,364 @@
+[
+    {
+        "id": 8,
+        "name": "Barbell Squat",
+        "description": "<h1>Barbell Squat: A Comprehensive Guide</h1>\r\n<p>The barbell squat is a fundamental strength training exercise that targets multiple muscle groups, including the quadriceps, hamstrings, glutes, and lower back. This full-body workout provides numerous benefits, such as increased power, endurance, and stability.</p>\r\n<p>In this guide, you will learn how to set up, perform, and maintain proper technique while doing barbell squats, as well as things to avoid.</p>\r\n<h2>How To Setup:</h2>\r\n<ul>\r\n  <li>Choose the Right Weight: Begin with a light weight and gradually increase the weight as you become more comfortable with the movement.</li>\r\n  <li>Gather Equipment: You will need a barbell, weight plates, and a squat rack for this exercise.</li>\r\n  <li>Adjust the Squat Rack: Ensure the barbell is positioned at a height that allows you to stand with the barbell resting comfortably on your upper traps.</li>\r\n  <li>Load the Barbell: Add weight plates to the barbell using collars to secure the weights in place.</li>\r\n  <li>Position Your Feet: Stand with your feet shoulder-width apart, facing forward.</li>\r\n  <li>Grip the Barbell: Grasp the barbell with both hands, using a grip that is slightly wider than shoulder-width.</li>\r\n</ul>\r\n<h2>How To Perform:</h2>\r\n<ul>\r\n  <li>Stand with your feet shoulder-width apart and the barbell resting on your upper traps.</li>\r\n  <li>Slowly bend your knees and lower your body, keeping your back straight and your head facing forward.</li>\r\n  <li>Continue lowering your body until your thighs are parallel to the floor, or lower if you are comfortable doing so.</li>\r\n  <li>Pause briefly at the bottom of the squat before pushing back up to the starting position.</li>\r\n  <li>Repeat for the desired number of repetitions.</li>\r\n</ul>\r\n<h2>Proper Technique:</h2>\r\n<ul>\r\n  <li>Keep Your Back Straight: Maintaining a straight back throughout the exercise helps to prevent injury and engages your lower back muscles.</li>\r\n  <li>Drive Through Your Heels: Focus on pushing through your heels as you rise from the bottom of the squat, keeping your weight over your feet.</li>\r\n  <li>Don\u2019t Let Your Knees Cave Inward: Keep your knees tracking over your toes and avoid letting them cave inward.</li>\r\n  <li>Breathe Properly: Exhale as you push up from the bottom of the squat and inhale as you lower yourself.</li>\r\n  <li>Avoid Rounding Your Shoulders: Keep your shoulders back and avoid rounding them forward as this can place strain on your neck and upper back.</li>\r\n</ul>\r\n<h2>Things to Avoid:</h2>\r\n<ul>\r\n  <li>Using Too Much Weight: Starting with a weight that is too heavy can compromise your form and increase the risk of injury.</li>\r\n  <li>Allowing Your Knees to Collapse Inward: This can place strain on your knee joints and compromise your stability.</li>\r\n  <li>Arching Your Lower Back: This can cause lower back pain and injury.</li>\r\n  <li>Rounding Your Shoulders: Keep your shoulders back and avoid rounding them forward as this can place strain on your neck and upper back.</li>\r\n  <li>Bouncing Out of the Bottom Position: Avoid bouncing out of the bottom position, as this can reduce the effectiveness of the exercise and increase the risk of injury.</li>\r\n  <li>Not Maintaining Proper Foot Position: Ensure your feet remain flat on the ground throughout the exercise, as elevating your heels or toes can impact your balance and stability.</li>\r\n</ul>",
+        "next": 1,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 9,
+                "name": "Glutes",
+                "description": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+            },
+            {
+                "id": 38,
+                "name": "Gluteus Maximus",
+                "description": ""
+            },
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            },
+            {
+                "id": 27,
+                "name": "Inner Thigh",
+                "description": ""
+            },
+            {
+                "id": 28,
+                "name": "Inner Quadriceps",
+                "description": ""
+            },
+            {
+                "id": 29,
+                "name": "Outer Quadricep",
+                "description": ""
+            },
+            {
+                "id": 50,
+                "name": "Groin",
+                "description": null
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [
+            {
+                "id": 15,
+                "youtube_link": "https://www.youtube.com/embed/UaoMSDN1j0A"
+            },
+            {
+                "id": 16,
+                "youtube_link": "https://www.youtube.com/embed/UaoMSDN1j0A"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand with your feet shoulder-width apart. Maintain the natural arch in your back, squeezing your shoulder blades and raising your chest."
+            },
+            {
+                "order": 2,
+                "text": "Grip the bar across your shoulders and support it on your upper back. Unwrack the bar by straightening your legs, and take a step back."
+            },
+            {
+                "order": 3,
+                "text": "Bend your knees as you lower the weight without altering the form of your back until your hips are below your knees."
+            },
+            {
+                "order": 4,
+                "text": "Raise the bar back to starting position, lift with your legs and exhale at the top."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-squat-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-barbell-squat-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-squat-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-barbell-squat-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_squat_front_male_D8Reerk.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_squat_back_male_8N8FMcQ.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_squat_front_female_qmz0qjE.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_squat_back_female_poC27dm.png"
+            }
+        ]
+    },
+    {
+        "id": 358,
+        "name": "Barbell Step Up",
+        "description": "",
+        "muscles": [
+            {
+                "id": 9,
+                "name": "Glutes",
+                "description": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+            },
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [
+            {
+                "id": 115,
+                "youtube_link": "https://www.youtube.com/embed/UaoMSDN1j0A"
+            },
+            {
+                "id": 116,
+                "youtube_link": "https://www.youtube.com/embed/UaoMSDN1j0A"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Begin by standing in front of a sturdy box or bench that is about knee-height, holding a barbell across your upper back and shoulders, using an overhand grip."
+            },
+            {
+                "order": 2,
+                "text": "Place your right foot on the box and push through the heel to lift your body up and onto the box."
+            },
+            {
+                "order": 3,
+                "text": "Step back down with your right foot."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_step_up_front_male_8BJcMHj.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_step_up_back_male_BCORmTY.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_step_up_front_female_WHvUsGp.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_step_up_back_female_2Gopfbr.png"
+            }
+        ]
+    },
+    {
+        "id": 305,
+        "name": "Barbell Sumo Deadlift",
+        "description": "<p><br></p>\r\n<h1>Barbell Sumo Deadlift: A Comprehensive Guide</h1>\r\n<h2>Setup</h2>\r\n<ul>\r\n  <li>Start by selecting an appropriate weight on the barbell</li>\r\n  <li>Position the barbell in front of your feet, making sure it is centered and directly under the bar</li>\r\n  <li>Stand with your feet slightly wider than hip-width apart, with your toes pointing outwards</li>\r\n  <li>Bend your knees and lower yourself until your shins touch the bar</li>\r\n  <li>Grip the bar with your hands, making sure they are positioned just outside your feet</li>\r\n  <li>Take a deep breath and tighten your core muscles to prepare for the lift</li>\r\n</ul>\r\n<h2>How to Perform</h2>\r\n<ul>\r\n  <li>Lift your chest, straighten your back, and look forward</li>\r\n  <li>Begin by driving through your heels and pushing your hips forward</li>\r\n  <li>Lift the bar off the ground by extending your hips and knees</li>\r\n  <li>Make sure to keep your chest lifted and your back straight throughout the lift</li>\r\n  <li>Once the bar reaches knee height, pause briefly before continuing the movement</li>\r\n  <li>Lower the bar back to the ground by reversing the movement, bending your hips and knees</li>\r\n  <li>Repeat the exercise for the desired number of repetitions</li>\r\n</ul>\r\n<h2>Technique</h2>\r\n<ul>\r\n  <li>Keep your feet flat on the ground and maintain your balance throughout the exercise</li>\r\n  <li>Avoid rounding your back, as this can cause injury and decrease your lifting efficiency</li>\r\n  <li>Keep your core tight and maintain good posture to prevent your lower back from arching</li>\r\n  <li>Use your legs and hips, not your arms or back, to lift the bar off the ground</li>\r\n  <li>Do not drop the bar, but rather control the descent back to the ground</li>\r\n</ul>\r\n<h2>Things to Avoid</h2>\r\n<ul>\r\n  <li>Using too much weight that may compromise your technique and increase your risk of injury</li>\r\n  <li>Rounding your back or allowing your hips to drop too low during the lift</li>\r\n  <li>Bouncing the bar off the ground, as this can cause strain on your lower back</li>\r\n  <li>Lifting with your arms instead of using your legs and hips</li>\r\n  <li>Forgetting to warm up properly before starting the exercise</li>\r\n</ul>",
+        "muscles": [
+            {
+                "id": 13,
+                "name": "Lower back",
+                "description": "The erector spinae is another often-misunderstood muscle. The spinal erectors are thought of as the \u201clower back\u201d muscles. However, the spinal erectors travel the length of the entire spine. The upper fibers tuck under the latissimus dorsi and trapezius, and therefore are not visible to the naked eye."
+            },
+            {
+                "id": 9,
+                "name": "Glutes",
+                "description": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+            },
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [
+            {
+                "id": 65,
+                "youtube_link": "https://www.youtube.com/embed/C6aXGfIilEE"
+            },
+            {
+                "id": 66,
+                "youtube_link": "https://www.youtube.com/embed/C6aXGfIilEE"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stance width can vary with a sumo DL. Some prefer toes near the plates. Others prefer a more narrow stance to get more drive off the floor."
+            },
+            {
+                "order": 2,
+                "text": "Make sure your arms are inside your legs. The bar should be just over your mid-foot. Flatten your back and push your heels into the floor."
+            },
+            {
+                "order": 3,
+                "text": "Try to extend your knees and hips simultaneously."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-sumo-deadlift-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-barbell-sumo-deadlift-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-sumo-deadlift-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-barbell-sumo-deadlift-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_sumo_deadlift_front_male_v20zsqZ.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_sumo_deadlift_back_male_ww1NSiK.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_sumo_deadlift_front_female_lDrMUDV.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_sumo_deadlift_back_female_O84dl7R.png"
+            }
+        ]
+    },
+    {
+        "id": 314,
+        "name": "Barbell High Bar Squat",
+        "description": "<p><br></p>\r\n<h1>Barbell High Bar Squat: A Comprehensive Guide</h1>\r\n<h2>Setup</h2>\r\n<ul>\r\n  <li>Choose a barbell and weights that are appropriate for your strength level.</li>\r\n  <li>Place the barbell on a squat rack at shoulder height.</li>\r\n  <li> Stand facing the barbell with your feet shoulder-width apart.</li>\r\n  <li> Grasp the barbell with both hands, positioning your hands slightly wider than shoulder-width apart.</li>\r\n  <li>Step under the bar, positioning it on the back of your shoulders, just below the neck.</li>\r\n  <li> Make sure the bar is securely positioned on your shoulders.</li>\r\n  <li> Take a deep breath and tighten your core muscles.</li>\r\n</ul>\r\n<h2>How to Perform</h2>\r\n<ul>\r\n  <li> Begin by bending at the hips and knees, lowering your body down towards the ground.</li>\r\n  <li> Keep your chest lifted and your back straight, making sure not to round your back at any point.</li>\r\n  <li> Continue to lower your body until your thighs are parallel to the ground.</li>\r\n  <li> Push through your heels to straighten your legs, returning to the starting position.</li>\r\n  <li> Repeat for the desired number of repetitions.</li>\r\n</ul>\r\n<h2>Technique</h2>\r\n<ul>\r\n  <li> Keep your core engaged and your back straight throughout the entire exercise.</li>\r\n  <li> Make sure to keep your weight balanced evenly on both feet.</li>\r\n  <li> Focus on pushing through your heels, rather than your toes, when returning to the starting position.</li>\r\n  <li> Avoid allowing your knees to cave inwards, keep them aligned with your second toe.</li>\r\n</ul>\r\n<h2>Things to Avoid</h2>\r\n<ul>\r\n  <li> Rounding your back or allowing your chest to drop during the exercise.</li>\r\n  <li> Allowing your knees to cave inwards.</li>\r\n  <li> Using weights that are too heavy, leading to improper form or injury.</li>\r\n  <li> Not engaging your core throughout the exercise.</li>\r\n</ul>",
+        "muscles": [
+            {
+                "id": 9,
+                "name": "Glutes",
+                "description": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+            },
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [
+            {
+                "id": 11,
+                "youtube_link": "https://www.youtube.com/embed/NcMEyM7qyuk"
+            },
+            {
+                "id": 12,
+                "youtube_link": "https://www.youtube.com/embed/NcMEyM7qyuk"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Place the bar on top of your traps."
+            },
+            {
+                "order": 2,
+                "text": "Push your hips back and break at the knees. Push your elbows forward to keep yourself from getting pitched too far forward."
+            },
+            {
+                "order": 3,
+                "text": "Aim to get your hamstrings to parallel with the floor."
+            },
+            {
+                "order": 4,
+                "text": "Push your heels into the floor and squat back to a standing position."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-high-bar-squat-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-barbell-high-bar-squat-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-high-bar-squat-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-barbell-high-bar-squat-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_high_bar_squat_front_male_yc6RE4R.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_high_bar_squat_back_male_Lc9BCyT.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_high_bar_squat_front_female_6ae5g9T.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_high_bar_squat_back_female_84dSVGZ.png"
+            }
+        ]
+    }
+]

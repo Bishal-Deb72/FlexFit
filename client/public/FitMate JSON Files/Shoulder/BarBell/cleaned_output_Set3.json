@@ -1,0 +1,355 @@
+[
+    {
+        "id": 1054,
+        "name": "Barbell Behind The Neck Seated Overhead Press",
+        "description": null,
+        "next": 0,
+        "prev": 1,
+        "muscles": [
+            {
+                "id": 6,
+                "name": "Shoulders",
+                "description": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+            },
+            {
+                "id": 18,
+                "name": "Lateral Deltoid",
+                "description": ""
+            },
+            {
+                "id": 19,
+                "name": "Anterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 47,
+                "name": "Front Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Advanced"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Take a roughly shoulder width grip. There should be a straight line from your elbow to fist (vertical forearms)."
+            },
+            {
+                "order": 2,
+                "text": "Push your head foward and press the weight toward the ceiling by extending at the elbow joint and flexing at the shoulder joint."
+            },
+            {
+                "order": 3,
+                "text": "Press until your elbows are extended and push your head forward slightly."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-behind-the-neck-seated-overhead-press-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-barbell-behind-the-neck-seated-overhead-press-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-behind-the-neck-seated-overhead-press-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-barbell-behind-the-neck-seated-overhead-press-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_behind_the_neck_seated_overhead_press_front_male_g5MU4tm.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_behind_the_neck_seated_overhead_press_back_male_F7rwA9T.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_behind_the_neck_seated_overhead_press_front_female_WaXhPNA.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_behind_the_neck_seated_overhead_press_back_female_p4SXbzg.png"
+            }
+        ]
+    },
+    {
+        "id": 787,
+        "name": "Landmine Thruster",
+        "description": null,
+        "muscles": [
+            {
+                "id": 9,
+                "name": "Glutes",
+                "description": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+            },
+            {
+                "id": 38,
+                "name": "Gluteus Maximus",
+                "description": ""
+            },
+            {
+                "id": 6,
+                "name": "Shoulders",
+                "description": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+            },
+            {
+                "id": 19,
+                "name": "Anterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            },
+            {
+                "id": 28,
+                "name": "Inner Quadriceps",
+                "description": ""
+            },
+            {
+                "id": 29,
+                "name": "Outer Quadricep",
+                "description": ""
+            },
+            {
+                "id": 47,
+                "name": "Front Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Hold the bar with a goblet position."
+            },
+            {
+                "order": 2,
+                "text": "Push your hips back and sink into a squat."
+            },
+            {
+                "order": 3,
+                "text": "Push through your heels and squat back up. Use the momentum you generate at the legs to push the bar over head."
+            },
+            {
+                "order": 4,
+                "text": "Let the bar return to the goblet position before starting the next rep."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-landmine-thruster-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-landmine-thruster-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-landmine-thruster-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-landmine-thruster-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/landmine_thruster_front_male_iCS7Dz8.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/landmine_thruster_back_male_dr5LiR6.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/landmine_thruster_front_female_sE5YcjL.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/landmine_thruster_back_female_tgSYZMx.png"
+            }
+        ]
+    },
+    {
+        "id": 781,
+        "name": "Landmine Split Jerk",
+        "description": "",
+        "muscles": [
+            {
+                "id": 6,
+                "name": "Shoulders",
+                "description": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+            },
+            {
+                "id": 19,
+                "name": "Anterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 47,
+                "name": "Front Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Advanced"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Hold the bar over one shoulder. Stand with a shoulder width stance."
+            },
+            {
+                "order": 2,
+                "text": "Dip at the hips and knees, generate some momentum and press the bar."
+            },
+            {
+                "order": 3,
+                "text": "As you press, split your stance. Bring the leg of the working arm back and the other forward."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-landmine-split-jerk-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-landmine-split-jerk-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-landmine-split-jerk-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-landmine-split-jerk-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/landmine_split_jerk_front_male_IEmcLzp.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/landmine_split_jerk_back_male_6GcIoRa.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/landmine_split_jerk_front_female_iA8I0Us.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/landmine_split_jerk_back_female_3DQZ9Fe.png"
+            }
+        ]
+    },
+    {
+        "id": 780,
+        "name": "Landmine Snatch",
+        "description": null,
+        "muscles": [
+            {
+                "id": 13,
+                "name": "Lower back",
+                "description": "The erector spinae is another often-misunderstood muscle. The spinal erectors are thought of as the \u201clower back\u201d muscles. However, the spinal erectors travel the length of the entire spine. The upper fibers tuck under the latissimus dorsi and trapezius, and therefore are not visible to the naked eye."
+            },
+            {
+                "id": 9,
+                "name": "Glutes",
+                "description": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+            },
+            {
+                "id": 38,
+                "name": "Gluteus Maximus",
+                "description": ""
+            },
+            {
+                "id": 6,
+                "name": "Shoulders",
+                "description": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+            },
+            {
+                "id": 18,
+                "name": "Lateral Deltoid",
+                "description": ""
+            },
+            {
+                "id": 19,
+                "name": "Anterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 47,
+                "name": "Front Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Hold the end of the bar in front of you."
+            },
+            {
+                "order": 2,
+                "text": "Pop your hips, pull your elbows up to the ceiling, and get underneath the bar."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-landmine-snatch-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-landmine-snatch-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-landmine-snatch-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-landmine-snatch-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/landmine_snatch_front_male_cWV5CDC.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/landmine_snatch_back_male_kyedcUQ.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/landmine_snatch_front_female_hspGD64.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/landmine_snatch_back_female_JigEPkn.png"
+            }
+        ]
+    }
+]

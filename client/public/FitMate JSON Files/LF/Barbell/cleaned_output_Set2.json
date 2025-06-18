@@ -1,0 +1,345 @@
+[
+    {
+        "id": 338,
+        "name": "Barbell Landmine Row",
+        "description": "",
+        "next": 1,
+        "prev": 1,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 14,
+                "name": "Traps (mid-back)",
+                "description": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+            },
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            },
+            {
+                "id": 7,
+                "name": "Lats",
+                "description": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Position a barbell in a landmine or corner of a room and stand facing it with your feet shoulder-width apart."
+            },
+            {
+                "order": 2,
+                "text": "Grasp the end of the barbell with a neutral grip, keeping your arms straight and your shoulders relaxed."
+            },
+            {
+                "order": 3,
+                "text": "Bend at the hips and knees to lower your torso until it is almost parallel to the ground."
+            },
+            {
+                "order": 4,
+                "text": "Pull the barbell towards your chest, squeezing your shoulder blades together as you row the weight up."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_landmine_row_front_male_PhXiZdV.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_landmine_row_back_male_3bFKlAo.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_landmine_row_front_female_BlIZWw6.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_landmine_row_back_female_ILf4KZs.png"
+            }
+        ]
+    },
+    {
+        "id": 341,
+        "name": "Barbell Long Landmine Row",
+        "description": "",
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            },
+            {
+                "id": 7,
+                "name": "Lats",
+                "description": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Advanced"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Position a barbell in a landmine or corner of a room and stand facing it with your feet shoulder-width apart."
+            },
+            {
+                "order": 2,
+                "text": "Grasp the end of the barbell with an overhand grip, keeping your arms straight and your shoulders relaxed."
+            },
+            {
+                "order": 3,
+                "text": "Bend at the hips and knees to lower your torso until it is almost parallel to the ground."
+            },
+            {
+                "order": 4,
+                "text": "Pull the barbell towards your chest, squeezing your shoulder blades together as you row the weight up."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_long_landmine_row_front_male_ukGqxER.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_long_landmine_row_back_male_0VjIuFe.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_long_landmine_row_front_female_NGXiMni.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_long_landmine_row_back_female_ozZln9w.png"
+            }
+        ]
+    },
+    {
+        "id": 342,
+        "name": "Barbell Meadows Row",
+        "description": "",
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            },
+            {
+                "id": 7,
+                "name": "Lats",
+                "description": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Position a barbell in a landmine or corner of a room and stand facing sideways with a staggered stance and your feet shoulder-width apart."
+            },
+            {
+                "order": 2,
+                "text": "Grasp the end of the barbell with an overhand grip, keeping your arms straight and your shoulders relaxed."
+            },
+            {
+                "order": 3,
+                "text": "Bend at the hips and knees to lower your torso until it is almost parallel to the ground."
+            },
+            {
+                "order": 4,
+                "text": "Pull the barbell towards your chest, squeezing your shoulder blades together as you row the weight up."
+            },
+            {
+                "order": 5,
+                "text": "*Named after the late John Meadows"
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_meadows_row_front_male_p57RtO0.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_meadows_row_back_male_3JPXaRQ.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_meadows_row_front_female_fUVSZOq.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_meadows_row_back_female_pVchN4u.png"
+            }
+        ]
+    },
+    {
+        "id": 346,
+        "name": "Barbell Pronated Row",
+        "description": "",
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            },
+            {
+                "id": 7,
+                "name": "Lats",
+                "description": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Grab the barbell with an overhand grip. Hinge forward while keeping your back flat until your torso is about parallel with the ground."
+            },
+            {
+                "order": 2,
+                "text": "Let your arms hang freely."
+            },
+            {
+                "order": 3,
+                "text": "Pull the bar to your torso while tucking your elbows in slightly."
+            },
+            {
+                "order": 4,
+                "text": "Extend your elbows fully before initiating the next rep."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_pronated_row_front_male_alqLAtz.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_pronated_row_back_male_nW3O3bQ.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_pronated_row_front_female_JuxP3QB.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_pronated_row_back_female_SWqQZTh.png"
+            }
+        ]
+    }
+]

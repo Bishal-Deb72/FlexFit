@@ -1,0 +1,342 @@
+[
+    {
+        "id": 298,
+        "name": "Barbell Front Squat Olympic",
+        "description": null,
+        "next": 0,
+        "prev": 1,
+        "muscles": [
+            {
+                "id": 12,
+                "name": "Abdominals",
+                "description": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the \u201c6 pack,\u201d however, this is only one part of the abdominals."
+            },
+            {
+                "id": 9,
+                "name": "Glutes",
+                "description": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+            },
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Advanced"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Measure your hands by the markings on the bar to make sure you're even. Then throw your elbows underneath the bar."
+            },
+            {
+                "order": 2,
+                "text": "The bar should be set so high on your shoulders it digs into your neck a bit. Make sure to push your elbows up to the ceiling for the entire rep. To make sure you don't get too pitched forward."
+            },
+            {
+                "order": 3,
+                "text": "Use the squat stance you would use for a back or goblet squat. Push your hips back to initiate the squat. Break at the knees until you hit parallel depth."
+            },
+            {
+                "order": 4,
+                "text": "Squat back up to a standing position."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-front-squat-olympic-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-barbell-front-squat-olympic-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-front-squat-olympic-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-barbell-front-squat-olympic-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_front_squat_olympic_front_male_DoLYVon.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_front_squat_olympic_back_male_MYfXCuZ.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_front_squat_olympic_front_female_5WiaQkP.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_front_squat_olympic_back_female_gqdUC8a.png"
+            }
+        ]
+    },
+    {
+        "id": 1524,
+        "name": "Barbell Kickstand Squat",
+        "description": null,
+        "muscles": [
+            {
+                "id": 9,
+                "name": "Glutes",
+                "description": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+            },
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Advanced"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand with feet hip-width apart, one foot slightly behind. Bar on your back."
+            },
+            {
+                "order": 2,
+                "text": "Lower into a squat, keeping weight on front heel."
+            },
+            {
+                "order": 3,
+                "text": "Return to standing, engaging glutes and core."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-kickstand-squat-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-barbell-kickstand-squat-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-kickstand-squat-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-barbell-kickstand-squat-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_kickstand_squat_front_male.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_kickstand_squat_back_male.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_kickstand_squat_front_female.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_kickstand_squat_back_female.png"
+            }
+        ]
+    },
+    {
+        "id": 1057,
+        "name": "Barbell Front Squat With Straps",
+        "description": null,
+        "muscles": [
+            {
+                "id": 9,
+                "name": "Glutes",
+                "description": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+            },
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Measure your shoulders against the bar to make sure you're even. Wrap a pair of lifting straps around the bar. Hold the ends of the straps. Throw your shoulders under the bar. The bar should be digging into your neck slightly."
+            },
+            {
+                "order": 2,
+                "text": "Make sure to push your elbows up to the ceiling for the entire rep. To make sure you don't get too pitched forward."
+            },
+            {
+                "order": 3,
+                "text": "Use the squat stance you would use for a back or goblet squat. Push your hips back to initiate the squat. Break at the knees until you hit parallel depth."
+            },
+            {
+                "order": 4,
+                "text": "Squat back up to a standing position."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-front-squat-with-straps-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-barbell-front-squat-with-straps-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-front-squat-with-straps-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-barbell-front-squat-with-straps-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_front_squat_with_straps_front_male_WfjJxJB.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_front_squat_with_straps_back_male_2MXHM5v.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_front_squat_with_straps_front_female_JORVwaA.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_front_squat_with_straps_back_female_C43gxU7.png"
+            }
+        ]
+    },
+    {
+        "id": 787,
+        "name": "Landmine Thruster",
+        "description": null,
+        "muscles": [
+            {
+                "id": 9,
+                "name": "Glutes",
+                "description": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+            },
+            {
+                "id": 38,
+                "name": "Gluteus Maximus",
+                "description": ""
+            },
+            {
+                "id": 6,
+                "name": "Shoulders",
+                "description": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+            },
+            {
+                "id": 19,
+                "name": "Anterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            },
+            {
+                "id": 28,
+                "name": "Inner Quadriceps",
+                "description": ""
+            },
+            {
+                "id": 29,
+                "name": "Outer Quadricep",
+                "description": ""
+            },
+            {
+                "id": 47,
+                "name": "Front Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Hold the bar with a goblet position."
+            },
+            {
+                "order": 2,
+                "text": "Push your hips back and sink into a squat."
+            },
+            {
+                "order": 3,
+                "text": "Push through your heels and squat back up. Use the momentum you generate at the legs to push the bar over head."
+            },
+            {
+                "order": 4,
+                "text": "Let the bar return to the goblet position before starting the next rep."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-landmine-thruster-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-landmine-thruster-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-landmine-thruster-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-landmine-thruster-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/landmine_thruster_front_male_iCS7Dz8.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/landmine_thruster_back_male_dr5LiR6.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/landmine_thruster_front_female_sE5YcjL.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/landmine_thruster_back_female_tgSYZMx.png"
+            }
+        ]
+    }
+]

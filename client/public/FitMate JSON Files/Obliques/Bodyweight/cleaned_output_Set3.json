@@ -1,0 +1,270 @@
+[
+    {
+        "id": 1540,
+        "name": "Oblique Jackknife",
+        "description": null,
+        "next": 0,
+        "prev": 1,
+        "muscles": [
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Bodyweight"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lie on your side, legs straight, hand behind head."
+            },
+            {
+                "order": 2,
+                "text": "Lift both legs and upper body simultaneously."
+            },
+            {
+                "order": 3,
+                "text": "Squeeze obliques, then lower back down. Repeat on both sides."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-oblique-jackknife-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-oblique-jackknife-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-oblique-jackknife-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-oblique-jackknife-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/oblique_jackknife_front_male.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/oblique_jackknife_back_male.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/oblique_jackknife_front_female.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/oblique_jackknife_back_female.png"
+            }
+        ]
+    },
+    {
+        "id": 1538,
+        "name": "Reach And Catch",
+        "description": null,
+        "muscles": [
+            {
+                "id": 12,
+                "name": "Abdominals",
+                "description": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the \u201c6 pack,\u201d however, this is only one part of the abdominals."
+            },
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Bodyweight"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lay flat on your back with both hands over one leg."
+            },
+            {
+                "order": 2,
+                "text": "Reach toward your knee flexing your abs and obliques."
+            },
+            {
+                "order": 3,
+                "text": "Do the prescribed amount of reps, then switch sides."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-reach-and-catch-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-reach-and-catch-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-reach-and-catch-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-reach-and-catch-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/reach_and_catch_front_male.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/reach_and_catch_back_male.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/reach_and_catch_front_female.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/reach_and_catch_back_female.png"
+            }
+        ]
+    },
+    {
+        "id": 1537,
+        "name": "Windshield Wiper",
+        "description": null,
+        "muscles": [
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Bodyweight"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lie on back, arms out, legs together."
+            },
+            {
+                "order": 2,
+                "text": "Lift legs to 90 degrees."
+            },
+            {
+                "order": 3,
+                "text": "Rotate legs side to side, keeping shoulders grounded."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-windshield-wiper-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-windshield-wiper-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-windshield-wiper-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-windshield-wiper-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/windshield_wiper_front_male.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/windshield_wiper_back_male.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/windshield_wiper_front_female.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/windshield_wiper_back_female.png"
+            }
+        ]
+    },
+    {
+        "id": 1572,
+        "name": "Bodyweight Thoracic Spine Rotation",
+        "description": null,
+        "muscles": [
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Bodyweight"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start on all fours then bring your chest to the ground. Place one hand on the ground in front of you. The other hand behind your head/ear."
+            },
+            {
+                "order": 2,
+                "text": "On the side of the hand that is behind your head, rotate until your elbow is pointed at the ceiling and then hold this position."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-bodyweight-thoracic-spine-rotation-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-bodyweight-thoracic-spine-rotation-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-bodyweight-thoracic-spine-rotation-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-bodyweight-thoracic-spine-rotation-side.mp4"
+            }
+        ],
+        "body_map_images": []
+    }
+]

@@ -1,0 +1,343 @@
+[
+    {
+        "id": 316,
+        "name": "Dumbbell Wrist Extension",
+        "description": "<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><font color=\"#000000\" face=\"Arial\"><span style=\"font-size: 36px; white-space: pre-wrap;\"><b>Dumbbell Wrist Extension Detailed How To:</b></span></font></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b><br></b></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b>Setup</b></span></p><p><b style=\"font-weight:normal;\" id=\"docs-internal-guid-cb1a3cfe-7fff-8055-9e1a-87e8061b0e84\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">You will need a box or a bench. You can either take a seated position (like in our demo video), or a kneeling position.&nbsp;</span></p><ul style=\"margin-top:0;margin-bottom:0;padding-inline-start:48px;\"><li dir=\"ltr\" style=\"list-style-type:disc;font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;\" aria-level=\"1\"><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\" role=\"presentation\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">In the seated position, put your feet shoulder width, and drape your forearms over your knees.&nbsp;</span></p></li><li dir=\"ltr\" style=\"list-style-type:disc;font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;\" aria-level=\"1\"><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\" role=\"presentation\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">In a kneeling position, drape your forearms over the edge of the box, or a bench. Your forearms should be far enough off the box or bench that you can fully flex your wrist at the bottom of the range of motion.</span></p></li></ul><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b><br></b></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b>Performing</b></span></p><p><br></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Let the dumbbells fully flex your wrists before initiating the concentric. Extend your wrists and point your fists up towards the ceiling as high as you possibly can. You should feel the forearm muscles on the top of your arm contract really hard. Make sure to focus on the range of motion with this exercise. It can be very easy to begin doing partial range of motion reps on this exercise. Like any other exercise, when you can no longer perform the adequate range of motion end the set</span></p>",
+        "next": 1,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            },
+            {
+                "id": 25,
+                "name": "Wrist Extensors",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 47,
+                "youtube_link": "https://www.youtube.com/embed/lyMpCIUE6ms"
+            },
+            {
+                "id": 48,
+                "youtube_link": "https://www.youtube.com/embed/lyMpCIUE6ms"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Grab two dumbbells with an overhand grip and lay your forearms across your knees."
+            },
+            {
+                "order": 2,
+                "text": "Let your wrists flex fully, then extend your wrists."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-wrist-extension-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-wrist-extension-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-wrist-extension-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-wrist-extension-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_wrist_extension_front_male_s0Q9Mh5.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_wrist_extension_back_male_SnkuXQw.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_wrist_extension_front_female_U6FnUBc.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_wrist_extension_back_female_LSBUll6.png"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Dumbbell Wrist Curl",
+        "description": "<p><b><span style=\"font-size: 36px;\">How To Perform The Dumbbell Wrist Curl</span></b></p><p><b><span style=\"font-size: 24px;\">Setup</span></b></p><p>You will need a box or a bench. You can either take a seated position (like in our demo video), or a kneeling position.&nbsp;</p><ul><li>In the seated position, put your feet shoulder width, and drape your forearms over your knees.&nbsp;</li><li>In a kneeling position, drape your forearms over the edge of the box, or a bench. Your forearms should be far enough off the box or bench that you can fully flex your wrist at the bottom of the range of motion.</li></ul><p><br></p><p><b><span style=\"font-size: 24px;\">Performing</span></b></p><p>Let the dumbbells fully extend your wrists before initiating the concentric. Flex your wrists and point your fists up towards the ceiling as high as you possibly can. You should feel the forearm muscles on the bottom of your arm contract really hard. Make sure to focus on the range of motion with this exercise. It can be very easy to begin doing partial range of motion reps on this exercise. Like any other exercise, when you can no longer perform the adequate range of motion end the set&nbsp;</p>",
+        "muscles": [
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            },
+            {
+                "id": 26,
+                "name": "Wrist Flexors",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "Underhand",
+                "description": "Supinated"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 55,
+                "youtube_link": "https://www.youtube.com/embed/S-ynXc4M-mY"
+            },
+            {
+                "id": 56,
+                "youtube_link": "https://www.youtube.com/embed/S-ynXc4M-mY"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Grip the dumbbell with your palm facing upwards with your forearm rested against the bench."
+            },
+            {
+                "order": 2,
+                "text": "Slowly curl your wrist upwards in a semicircular motion."
+            },
+            {
+                "order": 3,
+                "text": "Return to starting position and repeat."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-wrist-curl-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-wrist-curl-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-wrist-curl-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-wrist-curl-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_wrist_curl_front_male_qqMGzf3.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_wrist_curl_back_male_HQrdt6Z.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_wrist_curl_front_female_rpgaziz.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_wrist_curl_back_female_RgzY5W8.png"
+            }
+        ]
+    },
+    {
+        "id": 282,
+        "name": "Dumbbell Row Unilateral",
+        "description": null,
+        "muscles": [
+            {
+                "id": 14,
+                "name": "Traps (mid-back)",
+                "description": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+            },
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            },
+            {
+                "id": 7,
+                "name": "Lats",
+                "description": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [
+            {
+                "id": 3,
+                "youtube_link": "https://www.youtube.com/embed/H72k2iGxX_g?si=slLH7i2Pn4Em-w5A"
+            },
+            {
+                "id": 4,
+                "youtube_link": "https://www.youtube.com/embed/H72k2iGxX_g?si=slLH7i2Pn4Em-w5A"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Brace your off arm against something stable (bench, box). Stagger your stance so your leg on the side of your working arm is back."
+            },
+            {
+                "order": 2,
+                "text": "Try to get your torso to parallel with the ground. That will extend your range of motion."
+            },
+            {
+                "order": 3,
+                "text": "Let your arm hang freely and then pull your elbow back. Imagine you've got a tennis ball in your armpit and squeeze it each rep."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-row-unilateral-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-row-unilateral-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-row-unilateral-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-row-unilateral-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_row_unilateral_front_male_DgFezcw.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_row_unilateral_back_male_rboUDbx.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_row_unilateral_front_female_eaenSPY.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_row_unilateral_back_female_ZEye1TG.png"
+            }
+        ]
+    },
+    {
+        "id": 281,
+        "name": "Dumbbell Reverse Curl",
+        "description": null,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            },
+            {
+                "id": 25,
+                "name": "Wrist Extensors",
+                "description": ""
+            },
+            {
+                "id": 26,
+                "name": "Wrist Flexors",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 215,
+                "youtube_link": "https://www.youtube.com/embed/10AFVfSUzsU"
+            },
+            {
+                "id": 216,
+                "youtube_link": "https://www.youtube.com/embed/10AFVfSUzsU"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Grab the dumbbells with a pronated (overhand) grip. You can do this exercise thumbless if it's more comfortable on your wrists."
+            },
+            {
+                "order": 2,
+                "text": "Flex at the elbows until your biceps touch your forearms. Try not to let your elbows flair outward."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-reverse-curl-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-reverse-curl-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-reverse-curl-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-reverse-curl-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_reverse_curl_front_male_pJwkhUN.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_reverse_curl_back_male_ZoqJgMo.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_reverse_curl_front_female_1bLvI1n.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_reverse_curl_back_female_8bF73Zq.png"
+            }
+        ]
+    }
+]

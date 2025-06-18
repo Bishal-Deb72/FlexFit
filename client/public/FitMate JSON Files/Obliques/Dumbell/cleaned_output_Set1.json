@@ -1,0 +1,304 @@
+[
+    {
+        "id": 289,
+        "name": "Dumbbell Russian Twist",
+        "description": "",
+        "next": 1,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 12,
+                "name": "Abdominals",
+                "description": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the \u201c6 pack,\u201d however, this is only one part of the abdominals."
+            },
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 221,
+                "youtube_link": "https://www.youtube.com/embed/63QN-Id-p94?si=kQcOykoNZ-0utrIY"
+            },
+            {
+                "id": 222,
+                "youtube_link": "https://www.youtube.com/embed/63QN-Id-p94?si=kQcOykoNZ-0utrIY"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Sit on the floor and flex your knees and hips to a 90 degree angle."
+            },
+            {
+                "order": 2,
+                "text": "Your feet should be hovering off the ground. (If that's too hard start with heels on the floor)"
+            },
+            {
+                "order": 3,
+                "text": "Rotate your upper spine to engage your obliques."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-russian-twist-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-russian-twist-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-russian-twist-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-russian-twist-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_russian_twist_front_male_8k5N0G5.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_russian_twist_back_male_BHEWT0U.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_russian_twist_front_female_PLtrYw8.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_russian_twist_back_female_jgMxIxK.png"
+            }
+        ]
+    },
+    {
+        "id": 287,
+        "name": "Dumbbell Wood Chopper",
+        "description": "<p><b><span style=\"font-size: 36px;\">How To Perform The Dumbbell Wood Chopper</span></b></p><p><b><span style=\"font-size: 24px;\">Setup</span></b></p><p>Grab a single dumbbell and hold it horizontally with the ends of the dumbbells in each hand. Use a wider than shoulder width stance. We have to hit both sides of the obliques with this exercise. So we will begin with going right to left. You can perform either side first.</p><p>Start with the dumbbell on the outside of your right quadricep.</p><p><b><span style=\"font-size: 24px;\">Performing&nbsp;</span></b></p><p>Think explosively when performing this movement. Rotate at the spine bringing the dumbbell from your right quadricep up to roughly eye level on your left side. Keep your elbows mostly extended. Do not rotate too far. The dumbbell should not go behind your body. Going behind the body will put too much stress on your lumbar spine.&nbsp;</p><p>Also, as you are rotating at the spine, pivot your back foot. Your right foot in this example. Imagine you are performing a baseball bat or golf swing. Pivoting that back foot will keep your back knee from twisting too far.</p><div><br></div>",
+        "muscles": [
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 185,
+                "youtube_link": "https://www.youtube.com/embed/63QN-Id-p94?si=kQcOykoNZ-0utrIY"
+            },
+            {
+                "id": 186,
+                "youtube_link": "https://www.youtube.com/embed/63QN-Id-p94?si=kQcOykoNZ-0utrIY"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand with a shoulder width stance. Begin with the dumbbell near one of your quads."
+            },
+            {
+                "order": 2,
+                "text": "Rotate at your upper spine to engage the obliques."
+            },
+            {
+                "order": 3,
+                "text": "You can pivot your back foot to keep from generating too much torque at the knee."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-wood-chopper-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-wood-chopper-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-wood-chopper-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-wood-chopper-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_wood_chopper_front_male_agKZUXW.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_wood_chopper_back_male_hbWqqtx.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_wood_chopper_front_female_l2H2Vf3.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_wood_chopper_back_female_SXJQmox.png"
+            }
+        ]
+    },
+    {
+        "id": 429,
+        "name": "Dumbbell Half Kneeling Wood Chopper",
+        "description": null,
+        "muscles": [
+            {
+                "id": 12,
+                "name": "Abdominals",
+                "description": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the \u201c6 pack,\u201d however, this is only one part of the abdominals."
+            },
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Take a half kneeling position. Start with the dumbbell by your knee on the side of the kneeling leg."
+            },
+            {
+                "order": 2,
+                "text": "Rotate at the upper spine, holding the dumbbell away from your body with nearly extended elbows."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-half-kneeling-wood-chopper-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-half-kneeling-wood-chopper-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-half-kneeling-wood-chopper-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-half-kneeling-wood-chopper-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_half_kneeling_wood_chopper_front_male_49Yu3kp.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_half_kneeling_wood_chopper_back_male_2oElrul.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_half_kneeling_wood_chopper_front_female_3Bw3tli.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_half_kneeling_wood_chopper_back_female_1QqRp0o.png"
+            }
+        ]
+    },
+    {
+        "id": 434,
+        "name": "Dumbbell Kneeling Wood Chopper",
+        "description": null,
+        "muscles": [
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start in a kneeling position with your shoulder blades pulled back."
+            },
+            {
+                "order": 2,
+                "text": "The dumbbell should begin by one of your hips."
+            },
+            {
+                "order": 3,
+                "text": "Rotate at the spine and bring the dumbbell from your hip, 180 degrees around your body. The dumbbell should land at eye level."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-kneeling-wood-chopper-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-kneeling-wood-chopper-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-kneeling-wood-chopper-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-kneeling-wood-chopper-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_kneeling_wood_chopper_front_male_M7pEnlQ.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_kneeling_wood_chopper_back_male_XdXcuX3.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_kneeling_wood_chopper_front_female_NJdG3Iv.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_kneeling_wood_chopper_back_female_MKIMfSY.png"
+            }
+        ]
+    }
+]

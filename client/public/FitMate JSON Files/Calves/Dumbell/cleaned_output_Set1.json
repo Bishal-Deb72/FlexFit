@@ -1,0 +1,161 @@
+[
+    {
+        "id": 294,
+        "name": "Dumbbell Calf Raise",
+        "description": "",
+        "next":0,
+        "prev":0,
+        "muscles": [
+            {
+                "id": 11,
+                "name": "Calves",
+                "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+            },
+            {
+                "id": 33,
+                "name": "Gastrocnemius",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            },
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 273,
+                "youtube_link": "https://www.youtube.com/embed/qVqTCzHFePk?si=_s6R06ziBqxsPuVE"
+            },
+            {
+                "id": 274,
+                "youtube_link": "https://www.youtube.com/embed/qVqTCzHFePk?si=_s6R06ziBqxsPuVE"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand tall with your feet on the ground. You can put the the balls of your feet on top of a plate to extend the range of motion."
+            },
+            {
+                "order": 2,
+                "text": "Imagine you have a string attached to your heels and pull your heels up toward the ceiling."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-calf-raise-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-calf-raise-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-calf-raise-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-calf-raise-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_calf_raise_front_male_J9bprXv.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_calf_raise_back_male_vTBWsTk.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_calf_raise_front_female_eN7rykF.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_calf_raise_back_female_L24F1ny.png"
+            }
+        ]
+    },
+    {
+        "id": 448,
+        "name": "Dumbbell Seated Calf Raise",
+        "description": null,
+        "muscles": [
+            {
+                "id": 11,
+                "name": "Calves",
+                "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+            },
+            {
+                "id": 32,
+                "name": "Soleus",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start by sitting on a bench with your feet shoulder-width apart and a dumbbell in each hand placed on each leg."
+            },
+            {
+                "order": 2,
+                "text": "From this starting position, raise your heels as high as you can by pushing up through your toes."
+            },
+            {
+                "order": 3,
+                "text": "Slowly lower your heels back down to the starting position, and repeat for the desired number of repetitions."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-seated-calf-raise-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-seated-calf-raise-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-seated-calf-raise-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-seated-calf-raise-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_seated_calf_raise_front_male_gAud0S7.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_seated_calf_raise_back_male_dAZoDNe.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_seated_calf_raise_front_female_JZmSKWu.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_seated_calf_raise_back_female_VrTRLf6.png"
+            }
+        ]
+    }
+]

@@ -1,0 +1,321 @@
+[
+    {
+        "id": 34,
+        "name": "Machine Seated Calf Raises",
+        "description": "",
+        "next":0,
+        "prev":0,
+        "muscles": [
+            {
+                "id": 11,
+                "name": "Calves",
+                "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+            },
+            {
+                "id": 32,
+                "name": "Soleus",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Machine"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 269,
+                "youtube_link": "https://www.youtube.com/embed/qVqTCzHFePk?si=_s6R06ziBqxsPuVE"
+            },
+            {
+                "id": 270,
+                "youtube_link": "https://www.youtube.com/embed/qVqTCzHFePk?si=_s6R06ziBqxsPuVE"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Get comfortable on the machine, then place your lower thighs beneath the padded lever. Place your toes and the balls of your feet onto the foot supports."
+            },
+            {
+                "order": 2,
+                "text": "Prevent the weight from slipping forward by gripping the handles, and release the safety bar. Lower the weight until your calves are extended."
+            },
+            {
+                "order": 3,
+                "text": "Push your heels up to lift the padded lever and hold the contracted position, then slowly lower back down to the starting position. Repeat."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_seated_calf_raises_front_male_QmKRTpF.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_seated_calf_raises_back_male_whDYjMs.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_seated_calf_raises_front_female_V04Fq3U.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_seated_calf_raises_back_female_eIgYgTx.png"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Machine Standing Calf Raises",
+        "description": "<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 36px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b>How To Use The Standing Calve Raise Machine</b></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 36px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b><br></b></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b>Setup</b></span></p><p><b style=\"font-weight:normal;\" id=\"docs-internal-guid-44b2b53c-7fff-5dc0-2543-2a387f7f995f\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Adjust the height of the shoulder pads to where you have to do a miniature squat to get the weight in position to begin the set. This will help you get a longer range of motion.</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Place the balls of your feet on the edge of the platform and perform your mini squat to start the set.</span></p><p><b style=\"font-weight:normal;\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b>Performing&nbsp;The Standing Calve Raise</b></span></p><p><b style=\"font-weight:normal;\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Let the weight fully flex your ankles and look for what feels like a stretch in your calves at the bottom of each rep. Spend an extra second in this stretched position. There is some indication that stretching a muscle while under a load is great for muscle growth.</span></p><p><br></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Then initiate the concentric. Extend your ankles to the degree that your range of motion allows for. Imagine you have a string on both heels being pulled directly up toward the ceiling. When you have gone high enough, you should feel your calves contract hard. Spend an extra second in this contracted position before beginning the eccentric.</span></p>",
+        "muscles": [
+            {
+                "id": 11,
+                "name": "Calves",
+                "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+            },
+            {
+                "id": 33,
+                "name": "Gastrocnemius",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Machine"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 271,
+                "youtube_link": "https://www.youtube.com/embed/qVqTCzHFePk?si=_s6R06ziBqxsPuVE"
+            },
+            {
+                "id": 272,
+                "youtube_link": "https://www.youtube.com/embed/qVqTCzHFePk?si=_s6R06ziBqxsPuVE"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Adjust the machine in accordance with your height and place your shoulders underneath the padded lever."
+            },
+            {
+                "order": 2,
+                "text": "The balls of your feet should be supporting your weight on the calve block, your heels extending off of it."
+            },
+            {
+                "order": 3,
+                "text": "Extend your heels upwards while keeping your knees stationary, and pause at the contracted position."
+            },
+            {
+                "order": 4,
+                "text": "Slowly return to the starting position. Repeat."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_standing_calf_raises_front_male_eY08yfs.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_standing_calf_raises_back_male_g0bSZSo.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_standing_calf_raises_front_female_KnuPJb6.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_standing_calf_raises_back_female_ecE71bw.png"
+            }
+        ]
+    },
+    {
+        "id": 1501,
+        "name": "Machine Horizontal Leg Press Calf Jump",
+        "description": null,
+        "muscles": [
+            {
+                "id": 11,
+                "name": "Calves",
+                "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Machine"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start with your feet shoulder-width apart and your knees slightly bent."
+            },
+            {
+                "order": 2,
+                "text": "Shift your weight onto the balls of your feet and raise stay flat footed. Using your calf muscles, mimic a jumping motion but don't leave the platform."
+            },
+            {
+                "order": 3,
+                "text": "Explode onto your toes and hold for a second."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-horizontal-leg-press-calf-jump-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-machine-horizontal-leg-press-calf-jump-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-horizontal-leg-press-calf-jump-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-machine-horizontal-leg-press-calf-jump-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_horizontal_leg_press_calf_jump_front_male_bmfK9SQ.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_horizontal_leg_press_calf_jump_back_male_hjilkqo.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_horizontal_leg_press_calf_jump_front_female_6Lm2bNz.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_horizontal_leg_press_calf_jump_back_female_fJLsAuO.png"
+            }
+        ]
+    },
+    {
+        "id": 1502,
+        "name": "Machine Horizontal Leg Press Calf Raise",
+        "description": null,
+        "muscles": [
+            {
+                "id": 11,
+                "name": "Calves",
+                "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+            },
+            {
+                "id": 33,
+                "name": "Gastrocnemius",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Machine"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Adjust the machine in accordance with your height."
+            },
+            {
+                "order": 2,
+                "text": "The balls of your feet should be supporting your weight on the bottom of the platform, your heels extending off of it."
+            },
+            {
+                "order": 3,
+                "text": "Extend your heels upwards while keeping your knees stationary, and pause at the contracted position."
+            },
+            {
+                "order": 4,
+                "text": "Slowly return to the starting position. Repeat."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-horizontal-leg-press-calf-raise-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-machine-horizontal-leg-press-calf-raise-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-horizontal-leg-press-calf-raise-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-machine-horizontal-leg-press-calf-raise-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_horizontal_leg_press_calf_raise_front_male_vHd0dqt.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_horizontal_leg_press_calf_raise_back_male_yakTce2.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_horizontal_leg_press_calf_raise_front_female_5SuDnAj.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_horizontal_leg_press_calf_raise_back_female_vwxRagq.png"
+            }
+        ]
+    }
+]

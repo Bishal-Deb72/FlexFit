@@ -1,0 +1,296 @@
+[
+    {
+        "id": 629,
+        "name": "Corpse Pose",
+        "description": "",
+        "next": 1,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lie down on your back with your legs straight and arms at your sides."
+            },
+            {
+                "order": 2,
+                "text": "Close your eyes and take deep breaths in through your nose and out through your mouth."
+            },
+            {
+                "order": 3,
+                "text": "Allow your body to completely relax and let go of any tension."
+            },
+            {
+                "order": 4,
+                "text": "Hold for several minutes and then slowly come back up to a seated position."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-core-pose-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-core-pose-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-core-pose-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-core-pose-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/corpse_pose_front_male_Lh0ZOjZ.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/corpse_pose_back_male_bVooGhD.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/corpse_pose_front_female_4KWpnEc.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/corpse_pose_back_female_3WJ8tI9.png"
+            }
+        ]
+    },
+    {
+        "id": 633,
+        "name": "Crow Pose",
+        "description": "",
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Advanced"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Begin in a squatting position with your feet together and your knees apart."
+            },
+            {
+                "order": 2,
+                "text": "Place your hands on the floor in front of you, shoulder-width apart. Keep your arms straight and engage your core."
+            },
+            {
+                "order": 3,
+                "text": "Slowly shift your weight forward and lift your feet off the ground, coming onto your tiptoes."
+            },
+            {
+                "order": 4,
+                "text": "Bend your elbows and lean your weight onto your hands, shifting your knees towards your upper arms."
+            },
+            {
+                "order": 5,
+                "text": "Gently lift one foot off the ground, and then the other, balancing on your hands. Hold the pose for a few breaths before releasing back to the ground."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-crow-pose-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-crow-pose-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-crow-pose-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-crow-pose-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/crow_pose_front_male_tnvzTog.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/crow_pose_back_male_Jt7bCh3.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/crow_pose_front_female_HKJ0S0w.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/crow_pose_back_female_XrRkwZZ.png"
+            }
+        ]
+    },
+    {
+        "id": 635,
+        "name": "Downward Dog",
+        "description": "",
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Begin on your hands and knees with your hands shoulder-width apart and your knees hip-width apart."
+            },
+            {
+                "order": 2,
+                "text": "Spread your fingers wide and press down into your palms, making sure that your fingers are evenly spaced and facing forward."
+            },
+            {
+                "order": 3,
+                "text": "Tuck your toes under and lift your knees off the ground, straightening your legs as much as possible."
+            },
+            {
+                "order": 4,
+                "text": "Press your hips up and back, bringing your body into an inverted \"V\" shape."
+            },
+            {
+                "order": 5,
+                "text": "Keep your arms straight and your shoulder blades spread apart, and try to press your heels down towards the ground."
+            },
+            {
+                "order": 6,
+                "text": "Hold the pose for several breaths, then release and return to your starting position."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-downward-dog-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-downward-dog-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-downward-dog-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-downward-dog-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/downward_dog_front_male_XSdQoti.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/downward_dog_back_male_2dpfv9E.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/downward_dog_front_female_3sBLS39.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/downward_dog_back_female_TiAm5Il.png"
+            }
+        ]
+    },
+    {
+        "id": 637,
+        "name": "Downward Dog With Fingers Facing Feet",
+        "description": "",
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Begin in the same starting position as the previous exercise, with your hands and knees on the ground."
+            },
+            {
+                "order": 2,
+                "text": "Spread your fingers wide and turn your hands so that your fingers are facing towards your feet."
+            },
+            {
+                "order": 3,
+                "text": "Tuck your toes under and lift your knees off the ground, straightening your legs as much as possible."
+            },
+            {
+                "order": 4,
+                "text": "Press your hips up and back, bringing your body into an inverted \"V\" shape."
+            },
+            {
+                "order": 5,
+                "text": "Keep your arms straight and your shoulder blades spread apart, and try to press your heels down towards the ground."
+            },
+            {
+                "order": 6,
+                "text": "Hold the pose for several breaths, then release and return to your starting position."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-downward-dog-with-fingers-facing-feet-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-downward-dog-with-fingers-facing-feet-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-downward-dog-with-fingers-facing-feet-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-downward-dog-with-fingers-facing-feet-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/downward_dog_with_fingers_facing_feet_front_male_LaOY441.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/downward_dog_with_fingers_facing_feet_back_male_DAA6O2r.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/downward_dog_with_fingers_facing_feet_front_female_8hYuUAh.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/downward_dog_with_fingers_facing_feet_back_female_jrqJ9b7.png"
+            }
+        ]
+    }
+]

@@ -1,0 +1,280 @@
+[
+    {
+        "id": 1438,
+        "name": "Towel Knee Extension Hold",
+        "description": null,
+        "next":0,
+        "prev":1,
+        "muscles": [
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Sit on the floor and use your palms to lean back into."
+            },
+            {
+                "order": 2,
+                "text": "Place a rolled towel under your knee so it is slightly bent."
+            },
+            {
+                "order": 3,
+                "text": "Try to squeeze the towel between the back of your knee and the ground by extending the leg."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-knee-extension-seated-isometric-floor-towel-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-knee-extension-seated-isometric-floor-towel-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-knee-extension-seated-isometric-floor-towel-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-knee-extension-seated-isometric-floor-towel-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/towel_knee_extension_hold_front_male_NCsC3Ry.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/towel_knee_extension_hold_back_male_8DuhZFT.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/towel_knee_extension_hold_front_female_k8C0Z0F.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/towel_knee_extension_hold_back_female_dFLLpvv.png"
+            }
+        ]
+    },
+    {
+        "id": 1436,
+        "name": "Knee Extension Seated Partial",
+        "description": null,
+        "muscles": [
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Sit on a box or bench, but make sure that your upper leg is supported."
+            },
+            {
+                "order": 2,
+                "text": "Extend your leg fully but bend 1/3 of the way back down."
+            },
+            {
+                "order": 3,
+                "text": "Perform as many partial reps as indicated on your training program."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-knee-extension-seated-partial-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-knee-extension-seated-partial-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-knee-extension-seated-partial-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-knee-extension-seated-partial-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/knee_extension_seated_partial_front_male_G0cyIhD.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/knee_extension_seated_partial_back_male_9qutwDG.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/knee_extension_seated_partial_front_female_uvEMdGU.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/knee_extension_seated_partial_back_female_PiSrg2N.png"
+            }
+        ]
+    },
+    {
+        "id": 1399,
+        "name": "Clock Taps",
+        "description": null,
+        "muscles": [
+            {
+                "id": 9,
+                "name": "Glutes",
+                "description": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+            },
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Balance on one leg"
+            },
+            {
+                "order": 2,
+                "text": "Try to tap your targets with the toes of your suspended leg"
+            },
+            {
+                "order": 3,
+                "text": "The goal is to maintain balance while moving your leg towards the target and back"
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-clock-taps-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-clock-taps-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-clock-taps-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-clock-taps-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/clock_taps_front_male_9gOI229.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/clock_taps_back_male_t0e9NfO.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/clock_taps_front_female_IPmEHGz.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/clock_taps_back_female_rX65ceh.png"
+            }
+        ]
+    },
+    {
+        "id": 1371,
+        "name": "Femoral Nerve Mobilisation",
+        "description": null,
+        "muscles": [
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "While standing, bend your knee and grab your foot."
+            },
+            {
+                "order": 2,
+                "text": "Bring your knee forward while tucking your chin (head forward)."
+            },
+            {
+                "order": 3,
+                "text": "Pull the leg back while tilting your head backwards (look up)."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-femoral-nerve-mobilisation-standing-unilateral-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-femoral-nerve-mobilisation-standing-unilateral-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-femoral-nerve-mobilisation-standing-unilateral-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-femoral-nerve-mobilisation-standing-unilateral-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/femoral_nerve_mobilisation_front_male.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/femoral_nerve_mobilisation_back_male.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/femoral_nerve_mobilisation_front_female.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/femoral_nerve_mobilisation_back_female.png"
+            }
+        ]
+    }
+]

@@ -1,0 +1,147 @@
+[
+    {
+        "id": 1226,
+        "name": "Seated Wrist Flexor Stretch",
+        "description": null,
+        "next": 0,
+        "prev": 1,
+        "muscles": [
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            },
+            {
+                "id": 26,
+                "name": "Wrist Flexors",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Bring one arm in front of you palm facing up, elbow straight and shoulder relaxed."
+            },
+            {
+                "order": 2,
+                "text": "With your other hand hold onto the palm and force it into passive extension."
+            },
+            {
+                "order": 3,
+                "text": "This will stretch your wrist flexors."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-wrist-flexor-stretch-seated-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-wrist-flexor-stretch-seated-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-wrist-flexor-stretch-seated-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-wrist-flexor-stretch-seated-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_wrist_flexor_stretch_front_male_eYiaYQc.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_wrist_flexor_stretch_back_male_kMEC7kh.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_wrist_flexor_stretch_front_female_JwEsWgg.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_wrist_flexor_stretch_back_female_0Ml1jNQ.png"
+            }
+        ]
+    },
+    {
+        "id": 1234,
+        "name": "Ulnar Deviations",
+        "description": null,
+        "muscles": [
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand up straight holding a dowel/lever/weight in one hand."
+            },
+            {
+                "order": 2,
+                "text": "Hold the weight so it points behind you and towards the ground."
+            },
+            {
+                "order": 3,
+                "text": "Squeeze your grip to raise the weight."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-ulnar-deviations-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-ulnar-deviations-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-ulnar-deviations-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-ulnar-deviations-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/ulnar_deviations_front_male.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/ulnar_deviations_back_male.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/ulnar_deviations_front_female.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/ulnar_deviations_back_female.png"
+            }
+        ]
+    }
+]

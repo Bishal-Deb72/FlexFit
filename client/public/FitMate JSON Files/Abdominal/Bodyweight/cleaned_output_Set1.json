@@ -1,0 +1,353 @@
+[
+    {
+        "id": 35,
+        "name": "Crunches",
+        "description": null,
+        "next": 1,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 12,
+                "name": "Abdominals",
+                "description": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the \u201c6 pack,\u201d however, this is only one part of the abdominals."
+            },
+            {
+                "id": 22,
+                "name": "Upper Abdominals",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Bodyweight"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 17,
+                "youtube_link": "https://www.youtube.com/embed/K3hY5SEuWlw?si=pFfel9AyNZH1fdug"
+            },
+            {
+                "id": 18,
+                "youtube_link": "https://www.youtube.com/embed/K3hY5SEuWlw?si=pFfel9AyNZH1fdug"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lay flat on your back with your knees bent and your feet flat on the ground, about a foot from your lower back."
+            },
+            {
+                "order": 2,
+                "text": "Place your fingertips on your temples with your palms facing out."
+            },
+            {
+                "order": 3,
+                "text": "Draw your belly into the base of your spine to engage the muscles, then raise your head and shoulders off the floor. Return to starting position and repeat."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/crunches_front_male_MkK4NZP.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/crunches_back_male_4FXonlu.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/crunches_front_female_JzdtC3N.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/crunches_back_female_YWF5ctx.png"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Laying Leg Raises",
+        "description": null,
+        "muscles": [
+            {
+                "id": 12,
+                "name": "Abdominals",
+                "description": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the \u201c6 pack,\u201d however, this is only one part of the abdominals."
+            },
+            {
+                "id": 21,
+                "name": "Lower Abdominals",
+                "description": null
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Bodyweight"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 163,
+                "youtube_link": "https://www.youtube.com/embed/K3hY5SEuWlw?si=pFfel9AyNZH1fdug"
+            },
+            {
+                "id": 164,
+                "youtube_link": "https://www.youtube.com/embed/K3hY5SEuWlw?si=pFfel9AyNZH1fdug"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lay on your back with your arms palms down on either side."
+            },
+            {
+                "order": 2,
+                "text": "Keep your legs together and as straight as possible."
+            },
+            {
+                "order": 3,
+                "text": "Slowly raise your legs to a 90\u00b0 angle, pause at this position, or as high as you can reach your legs, and then slowly lower your legs back down."
+            },
+            {
+                "order": 4,
+                "text": "Duration of these movements should be slow so that you do not utilize momentum, enabling you to get the most out of the exercise."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-laying-leg-raises-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-laying-leg-raises-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-laying-leg-raises-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-laying-leg-raises-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/laying_leg_raises_front_male_6dGgIHa.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/laying_leg_raises_back_male_Jv0ataA.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/laying_leg_raises_front_female_M8HpHGc.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/laying_leg_raises_back_female_ljf80OK.png"
+            }
+        ]
+    },
+    {
+        "id": 324,
+        "name": "Long Lever Plank",
+        "description": "",
+        "muscles": [
+            {
+                "id": 12,
+                "name": "Abdominals",
+                "description": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the \u201c6 pack,\u201d however, this is only one part of the abdominals."
+            },
+            {
+                "id": 21,
+                "name": "Lower Abdominals",
+                "description": null
+            },
+            {
+                "id": 22,
+                "name": "Upper Abdominals",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Bodyweight"
+        },
+        "difficulty": {
+            "name": "Advanced"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 9,
+                "youtube_link": "https://www.youtube.com/embed/K3hY5SEuWlw?si=pFfel9AyNZH1fdug"
+            },
+            {
+                "id": 10,
+                "youtube_link": "https://www.youtube.com/embed/K3hY5SEuWlw?si=pFfel9AyNZH1fdug"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start in a hand plank position and walk your hands further out until your ears are between your biceps."
+            },
+            {
+                "order": 2,
+                "text": "Hold in this position for the allotted amount of time."
+            },
+            {
+                "order": 3,
+                "text": "Make sure you keep a flat back for the whole set."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/long_lever_plank_front_male_8SJaBpx.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/long_lever_plank_back_male_eZmPCG9.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/long_lever_plank_front_female_sOSz3MD.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/long_lever_plank_back_female_APWlREd.png"
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "name": "Hanging Knee Raises",
+        "description": "",
+        "muscles": [
+            {
+                "id": 12,
+                "name": "Abdominals",
+                "description": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the \u201c6 pack,\u201d however, this is only one part of the abdominals."
+            },
+            {
+                "id": 21,
+                "name": "Lower Abdominals",
+                "description": null
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            },
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Bodyweight"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 41,
+                "youtube_link": "https://www.youtube.com/embed/LZCQV2C9YKE?si=hXcpoEAmnTBVRwwR"
+            },
+            {
+                "id": 42,
+                "youtube_link": "https://www.youtube.com/embed/LZCQV2C9YKE?si=hXcpoEAmnTBVRwwR"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Grab the bar and hang, your body still and your legs straight."
+            },
+            {
+                "order": 2,
+                "text": "Slowly draw your knees up to your chest"
+            },
+            {
+                "order": 3,
+                "text": "Once you have raised your knees as high as possible, lower your legs and repeat. Duration of these movements should be slow so that you do not utilize momentum, enabling you to get the most out of the exercise."
+            },
+            {
+                "order": 4,
+                "text": "Duration of these movements should be slow so that you do not utilize momentum, enabling you to get the most out of the exercise."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/hanging_knee_raises_front_male_IaEyJOI.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/hanging_knee_raises_back_male_X5H0lgb.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/hanging_knee_raises_front_female_0RNFY17.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/hanging_knee_raises_back_female_mls8Srq.png"
+            }
+        ]
+    }
+]

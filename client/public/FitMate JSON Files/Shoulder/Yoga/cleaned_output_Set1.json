@@ -1,0 +1,252 @@
+[
+    {
+        "id": 651,
+        "name": "Headstand",
+        "description": null,
+        "next": 0,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 6,
+                "name": "Shoulders",
+                "description": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+            },
+            {
+                "id": 18,
+                "name": "Lateral Deltoid",
+                "description": ""
+            },
+            {
+                "id": 19,
+                "name": "Anterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 47,
+                "name": "Front Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Advanced"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Begin on your hands and knees with your wrists under your shoulders and your knees under your hips."
+            },
+            {
+                "order": 2,
+                "text": "Place your forearms on the floor and interlace your fingers."
+            },
+            {
+                "order": 3,
+                "text": "Place the crown of your head on the floor and tuck your toes under."
+            },
+            {
+                "order": 4,
+                "text": "Walk your feet towards your head and lift your hips up."
+            },
+            {
+                "order": 5,
+                "text": "Straighten your legs and find your balance. Hold for several breaths and then release."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-headstand-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-headstand-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-headstand-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-headstand-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/headstand_front_male_VqABuJF.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/headstand_back_male_ZuhO78K.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/headstand_front_female_0mMvy6k.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/headstand_back_female_bPht98M.png"
+            }
+        ]
+    },
+    {
+        "id": 659,
+        "name": "Wide Legged Forward Fall",
+        "description": null,
+        "muscles": [
+            {
+                "id": 6,
+                "name": "Shoulders",
+                "description": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+            },
+            {
+                "id": 19,
+                "name": "Anterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 47,
+                "name": "Front Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start standing at the top of your mat with your feet wide apart."
+            },
+            {
+                "order": 2,
+                "text": "Interlace your fingers behind your back and inhale to expand your chest."
+            },
+            {
+                "order": 3,
+                "text": "Exhale and fold forward from your hips, bringing your hands up and over your head towards the ground."
+            },
+            {
+                "order": 4,
+                "text": "Hold for a few breaths and then release the hands and come back up to standing."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-prasarita-padottanasana-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-prasarita-padottanasana-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-prasarita-padottanasana-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-prasarita-padottanasana-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/wide_legged_forward_fall_front_male_2noSlaP.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/wide_legged_forward_fall_back_male_UagN2Fc.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/wide_legged_forward_fall_front_female_kd1WRiH.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/wide_legged_forward_fall_back_female_tQRE7nQ.png"
+            }
+        ]
+    },
+    {
+        "id": 668,
+        "name": "Reverse Prayer",
+        "description": null,
+        "muscles": [
+            {
+                "id": 6,
+                "name": "Shoulders",
+                "description": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+            },
+            {
+                "id": 18,
+                "name": "Lateral Deltoid",
+                "description": ""
+            },
+            {
+                "id": 19,
+                "name": "Anterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 47,
+                "name": "Front Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start seated or standing with your arms at your sides."
+            },
+            {
+                "order": 2,
+                "text": "Bring your hands behind your back and interlace your fingers with your palms facing up."
+            },
+            {
+                "order": 3,
+                "text": "Inhale and draw your shoulder blades together, lifting your chest."
+            },
+            {
+                "order": 4,
+                "text": "Exhale and gently press your hands down towards the floor as you continue to lift your chest."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-reverse-prayer-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-reverse-prayer-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-reverse-prayer-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-reverse-prayer-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/reverse_prayer_front_male_OsD2e0f.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/reverse_prayer_back_male_xCPYXUn.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/reverse_prayer_front_female_AHPkX6W.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/reverse_prayer_back_female_I4744Pp.png"
+            }
+        ]
+    }
+]

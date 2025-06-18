@@ -1,0 +1,304 @@
+[
+    {
+        "id": 825,
+        "name": "Neutral Chest Press",
+        "description": null,
+        "next": 0,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 5,
+                "name": "Triceps",
+                "description": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+            },
+            {
+                "id": 2,
+                "name": "Chest",
+                "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Machine"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Sit on the machine and grab the handles with a neutral grip."
+            },
+            {
+                "order": 2,
+                "text": "Adjust the machine to get the longest range of motion possible."
+            },
+            {
+                "order": 3,
+                "text": "Press until your elbows are not extended but not hyperextended."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-neutral-chest-press-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-neutral-chest-press-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-neutral-chest-press-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-neutral-chest-press-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/neutral_chest_press_front_male_MrblrhT.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/neutral_chest_press_back_male_Vb2uYIG.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/neutral_chest_press_front_female_7wvSJSn.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/neutral_chest_press_back_female_pvDvMTd.png"
+            }
+        ]
+    },
+    {
+        "id": 1492,
+        "name": "Machine Assisted Parallel Bar Dips",
+        "description": null,
+        "muscles": [
+            {
+                "id": 5,
+                "name": "Triceps",
+                "description": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+            },
+            {
+                "id": 2,
+                "name": "Chest",
+                "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+            },
+            {
+                "id": 24,
+                "name": "Mid and Lower Chest",
+                "description": ""
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Machine"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Grip bars with arms straight, shoulders above hands. Place knees on pad."
+            },
+            {
+                "order": 2,
+                "text": "Lower slowly until elbows are at 90 degrees."
+            },
+            {
+                "order": 3,
+                "text": "Push back up to start position, extending arms fully."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-assisted-parralel-bar-dips-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-machine-assisted-parralel-bar-dips-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-assisted-parralel-bar-dips-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-machine-assisted-parralel-bar-dips-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_assisted_parralel_bar_dips_front_male_lWCUpUc.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_assisted_parralel_bar_dips_back_male_1h2Nyn3.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_assisted_parralel_bar_dips_front_female_1Sccswv.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_assisted_parralel_bar_dips_back_female_xwT8iov.png"
+            }
+        ]
+    },
+    {
+        "id": 1507,
+        "name": "Machine Pec Fly",
+        "description": null,
+        "muscles": [
+            {
+                "id": 2,
+                "name": "Chest",
+                "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Machine"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 305,
+                "youtube_link": "https://www.youtube.com/embed/dY4LduyY8H0?si=7APTVohUGfcbXVH_"
+            },
+            {
+                "id": 306,
+                "youtube_link": "https://www.youtube.com/embed/dY4LduyY8H0?si=7APTVohUGfcbXVH_"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Adjust seat height so handles align with chest. Sit and grip handles with elbows slightly bent."
+            },
+            {
+                "order": 2,
+                "text": "Slowly bring handles together in front, keeping tension. Focus on squeezing chest muscles."
+            },
+            {
+                "order": 3,
+                "text": "Return handles to starting position with controlled motion. Keep chest up throughout. Repeat for reps."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-pec-fly-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-machine-pec-fly-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-pec-fly-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-machine-pec-fly-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_pec_fly_front_male_MVruy9W.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_pec_fly_back_male_y4mIINI.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_pec_fly_front_female_hqB7VFA.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_pec_fly_back_female_UDatHft.png"
+            }
+        ]
+    },
+    {
+        "id": 1513,
+        "name": "Machine Chest Press",
+        "description": null,
+        "muscles": [
+            {
+                "id": 5,
+                "name": "Triceps",
+                "description": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+            },
+            {
+                "id": 2,
+                "name": "Chest",
+                "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Machine"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Sit on the machine and grab the handles with an overhand grip."
+            },
+            {
+                "order": 2,
+                "text": "Adjust the machine to get the longest range of motion possible."
+            },
+            {
+                "order": 3,
+                "text": "Press until your elbows are not extended but not hyperextended."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-chest-press-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-machine-chest-press-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-chest-press-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-machine-chest-press-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_chest_press_front_male_J3UuMsf.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_chest_press_back_male_BPJMzAM.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_chest_press_front_female_agKkJr8.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_chest_press_back_female_pGRgKSW.png"
+            }
+        ]
+    }
+]

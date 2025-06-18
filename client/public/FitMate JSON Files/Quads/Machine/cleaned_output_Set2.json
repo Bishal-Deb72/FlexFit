@@ -1,0 +1,243 @@
+[
+    {
+        "id": 1499,
+        "name": "Machine Hack Squat",
+        "description": null,
+        "next": 0,
+        "prev": 1,
+        "muscles": [
+            {
+                "id": 9,
+                "name": "Glutes",
+                "description": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+            },
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Machine"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [
+            {
+                "id": 303,
+                "youtube_link": "https://www.youtube.com/embed/etG6C8KyUoI?si=qEzwoCmc_9HsUZkc"
+            },
+            {
+                "id": 304,
+                "youtube_link": "https://www.youtube.com/embed/etG6C8KyUoI?si=qEzwoCmc_9HsUZkc"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Position yourself in the hack squat machine with your back against the pad and shoulders under the shoulder pads."
+            },
+            {
+                "order": 2,
+                "text": "Place feet shoulder-width apart on the platform. Keep your back straight, and slowly lower into a squat position."
+            },
+            {
+                "order": 3,
+                "text": "Press through your heels to return to the starting position, keeping your core engaged. Repeat for desired reps and sets."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-hack-squat-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-machine-hack-squat-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-hack-squat-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-machine-hack-squat-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_hack_squat_front_male_QHvNxwN.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_hack_squat_back_male_Bl0xmcf.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_hack_squat_front_female_n55jOWG.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_hack_squat_back_female_gfMiiWP.png"
+            }
+        ]
+    },
+    {
+        "id": 1500,
+        "name": "Machine Horizontal Sissy Leg Press",
+        "description": null,
+        "muscles": [
+            {
+                "id": 9,
+                "name": "Glutes",
+                "description": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+            },
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Machine"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Place your feet at the bottom the platform at shoulder width. Lift your heels up."
+            },
+            {
+                "order": 2,
+                "text": "Press against the platform and extend your legs fully, without locking your knees."
+            },
+            {
+                "order": 3,
+                "text": "Lower the weight until your legs are at a 90\u00b0 angle (but DO NOT allow your butt and lower back to rise off of the pad. This will put your lower back in a rounded position, which is very dangerous.)"
+            },
+            {
+                "order": 4,
+                "text": "Raise the weight back to starting position."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-horizontal-sissy-leg-press-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-machine-horizontal-sissy-leg-press-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-horizontal-sissy-leg-press-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-machine-horizontal-sissy-leg-press-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_horizontal_sissy_leg_press_front_male_qO6vGLW.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_horizontal_sissy_leg_press_back_male_CBnxNLn.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_horizontal_sissy_leg_press_front_female_xemR0Wz.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_horizontal_sissy_leg_press_back_female_i6EpeIT.png"
+            }
+        ]
+    },
+    {
+        "id": 1503,
+        "name": "Machine Horizontal Leg Press",
+        "description": null,
+        "muscles": [
+            {
+                "id": 9,
+                "name": "Glutes",
+                "description": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+            },
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Machine"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Place your legs on the platform with your feet at shoulder width."
+            },
+            {
+                "order": 2,
+                "text": "Release the weight and extend your legs fully, without locking your knees."
+            },
+            {
+                "order": 3,
+                "text": "Lower the weight until your legs are at a 90\u00b0 angle (but DO NOT allow your butt and lower back to rise off of the pad. This will put your lower back in a rounded position, which is very dangerous.)"
+            },
+            {
+                "order": 4,
+                "text": "Raise the weight back to starting position."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-horizontal-leg-press-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-machine-horizontal-leg-press-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-horizontal-leg-press-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-machine-horizontal-leg-press-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_horizontal_leg_press_front_male_tMBzMfe.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_horizontal_leg_press_back_male_3QsY4xB.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_horizontal_leg_press_front_female_PIWWxme.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_horizontal_leg_press_back_female_Sclztuz.png"
+            }
+        ]
+    }
+]

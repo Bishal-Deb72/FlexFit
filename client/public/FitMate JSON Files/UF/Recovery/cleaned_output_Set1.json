@@ -1,0 +1,326 @@
+[
+    {
+        "id": 1392,
+        "name": "Core Stability 2 Opposite Shoulder Tap 4Pt Position",
+        "description": null,
+        "next": 0,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 12,
+                "name": "Abdominals",
+                "description": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the \u201c6 pack,\u201d however, this is only one part of the abdominals."
+            },
+            {
+                "id": 6,
+                "name": "Shoulders",
+                "description": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+            },
+            {
+                "id": 19,
+                "name": "Anterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 5,
+                "name": "Triceps",
+                "description": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+            },
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            },
+            {
+                "id": 47,
+                "name": "Front Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Bring yourself to the 4 point position (on all fours). 90\u00b0 angles at hips and shoulder and neutral spine."
+            },
+            {
+                "order": 2,
+                "text": "Lift your knees slightly off the ground supporting your weight on palms and toes."
+            },
+            {
+                "order": 3,
+                "text": "Maintain a toe placement roughly at shoulder width (the wider the leg stance the easier the exercise - the narrower the stance the more difficult it becomes."
+            },
+            {
+                "order": 4,
+                "text": "Tap your opposite shoulder with your fingertips."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-core-stability-2-opposite-shoulder-tap-4pt-position-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-core-stability-2-opposite-shoulder-tap-4pt-position-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-core-stability-2-opposite-shoulder-tap-4pt-position-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-core-stability-2-opposite-shoulder-tap-4pt-position-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/core_stability_2_opposite_shoulder_tap_4pt_position_front_male_AtOQiec.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/core_stability_2_opposite_shoulder_tap_4pt_position_back_male_4T0RaOb.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/core_stability_2_opposite_shoulder_tap_4pt_position_front_female_jjeQ2ru.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/core_stability_2_opposite_shoulder_tap_4pt_position_back_female_ImzqbIX.png"
+            }
+        ]
+    },
+    {
+        "id": 1290,
+        "name": "Dumbbell Service Exercise",
+        "description": null,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 47,
+                "name": "Front Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand up straight and hold a dumbbell in one arm. Perform a bicep curl across your body"
+            },
+            {
+                "order": 2,
+                "text": "Bring the dumbbell to your shoulder and rotate palm and elbow out."
+            },
+            {
+                "order": 3,
+                "text": "Point the elbow towards the ceiling while the dumbbell remains just over the shoulder."
+            },
+            {
+                "order": 4,
+                "text": "Extend your elbow to raise the dumbbell over your head. Start lowering your arm to your side as you turn the palm to face down"
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-service-exercise-standing-dumbbell-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-service-exercise-standing-dumbbell-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-service-exercise-standing-dumbbell-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-service-exercise-standing-dumbbell-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_service_exercise_front_male.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_service_exercise_back_male.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_service_exercise_front_female.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_service_exercise_back_female.png"
+            }
+        ]
+    },
+    {
+        "id": 1233,
+        "name": "Seated Ulnar Nerve Slider",
+        "description": null,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Abduct your arm at 90\u00b0 palm facing down."
+            },
+            {
+                "order": 2,
+                "text": "Bend your elbow and wrist bringing your front of your fingertips to your temple while leaning the head towards the the arm."
+            },
+            {
+                "order": 3,
+                "text": "Lean the head away from the arm as you extend the elbow and flex the wrist."
+            },
+            {
+                "order": 4,
+                "text": "Alternate between positions to mobilise the ulnar nerve."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-ulnar-nerve-slider-mobility-seated-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-ulnar-nerve-slider-mobility-seated-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-ulnar-nerve-slider-mobility-seated-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-ulnar-nerve-slider-mobility-seated-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_ulnar_nerve_slider_front_male.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_ulnar_nerve_slider_back_male.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_ulnar_nerve_slider_front_female.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_ulnar_nerve_slider_back_female.png"
+            }
+        ]
+    },
+    {
+        "id": 1232,
+        "name": "Seated Ulnar Nerve Tensioner",
+        "description": null,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Abduct your arm at 90\u00b0 palm facing down."
+            },
+            {
+                "order": 2,
+                "text": "Bend your elbow and wrist to bring the palm to face the ceiling while leaning the head towards the opposite shoulder."
+            },
+            {
+                "order": 3,
+                "text": "Find the position of maximum tension (without pain) and hold."
+            },
+            {
+                "order": 4,
+                "text": "To increase the stretch, press the palm against the face and try to point the elbow up."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-ulnar-nerve-tensioner-mobility-seated-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-ulnar-nerve-tensioner-mobility-seated-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-ulnar-nerve-tensioner-mobility-seated-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-ulnar-nerve-tensioner-mobility-seated-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_ulnar_nerve_tensioner_front_male.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_ulnar_nerve_tensioner_back_male.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_ulnar_nerve_tensioner_front_female.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_ulnar_nerve_tensioner_back_female.png"
+            }
+        ]
+    }
+]

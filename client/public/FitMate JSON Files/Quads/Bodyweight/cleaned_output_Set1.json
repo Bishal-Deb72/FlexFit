@@ -1,0 +1,327 @@
+[
+    {
+        "id": 192,
+        "name": "Bodyweight Squat",
+        "description": null,
+        "next": 1,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 9,
+                "name": "Glutes",
+                "description": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+            },
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            },
+            {
+                "id": 50,
+                "name": "Groin",
+                "description": null
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Bodyweight"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand with your feet shoulder width apart."
+            },
+            {
+                "order": 2,
+                "text": "flex your knees and hips and sit back into the squat while lowering your body"
+            },
+            {
+                "order": 3,
+                "text": "Continue down to full depth"
+            },
+            {
+                "order": 4,
+                "text": "Return to starting position."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-bodyweight-squat-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-bodyweight-squat-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-bodyweight-squat-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-bodyweight-squat-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_squat_front_male_dNFVIjh.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_squat_back_male_3PrLwY0.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_squat_front_female_frY6PDa.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_squat_back_female_PORiCtC.png"
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "name": "Forward Lunges",
+        "description": "<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 36px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b>How To Forward Lunge</b></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\"><br></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b>Setup</b></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\"><br></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Start with your feet about shoulder width apart and toes facing forward. Use the cue superman chest throughout the entirety of the set. Meaning, imagine you have the superman logo on your chest and show off that logo for the entirety of the set. This will help you keep a tall chest and your shoulder blades pulled back. Also, this cue will help you keep your torso vertical.</span></p><p><b style=\"font-weight:normal;\" id=\"docs-internal-guid-33cde41f-7fff-0308-85c9-2cd2af72b994\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b>Performing</b></span></p><p><b style=\"font-weight:normal;\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Initiate the first rep by taking a step forward. You should dictate your stride length by the body part you'd like to focus on. Use a shorter stride length if you want to recruit the quads more. The shorter stride length will increase the range of motion at your knees. If you want to recruit the glutes a bit more, take a longer stride. A longer stride will increase the range of motion at the hips.</span></p><p><b style=\"font-weight:normal;\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">You can either let your arms stay to your sides, you can place your hands on your hips (as you can see in our demo video) or you can use prayer hands.</span></p><p><b style=\"font-weight:normal;\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Let your back knee gently tap the floor. Push off your front heel explosively to push yourself back into the starting position. You can either do all reps on one side or alternate sides.</span></p><p><b style=\"font-weight:normal;\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">As you fatigue, be careful to not let your chest begin to sag forward, or let your lumbar spine round.&nbsp; If the forward lunge is too difficult, try out a reverse lunge. It's an easier variation.</span></p><p><br></p>",
+        "muscles": [
+            {
+                "id": 9,
+                "name": "Glutes",
+                "description": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+            },
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            },
+            {
+                "id": 27,
+                "name": "Inner Thigh",
+                "description": ""
+            },
+            {
+                "id": 28,
+                "name": "Inner Quadriceps",
+                "description": ""
+            },
+            {
+                "id": 29,
+                "name": "Outer Quadricep",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Bodyweight"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [
+            {
+                "id": 25,
+                "youtube_link": "https://www.youtube.com/embed/Y9zHge5sRj4"
+            },
+            {
+                "id": 26,
+                "youtube_link": "https://www.youtube.com/embed/Y9zHge5sRj4"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Step forward with one leg."
+            },
+            {
+                "order": 2,
+                "text": "Lower your body until your rear knee nearly touches the ground."
+            },
+            {
+                "order": 3,
+                "text": "Ensure you remain upright, and your front knee stay above the front foot."
+            },
+            {
+                "order": 4,
+                "text": "Push off the floor with your front foot until you return to the starting position. Switch legs."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-forward-lunges-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-forward-lunges-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-forward-lunges-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-forward-lunges-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/forward_lunges_front_male_r5fFcem.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/forward_lunges_back_male_UEKi6wJ.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/forward_lunges_front_female_QppxR4G.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/forward_lunges_back_female_j8pPgAg.png"
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "name": "Jump Squats",
+        "description": null,
+        "muscles": [
+            {
+                "id": 9,
+                "name": "Glutes",
+                "description": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+            },
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Bodyweight"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand with your feet shoulder-width apart."
+            },
+            {
+                "order": 2,
+                "text": "Start by doing a regular squat, then engage your core and jump up explosively."
+            },
+            {
+                "order": 3,
+                "text": "When you land, lower your body back into the squat position."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-jump-squats-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-jump-squats-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-jump-squats-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-jump-squats-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/jump_squats_front_male_o8lu6Fg.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/jump_squats_back_male_4ZDfC3s.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/jump_squats_front_female_Getgqcv.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/jump_squats_back_female_wrSYcx2.png"
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Bulgarian Split Squat",
+        "description": null,
+        "muscles": [
+            {
+                "id": 9,
+                "name": "Glutes",
+                "description": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+            },
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Bodyweight"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand with your back to a bench (or raised surface) and place one of your feet on the bench."
+            },
+            {
+                "order": 2,
+                "text": "Squat down until your front leg is about parallel to the floor."
+            },
+            {
+                "order": 3,
+                "text": "Go back to the starting position. After completing the desired amount of reps, switch legs and repeat."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-bulgarian-split-squat-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-bulgarian-split-squat-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-bulgarian-split-squat-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-bulgarian-split-squat-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bulgarian_split_squat_front_male_vgqw2e9.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bulgarian_split_squat_back_male_BRffAMZ.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bulgarian_split_squat_front_female_1u3kSgo.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bulgarian_split_squat_back_female_6bXzXuQ.png"
+            }
+        ]
+    }
+]

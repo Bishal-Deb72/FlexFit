@@ -1,0 +1,208 @@
+[
+    {
+        "id": 652,
+        "name": "Lord Of The Dance",
+        "description": "",
+        "next": 0,
+        "prev": 1,
+        "muscles": [
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Begin by standing tall with your feet hip-width apart."
+            },
+            {
+                "order": 2,
+                "text": "Shift your weight onto your left foot and bring your right heel towards your glute."
+            },
+            {
+                "order": 3,
+                "text": "Reach your right arm back and grab onto the inside of your right foot or ankle."
+            },
+            {
+                "order": 4,
+                "text": "Inhale and lift your right foot away from your glute while extending your left arm forward. Hold for 5-10 breaths before switching sides."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-lord-of-the-dance-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-lord-of-the-dance-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-lord-of-the-dance-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-lord-of-the-dance-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/lord_of_the_dance_front_male_dQ9WHrK.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/lord_of_the_dance_back_male_8DKIsxJ.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/lord_of_the_dance_front_female_6YLt0tR.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/lord_of_the_dance_back_female_UzLSv1s.png"
+            }
+        ]
+    },
+    {
+        "id": 653,
+        "name": "Monkey Pose",
+        "description": "",
+        "muscles": [
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Advanced"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Begin in a low lunge with your right foot forward and your left knee on the ground."
+            },
+            {
+                "order": 2,
+                "text": "Slowly slide your left knee back while extending your right leg forward, keeping both legs straight."
+            },
+            {
+                "order": 3,
+                "text": "Lower your body down to the ground, using your hands for support if needed."
+            },
+            {
+                "order": 4,
+                "text": "Hold the pose for a few breaths, then switch sides and repeat."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-monkey-pose-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-monkey-pose-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-monkey-pose-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-monkey-pose-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/monkey_pose_front_male_WQUcydR.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/monkey_pose_back_male_YPsY0bO.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/monkey_pose_front_female_ZG2kdYh.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/monkey_pose_back_female_tbtWc2R.png"
+            }
+        ]
+    },
+    {
+        "id": 673,
+        "name": "Runners Lunge",
+        "description": "",
+        "muscles": [
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Begin in Downward Facing Dog pose (Adho Mukha Svanasana)."
+            },
+            {
+                "order": 2,
+                "text": "Step your right foot forward between your hands."
+            },
+            {
+                "order": 3,
+                "text": "Place your left knee on the ground behind you and slide it back until you feel a stretch in your left hip flexor."
+            },
+            {
+                "order": 4,
+                "text": "Keep your hands on the ground or lift them to the sky and hold for a few breaths before repeating on the other side."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-runners-lunge-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-runners-lunge-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-runners-lunge-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-runners-lunge-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/runners_lunge_front_male_roqKLDa.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/runners_lunge_back_male_so7rkRS.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/runners_lunge_front_female_gcEUXfR.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/runners_lunge_back_female_MzD4Sdf.png"
+            }
+        ]
+    }
+]

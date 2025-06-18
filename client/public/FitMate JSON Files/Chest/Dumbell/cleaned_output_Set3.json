@@ -1,0 +1,331 @@
+[
+    {
+        "id": 385,
+        "name": "Dumbbell Decline Neutral Bench Press",
+        "description": null,
+        "next": 0,
+        "prev": 1,
+        "muscles": [
+            {
+                "id": 6,
+                "name": "Shoulders",
+                "description": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+            },
+            {
+                "id": 19,
+                "name": "Anterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 5,
+                "name": "Triceps",
+                "description": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+            },
+            {
+                "id": 2,
+                "name": "Chest",
+                "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+            },
+            {
+                "id": 47,
+                "name": "Front Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lie on the decline bench, grasp a pair of dumbbells and hold them at shoulder level with your palms facing each other. Keep your elbows bent and close to your body."
+            },
+            {
+                "order": 2,
+                "text": "Slowly lower the dumbbells to your chest, keeping your elbows bent and close to your body."
+            },
+            {
+                "order": 3,
+                "text": "Once the dumbbells reach your chest, pause for a moment and then press them back up to the starting position."
+            },
+            {
+                "order": 4,
+                "text": "This variation is much easier on the shoulder joints."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_decline_neutral_bench_press_front_male_wNuIyFt.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_decline_neutral_bench_press_back_male_iLsxbuK.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_decline_neutral_bench_press_front_female_Gf7pXIv.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_decline_neutral_bench_press_back_female_Qv2DJ6H.png"
+            }
+        ]
+    },
+    {
+        "id": 386,
+        "name": "Dumbbell Decline Single Arm Bench Press",
+        "description": "",
+        "muscles": [
+            {
+                "id": 5,
+                "name": "Triceps",
+                "description": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+            },
+            {
+                "id": 2,
+                "name": "Chest",
+                "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start by laying on a decline bench with two dumbbells."
+            },
+            {
+                "order": 2,
+                "text": "Position the dumbbell above your chest with your elbow bent and shoulder level."
+            },
+            {
+                "order": 3,
+                "text": "Slowly lower the dumbbell towards your chest, keeping your elbow close to your body and your core engaged while the other dumbbell remains pointed toward the ceiling."
+            },
+            {
+                "order": 4,
+                "text": "Once the dumbbell reaches your side, pause for a moment and then press the weight back up to the starting position."
+            },
+            {
+                "order": 5,
+                "text": "Repeat for the desired number of repetitions before switching to your other arm."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_decline_single_arm_bench_press_front_male_OrM4F4Y.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_decline_single_arm_bench_press_back_male_1Hjfi1e.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_decline_single_arm_bench_press_front_female_kyKJIy6.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_decline_single_arm_bench_press_back_female_20OQXf0.png"
+            }
+        ]
+    },
+    {
+        "id": 388,
+        "name": "Dumbbell Decline Squeeze Press",
+        "description": null,
+        "muscles": [
+            {
+                "id": 5,
+                "name": "Triceps",
+                "description": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+            },
+            {
+                "id": 2,
+                "name": "Chest",
+                "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lay flat on a decline bench with two dumbbells pressed to one another."
+            },
+            {
+                "order": 2,
+                "text": "Break at the elbows and keep your elbows tucked as you bring the dumbbells to your chest."
+            },
+            {
+                "order": 3,
+                "text": "Continue to press the dumbbells into one another throughout the rep."
+            },
+            {
+                "order": 4,
+                "text": "Once the dumbbells reach your chest, press back toward the ceiling."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_decline_squeeze_press_front_male_A04uKqQ.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_decline_squeeze_press_back_male_TKCoU9c.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_decline_squeeze_press_front_female_1j5LgYy.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_decline_squeeze_press_back_female_pabetH7.png"
+            }
+        ]
+    },
+    {
+        "id": 396,
+        "name": "Dumbbell Guillotine Bench Press",
+        "description": null,
+        "muscles": [
+            {
+                "id": 5,
+                "name": "Triceps",
+                "description": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+            },
+            {
+                "id": 2,
+                "name": "Chest",
+                "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Advanced"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lie on the flat bench, grasp a pair of dumbbells and hold them at shoulder level with your palms facing forward."
+            },
+            {
+                "order": 2,
+                "text": "Slowly lower the dumbbells to your chest, keeping your elbows flared out. As you lower the dumbbells, exhale deeply."
+            },
+            {
+                "order": 3,
+                "text": "Once your elbows reach your chest, pause for a moment and then press them back up to the starting position"
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_guillotine_bench_press_front_male_48SlnFw.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_guillotine_bench_press_back_male_gAR6mHc.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_guillotine_bench_press_front_female_nrFhqoT.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_guillotine_bench_press_back_female_CVFq5gW.png"
+            }
+        ]
+    }
+]

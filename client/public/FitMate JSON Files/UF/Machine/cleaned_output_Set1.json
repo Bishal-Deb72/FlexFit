@@ -1,0 +1,333 @@
+[
+    {
+        "id": 24,
+        "name": "Machine Seated Cable Row",
+        "description": null,
+        "next": 1,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 14,
+                "name": "Traps (mid-back)",
+                "description": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+            },
+            {
+                "id": 7,
+                "name": "Lats",
+                "description": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            },
+            {
+                "name": "Underhand",
+                "description": "Supinated"
+            },
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Machine"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Sit with your back straight on the machine and grip the handles."
+            },
+            {
+                "order": 2,
+                "text": "Pull the handles back using your arms. Your legs and torso should be at a 90\u00b0 angle. Push out your chest."
+            },
+            {
+                "order": 3,
+                "text": "Pull the handles towards your body until your hands are beside your abdomen."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_seated_cable_row_front_male_x1tEFq9.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_seated_cable_row_back_male_H9QHC36.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_seated_cable_row_front_female_gOJZrYW.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_seated_cable_row_back_female_G1qPT91.png"
+            }
+        ]
+    },
+    {
+        "id": 824,
+        "name": "Narrow Pulldown",
+        "description": null,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 14,
+                "name": "Traps (mid-back)",
+                "description": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+            },
+            {
+                "id": 7,
+                "name": "Lats",
+                "description": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+            },
+            {
+                "id": 42,
+                "name": "Lower Traps",
+                "description": ""
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Machine"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Use the Straight Bar attachment."
+            },
+            {
+                "order": 2,
+                "text": "Hold the attachment as you sit on the machine and put your legs under the leg pads."
+            },
+            {
+                "order": 3,
+                "text": "Pull the bar to your clavicle, then raise back up until your arm are extended."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-narrow-pulldown-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-narrow-pulldown-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-narrow-pulldown-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-narrow-pulldown-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/narrow_pulldown_front_male_nC89noo.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/narrow_pulldown_back_male_G4MXAtN.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/narrow_pulldown_front_female_yp2Rm43.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/narrow_pulldown_back_female_njdD0Rr.png"
+            }
+        ]
+    },
+    {
+        "id": 826,
+        "name": "Neutral Pulldown",
+        "description": "",
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 14,
+                "name": "Traps (mid-back)",
+                "description": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+            },
+            {
+                "id": 7,
+                "name": "Lats",
+                "description": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+            },
+            {
+                "id": 42,
+                "name": "Lower Traps",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Machine"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Use the V Bar attachment."
+            },
+            {
+                "order": 2,
+                "text": "Hold the attachment as you sit on the machine and put your legs under the leg pads."
+            },
+            {
+                "order": 3,
+                "text": "Pull the bar to your clavicle, then raise back up until your arm are extended."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-neutral-pulldown-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-neutral-pulldown-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-neutral-pulldown-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-neutral-pulldown-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/neutral_pulldown_front_male_K8Cg9UL.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/neutral_pulldown_back_male_TAwIbOy.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/neutral_pulldown_front_female_CMmnT1j.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/neutral_pulldown_back_female_KCXPdKw.png"
+            }
+        ]
+    },
+    {
+        "id": 829,
+        "name": "Underhand Pulldown",
+        "description": "",
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 7,
+                "name": "Lats",
+                "description": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+            },
+            {
+                "id": 42,
+                "name": "Lower Traps",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "Underhand",
+                "description": "Supinated"
+            }
+        ],
+        "category": {
+            "name": "Machine"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Use the Straight Bar attachment. Hold with an underhand grip."
+            },
+            {
+                "order": 2,
+                "text": "Hold the attachment as you sit on the machine and put your legs under the leg pads."
+            },
+            {
+                "order": 3,
+                "text": "Pull the bar to your clavicle, then raise back up until your arm are extended."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-underhand-pulldown-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-underhand-pulldown-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-underhand-pulldown-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-underhand-pulldown-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/underhand_pulldown_front_male_kKQZMqP.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/underhand_pulldown_back_male_mI52F8f.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/underhand_pulldown_front_female_eWR5Azg.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/underhand_pulldown_back_female_KKj9q3O.png"
+            }
+        ]
+    }
+]

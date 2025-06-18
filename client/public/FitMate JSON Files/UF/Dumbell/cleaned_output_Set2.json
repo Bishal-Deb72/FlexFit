@@ -1,0 +1,329 @@
+[
+    {
+        "id": 400,
+        "name": "Dumbbell Incline Hammer Curl",
+        "description": "",
+        "next": 1,
+        "prev": 1,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 16,
+                "name": "Long Head Bicep",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 97,
+                "youtube_link": "https://www.youtube.com/embed/tvRlfjjH5NA"
+            },
+            {
+                "id": 98,
+                "youtube_link": "https://www.youtube.com/embed/tvRlfjjH5NA"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Hold the dumbbells with a neutral grip (thumbs facing the ceiling). Seated on an incline bench."
+            },
+            {
+                "order": 2,
+                "text": "Slowly lift the dumbbell up to chest height"
+            },
+            {
+                "order": 3,
+                "text": "Return to starting position and repeat."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_hammer_curl_front_male_GyBSOd2.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_hammer_curl_back_male_QjUcewP.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_hammer_curl_front_female_vebXjz8.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_hammer_curl_back_female_N7SHvGi.png"
+            }
+        ]
+    },
+    {
+        "id": 401,
+        "name": "Dumbbell Incline Reverse Curl",
+        "description": "",
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 16,
+                "name": "Long Head Bicep",
+                "description": ""
+            },
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            },
+            {
+                "id": 26,
+                "name": "Wrist Flexors",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 213,
+                "youtube_link": "https://www.youtube.com/embed/10AFVfSUzsU"
+            },
+            {
+                "id": 214,
+                "youtube_link": "https://www.youtube.com/embed/10AFVfSUzsU"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lay on an incline bench."
+            },
+            {
+                "order": 2,
+                "text": "Grab the dumbbells with a pronated (overhand) grip. You can do this exercise thumbless if it's more comfortable on your wrists."
+            },
+            {
+                "order": 3,
+                "text": "Flex at the elbows until your biceps touch your forearms. Try not to let your elbows flair outward."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_reverse_curl_front_male_PV70cV1.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_reverse_curl_back_male_4L6PrSZ.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_reverse_curl_front_female_kuMq3WL.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_reverse_curl_back_female_HOH8NLH.png"
+            }
+        ]
+    },
+    {
+        "id": 402,
+        "name": "Dumbbell Incline Zottman Curl",
+        "description": "",
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 16,
+                "name": "Long Head Bicep",
+                "description": ""
+            },
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            },
+            {
+                "id": 26,
+                "name": "Wrist Flexors",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "Rotating",
+                "description": "Hands rotate"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lay on an incline bench with your palms facing forward."
+            },
+            {
+                "order": 2,
+                "text": "Flex at the elbows until your forearms touch your biceps."
+            },
+            {
+                "order": 3,
+                "text": "When you hit the top of the movement, rotate your palms and then lower the dumbbells slowly."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_zottman_curl_front_male_HzTndUV.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_zottman_curl_back_male_lTSg6dl.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_zottman_curl_front_female_5KMw1v9.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_zottman_curl_back_female_pCyBJfk.png"
+            }
+        ]
+    },
+    {
+        "id": 455,
+        "name": "Dumbbell Single Arm Preacher Curl",
+        "description": null,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Underhand",
+                "description": "Supinated"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start with a with a dumbbell in one hand and your elbow resting on the bench."
+            },
+            {
+                "order": 2,
+                "text": "From this starting position, curl the dumbbell up towards your shoulder, keeping your upper arm stationary on the bench."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-single-arm-preacher-curl-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-single-arm-preacher-curl-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-single-arm-preacher-curl-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-single-arm-preacher-curl-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_single_arm_preacher_curl_front_male_1QAAqIp.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_single_arm_preacher_curl_back_male_BjrMDwz.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_single_arm_preacher_curl_front_female_qU8zzNo.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_single_arm_preacher_curl_back_female_QAB7gCW.png"
+            }
+        ]
+    }
+]

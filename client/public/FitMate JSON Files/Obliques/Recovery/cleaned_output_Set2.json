@@ -1,0 +1,324 @@
+[
+    {
+        "id": 1211,
+        "name": "Core Stability Regression Crosslateral Limb Raise Push Up Position",
+        "description": null,
+        "next": 1,
+        "prev": 1,
+        "muscles": [
+            {
+                "id": 12,
+                "name": "Abdominals",
+                "description": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the \u201c6 pack,\u201d however, this is only one part of the abdominals."
+            },
+            {
+                "id": 9,
+                "name": "Glutes",
+                "description": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+            },
+            {
+                "id": 6,
+                "name": "Shoulders",
+                "description": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+            },
+            {
+                "id": 19,
+                "name": "Anterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            },
+            {
+                "id": 47,
+                "name": "Front Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Advanced"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Bring yourself to a strict push-up position"
+            },
+            {
+                "order": 2,
+                "text": "Tap the hand of the working arm on the ground to find your balance. Raise opposite limbs till they are parallel to the ground"
+            },
+            {
+                "order": 3,
+                "text": "Hold for a split second and then try to bring your elbow to your opposite knee by driving both towards the centre of the body."
+            },
+            {
+                "order": 4,
+                "text": "Spine might curve slightly but you should not shift your hips during the movement."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-core-stability-regression-crosslateral-limb-raise-push-up-position-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-core-stability-regression-crosslateral-limb-raise-push-up-position-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-core-stability-regression-crosslateral-limb-raise-push-up-position-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-core-stability-regression-crosslateral-limb-raise-push-up-position-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/core_stability_regression_crosslateral_limb_raise_push_up_position_front_male_xa1v0Km.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/core_stability_regression_crosslateral_limb_raise_push_up_position_back_male_xxVo6px.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/core_stability_regression_crosslateral_limb_raise_push_up_position_front_female_B0jXF8N.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/core_stability_regression_crosslateral_limb_raise_push_up_position_back_female_9Prfn2k.png"
+            }
+        ]
+    },
+    {
+        "id": 1216,
+        "name": "Crosslateral Core Stabilisation Unilateral Load Kettlebell",
+        "description": null,
+        "muscles": [
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            },
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Begin by standing with your feet hip-width apart and holding a kettlebell at one side of your body, with your palms facing your thighs."
+            },
+            {
+                "order": 2,
+                "text": "Hing forward with a flat back and lift the kettlebell."
+            },
+            {
+                "order": 3,
+                "text": "Hold the kettlebell at your side and make sure to not lean to one side."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-crosslateral-core-stabilisation-unilateral-load-kettlebell-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-crosslateral-core-stabilisation-unilateral-load-kettlebell-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-crosslateral-core-stabilisation-unilateral-load-kettlebell-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-crosslateral-core-stabilisation-unilateral-load-kettlebell-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/crosslateral_core_stabilisation_unilateral_load_kettlebell_front_male_UpvYB5Y.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/crosslateral_core_stabilisation_unilateral_load_kettlebell_back_male_XESzXuj.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/crosslateral_core_stabilisation_unilateral_load_kettlebell_front_female_MtidJnZ.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/crosslateral_core_stabilisation_unilateral_load_kettlebell_back_female_c3sWwrC.png"
+            }
+        ]
+    },
+    {
+        "id": 1387,
+        "name": "Dead Bugs Cross Lateral",
+        "description": null,
+        "muscles": [
+            {
+                "id": 12,
+                "name": "Abdominals",
+                "description": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the \u201c6 pack,\u201d however, this is only one part of the abdominals."
+            },
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lay on your back. Extend your straight arms above the chest and raise your bent knees till they are over your hips."
+            },
+            {
+                "order": 2,
+                "text": "Lower opposite limbs towards the ground. You can feel the ground but do not rest on or tap off of the ground."
+            },
+            {
+                "order": 3,
+                "text": "Maintain a flat lower back throughout the movement (lower back should be in contact with the ground)."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-dead-bugs-cross-lateral-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-dead-bugs-cross-lateral-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-dead-bugs-cross-lateral-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-dead-bugs-cross-lateral-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dead_bugs_cross_lateral_front_male_YpTstq1.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dead_bugs_cross_lateral_back_male_LiWqdJM.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dead_bugs_cross_lateral_front_female_pAsaGtq.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dead_bugs_cross_lateral_back_female_ccmvjBN.png"
+            }
+        ]
+    },
+    {
+        "id": 1386,
+        "name": "Dead Bugs Same Side",
+        "description": null,
+        "muscles": [
+            {
+                "id": 12,
+                "name": "Abdominals",
+                "description": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the \u201c6 pack,\u201d however, this is only one part of the abdominals."
+            },
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lay on your back. Extend your straight arms above the chest and raise your bent knees till they are over your hips."
+            },
+            {
+                "order": 2,
+                "text": "Lower limbs of the same side towards the ground. You can feel the ground but do not rest on or tap off of the ground."
+            },
+            {
+                "order": 3,
+                "text": "Maintain a flat lower back throughout the movement (lower back should be in contact with the ground)."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-dead-bugs-same-side-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-dead-bugs-same-side-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-dead-bugs-same-side-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-dead-bugs-same-side-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dead_bugs_same_side_front_male_rULcsDJ.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dead_bugs_same_side_back_male_5hsoO7L.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dead_bugs_same_side_front_female_5Vq6nzp.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dead_bugs_same_side_back_female_4iA45HX.png"
+            }
+        ]
+    }
+]

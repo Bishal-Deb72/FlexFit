@@ -1,0 +1,313 @@
+[
+    {
+        "id": 10,
+        "name": "Machine Leg Extension",
+        "description": null,
+        "next": 1,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Machine"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 263,
+                "youtube_link": "https://www.youtube.com/embed/UaoMSDN1j0A"
+            },
+            {
+                "id": 264,
+                "youtube_link": "https://www.youtube.com/embed/UaoMSDN1j0A"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Sit on the machine with your back against the cushion and adjust the machine you are using so that your knees are at a 90 degree angle at the starting position."
+            },
+            {
+                "order": 2,
+                "text": "Raise the weight by extending your knees outward, then lower your leg to the starting position. Both movements should be done in a slow, controlled motion."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_leg_extension_front_male_Gfm2YNF.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_leg_extension_back_male_PpTv5Vt.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_leg_extension_front_female_zsYV5VD.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_leg_extension_back_female_yu6Tcml.png"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Machine Leg Press",
+        "description": null,
+        "muscles": [
+            {
+                "id": 9,
+                "name": "Glutes",
+                "description": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+            },
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Machine"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [
+            {
+                "id": 311,
+                "youtube_link": "https://www.youtube.com/embed/RaI6ofF2geQ?si=qEZMhSM64hPN-AlL"
+            },
+            {
+                "id": 312,
+                "youtube_link": "https://www.youtube.com/embed/RaI6ofF2geQ?si=qEZMhSM64hPN-AlL"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Place your legs on the platform with your feet at shoulder width."
+            },
+            {
+                "order": 2,
+                "text": "Release the weight and extend your legs fully, without locking your knees."
+            },
+            {
+                "order": 3,
+                "text": "Lower the weight until your legs are at a 90\u00b0 angle (but DO NOT allow your butt and lower back to rise off of the pad. This will put your lower back in a rounded position, which is very dangerous.)"
+            },
+            {
+                "order": 4,
+                "text": "Raise the weight back to starting position."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_leg_press_front_male_HjxvbAJ.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_leg_press_back_male_4anwYJh.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_leg_press_front_female_3zcyOCW.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_leg_press_back_female_VCivAVF.png"
+            }
+        ]
+    },
+    {
+        "id": 862,
+        "name": "Machine Sissy Squat",
+        "description": "",
+        "muscles": [
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            },
+            {
+                "id": 30,
+                "name": "Rectus Femoris",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Machine"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Place the sissy squat pad just behind the knees and the front pad all the way up against your ankles."
+            },
+            {
+                "order": 2,
+                "text": "Hold a dumbbell in a goblet position."
+            },
+            {
+                "order": 3,
+                "text": "Sit straight back into a squat. Then push your calves into the back of the pad and extend your knees back to the original position."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-sissy-squat-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-sissy-squat-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-sissy-squat-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-sissy-squat-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_sissy_squat_front_male_V1Kitzt.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_sissy_squat_back_male_bhWO2EL.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_sissy_squat_front_female_mmYvvXE.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_sissy_squat_back_female_TucZsN7.png"
+            }
+        ]
+    },
+    {
+        "id": 863,
+        "name": "Machine Goblet Sissy Squat",
+        "description": "",
+        "muscles": [
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            },
+            {
+                "id": 30,
+                "name": "Rectus Femoris",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Machine"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Place the sissy squat pad just behind the knees and the front pad all the way up against your ankles."
+            },
+            {
+                "order": 2,
+                "text": "Hold a dumbbell in a goblet position."
+            },
+            {
+                "order": 3,
+                "text": "Sit straight back into a squat. Then push your calves into the back of the pad and extend your knees back to the original position."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-goblet-sissy-squat-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-goblet-sissy-squat-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-goblet-sissy-squat-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-goblet-sissy-squat-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_goblet_sissy_squat_front_male_tr5wPnC.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_goblet_sissy_squat_back_male_Y5ODQ1E.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_goblet_sissy_squat_front_female_KrZ4mTq.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_goblet_sissy_squat_back_female_k6XKVcp.png"
+            }
+        ]
+    }
+]

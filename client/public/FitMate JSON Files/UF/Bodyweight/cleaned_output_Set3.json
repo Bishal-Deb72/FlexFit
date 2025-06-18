@@ -1,0 +1,295 @@
+[
+    {
+        "id": 1560,
+        "name": "Bodyweight Assisted Mixed Grip Pullup",
+        "description": null,
+        "next": 0,
+        "prev": 1,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 7,
+                "name": "Lats",
+                "description": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Mixed",
+                "description": "Mixed"
+            }
+        ],
+        "category": {
+            "name": "Bodyweight"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Grasp the chin-up bar with a mixed grip, shoulder-width apart."
+            },
+            {
+                "order": 2,
+                "text": "Place your feet on the ground, legs bent slightly."
+            },
+            {
+                "order": 3,
+                "text": "Use your legs to assist as you pull your chin above the bar."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-bodyweight-assisted-mixed-grip-pullup-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-bodyweight-assisted-mixed-grip-pullup-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-bodyweight-assisted-mixed-grip-pullup-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-bodyweight-assisted-mixed-grip-pullup-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_assisted_mixed_grip_pullup_front_male.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_assisted_mixed_grip_pullup_back_male.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_assisted_mixed_grip_pullup_front_female.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_assisted_mixed_grip_pullup_back_female.png"
+            }
+        ]
+    },
+    {
+        "id": 1559,
+        "name": "Bodyweight Assisted Gironda Chin Up",
+        "description": null,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 7,
+                "name": "Lats",
+                "description": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Underhand",
+                "description": "Supinated"
+            }
+        ],
+        "category": {
+            "name": "Bodyweight"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Grasp the chin-up bar with an underhand grip, shoulder-width apart."
+            },
+            {
+                "order": 2,
+                "text": "Place your feet on the ground, legs bent slightly."
+            },
+            {
+                "order": 3,
+                "text": "Use your legs to assist as you pull your chest to the bar."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-bodyweight-assisted-gironda-chin-up-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-bodyweight-assisted-gironda-chin-up-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-bodyweight-assisted-gironda-chin-up-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-bodyweight-assisted-gironda-chin-up-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_assisted_gironda_chin_up_front_male.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_assisted_gironda_chin_up_back_male.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_assisted_gironda_chin_up_front_female.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_assisted_gironda_chin_up_back_female.png"
+            }
+        ]
+    },
+    {
+        "id": 1555,
+        "name": "Ring Curl",
+        "description": null,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Underhand",
+                "description": "Supinated"
+            }
+        ],
+        "category": {
+            "name": "Bodyweight"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand holding gymnastic rings with your arms extended in front of you, palms facing up."
+            },
+            {
+                "order": 2,
+                "text": "Curl rings towards shoulders, squeezing biceps."
+            },
+            {
+                "order": 3,
+                "text": "Slowly lower rings back to starting position, keeping control. Repeat."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-ring-curl-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-ring-curl-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-ring-curl-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-ring-curl-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/ring_curl_front_male.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/ring_curl_back_male.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/ring_curl_front_female.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/ring_curl_back_female.png"
+            }
+        ]
+    },
+    {
+        "id": 1549,
+        "name": "Ring Row",
+        "description": null,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 7,
+                "name": "Lats",
+                "description": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Bodyweight"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Set up rings at a high point."
+            },
+            {
+                "order": 2,
+                "text": "Grip rings and lean back, arms extended."
+            },
+            {
+                "order": 3,
+                "text": "Pull chest to rings, keeping body straight."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-ring-row-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-ring-row-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-ring-row-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-ring-row-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/ring_row_front_male.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/ring_row_back_male.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/ring_row_front_female.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/ring_row_back_female.png"
+            }
+        ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "id": 747,
+        "name": "Landmine Calf Raise",
+        "description": "",
+        "next":0,
+        "prev":1,
+        "muscles": [
+            {
+                "id": 11,
+                "name": "Calves",
+                "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand facing the barbell, holding the end of the barbell close to your chest in both hands with your elbows tucked in to your sides."
+            },
+            {
+                "order": 2,
+                "text": "Drive though the balls of your feet to raise your heels off the ground, squeezing your calves, with a focus on making sure your ankles do not turn out or in."
+            },
+            {
+                "order": 3,
+                "text": "Lower your heels back down to the ground and repeat for the desired number of reps."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-landmine-calf-raise-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-landmine-calf-raise-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-landmine-calf-raise-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-landmine-calf-raise-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/landmine_calf_raise_front_male_PnJat3d.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/landmine_calf_raise_back_male_YSTCSYd.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/landmine_calf_raise_front_female_WsOituH.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/landmine_calf_raise_back_female_BX3WFwr.png"
+            }
+        ]
+    }
+]

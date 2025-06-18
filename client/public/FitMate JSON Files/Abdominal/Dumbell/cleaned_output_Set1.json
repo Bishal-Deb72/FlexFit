@@ -1,0 +1,303 @@
+[
+    {
+        "id": 289,
+        "name": "Dumbbell Russian Twist",
+        "description": "",
+        "next": 1,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 12,
+                "name": "Abdominals",
+                "description": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the \u201c6 pack,\u201d however, this is only one part of the abdominals."
+            },
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 221,
+                "youtube_link": "https://www.youtube.com/embed/63QN-Id-p94?si=kQcOykoNZ-0utrIY"
+            },
+            {
+                "id": 222,
+                "youtube_link": "https://www.youtube.com/embed/63QN-Id-p94?si=kQcOykoNZ-0utrIY"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Sit on the floor and flex your knees and hips to a 90 degree angle."
+            },
+            {
+                "order": 2,
+                "text": "Your feet should be hovering off the ground. (If that's too hard start with heels on the floor)"
+            },
+            {
+                "order": 3,
+                "text": "Rotate your upper spine to engage your obliques."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-russian-twist-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-russian-twist-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-russian-twist-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-russian-twist-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_russian_twist_front_male_8k5N0G5.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_russian_twist_back_male_BHEWT0U.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_russian_twist_front_female_PLtrYw8.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_russian_twist_back_female_jgMxIxK.png"
+            }
+        ]
+    },
+    {
+        "id": 288,
+        "name": "Dumbbell Situp",
+        "description": "",
+        "muscles": [
+            {
+                "id": 12,
+                "name": "Abdominals",
+                "description": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the \u201c6 pack,\u201d however, this is only one part of the abdominals."
+            },
+            {
+                "id": 22,
+                "name": "Upper Abdominals",
+                "description": ""
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "",
+            "description": ""
+        },
+        "mechanic": {
+            "name": "",
+            "description": ""
+        },
+        "long_form_content": [
+            {
+                "id": 51,
+                "youtube_link": "https://www.youtube.com/embed/rPy1_8f3vIY"
+            },
+            {
+                "id": 52,
+                "youtube_link": "https://www.youtube.com/embed/rPy1_8f3vIY"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lay flat on the ground with your spine neutral. Extend you arms so your fists are pointed at the ceiling."
+            },
+            {
+                "order": 2,
+                "text": "Sit-up by flexing your abs. Continue to reach for the ceiling for the entire rep."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-situp-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-situp-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-situp-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-situp-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_situp_front_male_GOExMZX.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_situp_back_male_IV8Pkns.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_situp_front_female_Ak2bsNS.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_situp_back_female_9O9XtLW.png"
+            }
+        ]
+    },
+    {
+        "id": 292,
+        "name": "Dumbbell Plank Pullthrough",
+        "description": "",
+        "muscles": [
+            {
+                "id": 12,
+                "name": "Abdominals",
+                "description": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the \u201c6 pack,\u201d however, this is only one part of the abdominals."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "",
+            "description": ""
+        },
+        "mechanic": {
+            "name": "",
+            "description": ""
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Get into a plank position. Either from your knees or toes."
+            },
+            {
+                "order": 2,
+                "text": "Start with the DB by your right hand. Reach with your left and pull the dumbbell to your left arm. Then repeat with the right."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-plank-pullthrough-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-plank-pullthrough-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-plank-pullthrough-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-plank-pullthrough-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_plank_pullthrough_front_male_pCtgyXd.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_plank_pullthrough_back_male_78tzqHB.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_plank_pullthrough_front_female_xyYmQSo.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_plank_pullthrough_back_female_fC8ExKz.png"
+            }
+        ]
+    },
+    {
+        "id": 432,
+        "name": "Dumbbell Hollow Hold",
+        "description": null,
+        "muscles": [
+            {
+                "id": 12,
+                "name": "Abdominals",
+                "description": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the \u201c6 pack,\u201d however, this is only one part of the abdominals."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            },
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Advanced"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 87,
+                "youtube_link": "https://www.youtube.com/embed/gD7rdimyXBU"
+            },
+            {
+                "id": 88,
+                "youtube_link": "https://www.youtube.com/embed/gD7rdimyXBU"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lay flat on the ground with a dumbbell overhead."
+            },
+            {
+                "order": 2,
+                "text": "Pull your upper back and legs off the ground. Make a banana shape with your body."
+            },
+            {
+                "order": 3,
+                "text": "The dumbbell should be held in your hands and your ears should be between your biceps."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-hollow-hold-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-hollow-hold-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-hollow-hold-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-hollow-hold-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_hollow_hold_front_male_bj0ejJS.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_hollow_hold_back_male_PWqki4X.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_hollow_hold_front_female_3BYb88C.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_hollow_hold_back_female_PpYG9YR.png"
+            }
+        ]
+    }
+]

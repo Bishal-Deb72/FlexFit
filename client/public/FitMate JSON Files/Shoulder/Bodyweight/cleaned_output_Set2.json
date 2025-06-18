@@ -1,0 +1,164 @@
+[
+    {
+        "id": 1084,
+        "name": "Forward Arm Circle",
+        "description": null,
+        "next": 0,
+        "prev": 1,
+        "muscles": [
+            {
+                "id": 6,
+                "name": "Shoulders",
+                "description": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+            },
+            {
+                "id": 18,
+                "name": "Lateral Deltoid",
+                "description": ""
+            },
+            {
+                "id": 19,
+                "name": "Anterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 20,
+                "name": "Posterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 47,
+                "name": "Front Shoulders",
+                "description": null
+            },
+            {
+                "id": 48,
+                "name": "Rear Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Bodyweight"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Hold your arms out to your sides."
+            },
+            {
+                "order": 2,
+                "text": "Rotate your arms forward in small circles."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-forward-arm-circle-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-forward-arm-circle-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-forward-arm-circle-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-forward-arm-circle-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/forward_arm_circle_front_male_4eJAue1.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/forward_arm_circle_back_male_2Tl7Dt3.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/forward_arm_circle_front_female_9CIeNYo.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/forward_arm_circle_back_female_GPyhXG1.png"
+            }
+        ]
+    },
+    {
+        "id": 1075,
+        "name": "Backward Arm Circle",
+        "description": null,
+        "muscles": [
+            {
+                "id": 6,
+                "name": "Shoulders",
+                "description": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+            },
+            {
+                "id": 20,
+                "name": "Posterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 47,
+                "name": "Front Shoulders",
+                "description": null
+            },
+            {
+                "id": 48,
+                "name": "Rear Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Bodyweight"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Hold your arms out to your sides."
+            },
+            {
+                "order": 2,
+                "text": "Rotate your arms backwards in small circles."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-backward-arm-circle-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-backward-arm-circle-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-backward-arm-circle-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-backward-arm-circle-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/backward_arm_circle_front_male_SeaGgDf.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/backward_arm_circle_back_male_i2NsiWg.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/backward_arm_circle_front_female_tl60akv.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/backward_arm_circle_back_female_7gC290y.png"
+            }
+        ]
+    }
+]

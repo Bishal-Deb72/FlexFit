@@ -1,0 +1,299 @@
+[
+    {
+        "id": 1558,
+        "name": "Bodyweight Assisted Chin Up",
+        "description": null,
+        "next": 1,
+        "prev": 1,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 7,
+                "name": "Lats",
+                "description": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Underhand",
+                "description": "Supinated"
+            }
+        ],
+        "category": {
+            "name": "Bodyweight"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Grasp the chin-up bar with an underhand grip, shoulder-width apart."
+            },
+            {
+                "order": 2,
+                "text": "Place your feet on the ground, legs bent slightly."
+            },
+            {
+                "order": 3,
+                "text": "Use your legs to assist as you pull your chin above the bar."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-bodyweight-assisted-chin-up-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-bodyweight-assisted-chin-up-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-bodyweight-assisted-chin-up-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-bodyweight-assisted-chin-up-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_assisted_chin_up_front_male.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_assisted_chin_up_back_male.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_assisted_chin_up_front_female.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_assisted_chin_up_back_female.png"
+            }
+        ]
+    },
+    {
+        "id": 1557,
+        "name": "Bodyweight Assisted Pull Up",
+        "description": null,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 7,
+                "name": "Lats",
+                "description": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Bodyweight"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Grasp the chin-up bar with an overhand grip, shoulder-width apart."
+            },
+            {
+                "order": 2,
+                "text": "Place your feet on the ground, legs bent slightly."
+            },
+            {
+                "order": 3,
+                "text": "Use your legs to assist as you pull your chin above the bar."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-bodyweight-assisted-pull-up-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-bodyweight-assisted-pull-up-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-bodyweight-assisted-pull-up-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-bodyweight-assisted-pull-up-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_assisted_pull_up_front_male.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_assisted_pull_up_back_male.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_assisted_pull_up_front_female.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_assisted_pull_up_back_female.png"
+            }
+        ]
+    },
+    {
+        "id": 1640,
+        "name": "L Sit Chin Up",
+        "description": null,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            },
+            {
+                "id": 7,
+                "name": "Lats",
+                "description": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Underhand",
+                "description": "Supinated"
+            }
+        ],
+        "category": {
+            "name": "Bodyweight"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Grab the bar shoulder width apart with a supinated grip (palms facing you)"
+            },
+            {
+                "order": 2,
+                "text": "With your body in an \"L\" position and arms fully extended, pull yourself up until your chin is past the bar."
+            },
+            {
+                "order": 3,
+                "text": "Slowly return to starting position. Repeat."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-l-sit-chin-up-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-l-sit-chin-up-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-l-sit-chin-up-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-l-sit-chin-up-front.mp4"
+            }
+        ],
+        "body_map_images": []
+    },
+    {
+        "id": 1563,
+        "name": "Bodyweight Underhand Inverted Row",
+        "description": null,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            },
+            {
+                "id": 7,
+                "name": "Lats",
+                "description": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Underhand",
+                "description": "Supinated"
+            }
+        ],
+        "category": {
+            "name": "Bodyweight"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lay underneath a fixed horizontal bar and grab the bar with an underhand grip."
+            },
+            {
+                "order": 2,
+                "text": "Pull your body straight up to the bar."
+            },
+            {
+                "order": 3,
+                "text": "Return to the starting position, your arms fully extended. Repeat."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-bodyweight-underhand-inverted-row-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-bodyweight-underhand-inverted-row-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Bodyweight-bodyweight-underhand-inverted-row-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Bodyweight-bodyweight-underhand-inverted-row-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_underhand_inverted_row_front_male.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_underhand_inverted_row_back_male.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_underhand_inverted_row_front_female.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bodyweight_underhand_inverted_row_back_female.png"
+            }
+        ]
+    }
+]

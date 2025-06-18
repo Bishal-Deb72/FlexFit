@@ -1,0 +1,276 @@
+[
+    {
+        "id": 624,
+        "name": "Criss Cross Bow Tie Pose",
+        "description": "",
+        "next": 1,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 4,
+                "name": "Traps",
+                "description": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand with your feet hip-width apart and your arms at your sides."
+            },
+            {
+                "order": 2,
+                "text": "Cross your right arm over your left arm, bringing your palms together in front of your chest."
+            },
+            {
+                "order": 3,
+                "text": "Lower your arms down so that your palms face down towards the ground, and your right elbow is resting on top of your left elbow."
+            },
+            {
+                "order": 4,
+                "text": "Hold for a few breaths, then switch sides."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-bow-tie-pose-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-bow-tie-pose-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-bow-tie-pose-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-bow-tie-pose-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/criss_cross_bow_tie_pose_front_male_SGdclkQ.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/criss_cross_bow_tie_pose_back_male_sSk8vQe.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/criss_cross_bow_tie_pose_front_female_K4TLZfJ.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/criss_cross_bow_tie_pose_back_female_jNlS1wY.png"
+            }
+        ]
+    },
+    {
+        "id": 638,
+        "name": "Eagle Arms Chin Into Chest",
+        "description": "",
+        "muscles": [
+            {
+                "id": 4,
+                "name": "Traps",
+                "description": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Sit cross-legged on the floor and bring your arms out to the sides at shoulder height."
+            },
+            {
+                "order": 2,
+                "text": "Cross your right arm over your left, bending both elbows so that your forearms are parallel to the floor."
+            },
+            {
+                "order": 3,
+                "text": "Lift your elbows towards the ceiling and bring your hands together, then drop your chin towards your chest."
+            },
+            {
+                "order": 4,
+                "text": "Hold for a few breaths, then release your arms and repeat on the other side."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-eagle-arm-chin-down-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-eagle-arm-chin-down-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-eagle-arm-chin-down-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-eagle-arm-chin-down-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/eagle_arms_chin_into_chest_front_male_spM8PuM.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/eagle_arms_chin_into_chest_back_male_Gxscrt4.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/eagle_arms_chin_into_chest_front_female_uyDMqf4.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/eagle_arms_chin_into_chest_back_female_NgI36xQ.png"
+            }
+        ]
+    },
+    {
+        "id": 641,
+        "name": "Easy Pose Neck Stretch",
+        "description": "",
+        "muscles": [
+            {
+                "id": 4,
+                "name": "Traps",
+                "description": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Begin by sitting cross-legged on the floor."
+            },
+            {
+                "order": 2,
+                "text": "Slowly drop your chin towards your chest, feeling a stretch in the back of your neck."
+            },
+            {
+                "order": 3,
+                "text": "Inhale and lift your head up, then exhale and drop your right ear towards your right shoulder."
+            },
+            {
+                "order": 4,
+                "text": "Hold for a few breaths, then switch sides and repeat the stretch."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-easy-pose-neck-stretch-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-easy-pose-neck-stretch-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-easy-pose-neck-stretch-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-easy-pose-neck-stretch-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/easy_pose_neck_stretch_front_male_VoWTQH4.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/easy_pose_neck_stretch_back_male_ve8IIMb.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/easy_pose_neck_stretch_front_female_vro0Rni.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/easy_pose_neck_stretch_back_female_pPJ5Z9I.png"
+            }
+        ]
+    },
+    {
+        "id": 649,
+        "name": "Half Neck Rolls",
+        "description": "",
+        "muscles": [
+            {
+                "id": 4,
+                "name": "Traps",
+                "description": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Sit cross-legged on the floor and interlace your fingers behind your head."
+            },
+            {
+                "order": 2,
+                "text": "Drop your chin to your chest and roll your head to the right, bringing your right ear towards your right shoulder."
+            },
+            {
+                "order": 3,
+                "text": "Slowly roll your head back to center, then over to the left so that your left ear is close to your left shoulder."
+            },
+            {
+                "order": 4,
+                "text": "Repeat the movement from side to side, keeping your shoulders relaxed and breathing deeply."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-half-neck-rolls-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-half-neck-rolls-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-half-neck-rolls-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-half-neck-rolls-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/half_neck_rolls_front_male_QNuFsQr.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/half_neck_rolls_back_male_KaELJ2N.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/half_neck_rolls_front_female_duJnekm.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/half_neck_rolls_back_female_ksxq9hE.png"
+            }
+        ]
+    }
+]

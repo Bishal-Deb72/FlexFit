@@ -1,0 +1,211 @@
+[
+    {
+        "id": 134,
+        "name": "Traps Stretch Variation One",
+        "description": null,
+        "next": 0,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 4,
+                "name": "Traps",
+                "description": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Stretches"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "",
+            "description": ""
+        },
+        "mechanic": {
+            "name": "",
+            "description": ""
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand upright with your feet shoulder width apart."
+            },
+            {
+                "order": 2,
+                "text": "Place your left hand on your head and gently pull your head down towards your left shoulder. Then return to centre point."
+            },
+            {
+                "order": 3,
+                "text": "Repeat, using your right hand pulling towards your right shoulder."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/traps_stretch_variation_one_front_male_ZNvujtW.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/traps_stretch_variation_one_back_male_k9Ztn06.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/traps_stretch_variation_one_front_female_LNHiUOB.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/traps_stretch_variation_one_back_female_QddSdJM.png"
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "name": "Traps Stretch Variation Two",
+        "description": null,
+        "muscles": [
+            {
+                "id": 4,
+                "name": "Traps",
+                "description": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Stretches"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "",
+            "description": ""
+        },
+        "mechanic": {
+            "name": "",
+            "description": ""
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand upright with your feet shoulder width apart."
+            },
+            {
+                "order": 2,
+                "text": "Keeping your chest facing forward, turn your head 90 degrees to the left. Then return to centre point."
+            },
+            {
+                "order": 3,
+                "text": "Repeat, turning your head in the other direction."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/traps_stretch_variation_two_front_male_AzzuxSm.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/traps_stretch_variation_two_back_male_G9ezJ1t.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/traps_stretch_variation_two_front_female_nbau4my.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/traps_stretch_variation_two_back_female_DyH7OOb.png"
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "name": "Traps Stretch Variation Three",
+        "description": null,
+        "muscles": [
+            {
+                "id": 4,
+                "name": "Traps",
+                "description": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Stretches"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "",
+            "description": ""
+        },
+        "mechanic": {
+            "name": "",
+            "description": ""
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand upright with your feet shoulder width apart."
+            },
+            {
+                "order": 2,
+                "text": "Nod your head forward, bringing your chin to your chest."
+            },
+            {
+                "order": 3,
+                "text": "You will feel the stretch across your neck."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/traps_stretch_variation_three_front_male_UNP5rGU.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/traps_stretch_variation_three_back_male_ItfAVhh.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/traps_stretch_variation_three_front_female_jc1eCK4.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/traps_stretch_variation_three_back_female_8ldCzBO.png"
+            }
+        ]
+    }
+]

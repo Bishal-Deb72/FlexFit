@@ -1,0 +1,179 @@
+[
+    {
+        "id": 409,
+        "name": "Dumbbell Laying Silverback Shrug",
+        "description": "",
+        "next": 0,
+        "prev": 1,
+        "muscles": [
+            {
+                "id": 14,
+                "name": "Traps (mid-back)",
+                "description": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+            },
+            {
+                "id": 4,
+                "name": "Traps",
+                "description": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            },
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 167,
+                "youtube_link": "https://www.youtube.com/embed/StaMuh5azZk"
+            },
+            {
+                "id": 168,
+                "youtube_link": "https://www.youtube.com/embed/StaMuh5azZk"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lay on an incline bench with your arms hanging freely."
+            },
+            {
+                "order": 2,
+                "text": "Pull your shoulder blades back toward the ceiling."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_laying_silverback_shrug_front_male_e8EnFuK.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_laying_silverback_shrug_back_male_L1GJpzK.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_laying_silverback_shrug_front_female_ZvabpLt.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_laying_silverback_shrug_back_female_BtBLGxb.png"
+            }
+        ]
+    },
+    {
+        "id": 578,
+        "name": "Dumbbell Single Arm Upright Row",
+        "description": null,
+        "muscles": [
+            {
+                "id": 6,
+                "name": "Shoulders",
+                "description": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+            },
+            {
+                "id": 18,
+                "name": "Lateral Deltoid",
+                "description": ""
+            },
+            {
+                "id": 4,
+                "name": "Traps",
+                "description": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+            },
+            {
+                "id": 47,
+                "name": "Front Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand with your feet shoulder-width apart, holding a dumbbell in one hand with an overhand grip."
+            },
+            {
+                "order": 2,
+                "text": "Keep your back straight and chest lifted, engage your core to maintain balance."
+            },
+            {
+                "order": 3,
+                "text": "Begin the movement by lifting the dumbbell straight up towards your chin, keeping your elbow close to your body and the weight in line with your shoulder."
+            },
+            {
+                "order": 4,
+                "text": "Continue to lift the weight until it reaches the chin or neck level, keeping the elbow high and close to the body."
+            },
+            {
+                "order": 5,
+                "text": "Lower the weight back down to the starting position with control."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_single_arm_upright_row_front_male_5VnHISN.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_single_arm_upright_row_back_male_hYpddVn.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_single_arm_upright_row_front_female_iYa6grN.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_single_arm_upright_row_back_female_9V2b2ii.png"
+            }
+        ]
+    }
+]

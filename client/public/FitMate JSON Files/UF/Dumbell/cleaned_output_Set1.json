@@ -1,0 +1,339 @@
+[
+    {
+        "id": 2,
+        "name": "Dumbbell Curl",
+        "description": "<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 36px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b>How To Perform the Dumbbell Bicep Curl</b></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\"><br></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b>Setup</b></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Grab two dumbbells and stand tall with your shoulder blades pulled back and your chest poked out. You can start with either the dumbbells in front of your quads or off to the sides of your legs. Whichever is more comfortable. Also, whichever will allow you to fully extend your elbows at the bottom of each rep.</span></p><p><b style=\"font-weight:normal;\" id=\"docs-internal-guid-c71076c1-7fff-ed4f-a63b-0a26db525d16\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Use a shoulder width or slightly inside of shoulder width stance.&nbsp;</span></p><p><b style=\"font-weight:normal;\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b>Performing&nbsp;</b></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Begin the rep by flexing your elbows. Try to touch your forearms to your biceps at the very top of the movement. Then begin the eccentric. Make sure to fully extend your elbows at the bottom of each rep so you get a full range of motion.&nbsp;</span></p><p><br></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">It is easy to use momentum on a bicep curl. We want our muscles and not momentum to do the work. So make sure you keep these strict. If you find yourself swinging the weight up, then your biceps have hit fatigue and it's time to end the set.</span></p>",
+        "next": 1,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Underhand",
+                "description": "Supinated"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 35,
+                "youtube_link": "https://www.youtube.com/embed/lhpfN8DVQTE?si=FnLC5dRH78Vy6zYE"
+            },
+            {
+                "id": 36,
+                "youtube_link": "https://www.youtube.com/embed/lhpfN8DVQTE?si=FnLC5dRH78Vy6zYE"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand up straight with a dumbbell in each hand at arm's length."
+            },
+            {
+                "order": 2,
+                "text": "Raise one dumbbell and twist your forearm until it is vertical and your palm faces the shoulder."
+            },
+            {
+                "order": 3,
+                "text": "Lower to original position and repeat with opposite arm"
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-curl-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-curl-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-curl-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-curl-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_curl_front_male_nIHT2sr.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_curl_back_male_6nNlDgJ.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_curl_front_female_7BP9B8s.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_curl_back_female_9oMe1Bl.png"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Dumbbell Hammer Curl",
+        "description": null,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 17,
+                "name": "Short Head Bicep",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 37,
+                "youtube_link": "https://www.youtube.com/embed/2VvIzDY4yVI"
+            },
+            {
+                "id": 38,
+                "youtube_link": "https://www.youtube.com/embed/2VvIzDY4yVI"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Hold the dumbbells with a neutral grip (thumbs facing the ceiling)."
+            },
+            {
+                "order": 2,
+                "text": "Slowly lift the dumbbell up to chest height"
+            },
+            {
+                "order": 3,
+                "text": "Return to starting position and repeat."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-hammer-curl-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-hammer-curl-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-hammer-curl-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-hammer-curl-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_hammer_curl_front_male_OHG2VpB.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_hammer_curl_back_male_g7O3QSG.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_hammer_curl_front_female_fgcYVyl.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_hammer_curl_back_female_CCp5AcX.png"
+            }
+        ]
+    },
+    {
+        "id": 281,
+        "name": "Dumbbell Reverse Curl",
+        "description": null,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            },
+            {
+                "id": 25,
+                "name": "Wrist Extensors",
+                "description": ""
+            },
+            {
+                "id": 26,
+                "name": "Wrist Flexors",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 215,
+                "youtube_link": "https://www.youtube.com/embed/10AFVfSUzsU"
+            },
+            {
+                "id": 216,
+                "youtube_link": "https://www.youtube.com/embed/10AFVfSUzsU"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Grab the dumbbells with a pronated (overhand) grip. You can do this exercise thumbless if it's more comfortable on your wrists."
+            },
+            {
+                "order": 2,
+                "text": "Flex at the elbows until your biceps touch your forearms. Try not to let your elbows flair outward."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-reverse-curl-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-reverse-curl-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-reverse-curl-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-reverse-curl-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_reverse_curl_front_male_pJwkhUN.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_reverse_curl_back_male_ZoqJgMo.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_reverse_curl_front_female_1bLvI1n.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_reverse_curl_back_female_8bF73Zq.png"
+            }
+        ]
+    },
+    {
+        "id": 319,
+        "name": "Dumbbell Rear Delt Row",
+        "description": null,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 14,
+                "name": "Traps (mid-back)",
+                "description": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+            },
+            {
+                "id": 6,
+                "name": "Shoulders",
+                "description": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+            },
+            {
+                "id": 20,
+                "name": "Posterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 48,
+                "name": "Rear Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Hinge forward at the hips while maintaining a flat back. Try to get your torso as close to parallel with the ground as your mobility will allow for."
+            },
+            {
+                "order": 2,
+                "text": "Let your arms hang in front of you. Pull your elbows back towards the ceiling while flaring your elbows outward."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-rear-delt-row-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-rear-delt-row-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-rear-delt-row-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-rear-delt-row-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_rear_delt_row_front_male_KnhC3aL.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_rear_delt_row_back_male_d140t3q.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_rear_delt_row_front_female_lirFLve.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_rear_delt_row_back_female_ArH2f8E.png"
+            }
+        ]
+    }
+]

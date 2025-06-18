@@ -1,0 +1,338 @@
+[
+    {
+        "id": 1598,
+        "name": "Wall Angels",
+        "description": null,
+        "next": 1,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 47,
+                "name": "Front Shoulders",
+                "description": null
+            },
+            {
+                "id": 48,
+                "name": "Rear Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand against a wall with your back flat, arms at 90\u00b0 by your sides."
+            },
+            {
+                "order": 2,
+                "text": "Slowly raise arms overhead, keeping elbows and wrists in contact with the wall."
+            },
+            {
+                "order": 3,
+                "text": "Lower arms back down to starting position, maintaining constant wall contact throughout."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-wall-angels-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-wall-angels-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-wall-angels-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-wall-angels-front.mp4"
+            }
+        ],
+        "body_map_images": []
+    },
+    {
+        "id": 1471,
+        "name": "Hip Openers",
+        "description": null,
+        "muscles": [
+            {
+                "id": 9,
+                "name": "Glutes",
+                "description": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+            },
+            {
+                "id": 6,
+                "name": "Shoulders",
+                "description": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+            },
+            {
+                "id": 19,
+                "name": "Anterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 20,
+                "name": "Posterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 2,
+                "name": "Chest",
+                "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+            },
+            {
+                "id": 47,
+                "name": "Front Shoulders",
+                "description": null
+            },
+            {
+                "id": 48,
+                "name": "Rear Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "From the standing position perform a walkout (use to palms to \"walk\" into the push up position)."
+            },
+            {
+                "order": 2,
+                "text": "Bring your leg to the side and place the foot by your palm."
+            },
+            {
+                "order": 3,
+                "text": "Rotate towards the ceiling and then towards the ground, pressing the hips towards the ground."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-hip-openers-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-hip-openers-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-hip-openers-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-hip-openers-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/hip_openers_front_male_aoSf76Y.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/hip_openers_back_male_IIEJXKM.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/hip_openers_front_female_wS9U2e1.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/hip_openers_back_female_4nu6BFl.png"
+            }
+        ]
+    },
+    {
+        "id": 1465,
+        "name": "I's Prone",
+        "description": null,
+        "muscles": [
+            {
+                "id": 6,
+                "name": "Shoulders",
+                "description": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+            },
+            {
+                "id": 19,
+                "name": "Anterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 47,
+                "name": "Front Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lie on your front with your arms extended and above your head."
+            },
+            {
+                "order": 2,
+                "text": "Point the thumbs up."
+            },
+            {
+                "order": 3,
+                "text": "Try to raise your arms off the ground keeping them straight."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-is-prone-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-is-prone-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-is-prone-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-is-prone-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/is_prone_front_male_koFrYUo.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/is_prone_back_male_c1zXFHI.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/is_prone_front_female_1CgWzEG.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/is_prone_back_female_ZQXEwVf.png"
+            }
+        ]
+    },
+    {
+        "id": 1421,
+        "name": "Lat And Shoulder External Rotation Stretch 1 Kneeling Dowel",
+        "description": null,
+        "muscles": [
+            {
+                "id": 7,
+                "name": "Lats",
+                "description": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+            },
+            {
+                "id": 6,
+                "name": "Shoulders",
+                "description": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+            },
+            {
+                "id": 19,
+                "name": "Anterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 20,
+                "name": "Posterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 47,
+                "name": "Front Shoulders",
+                "description": null
+            },
+            {
+                "id": 48,
+                "name": "Rear Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [
+            {
+                "name": "Underhand",
+                "description": "Supinated"
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Kneel in front of a bench, placing your elbows on with palms facing up while holding the dowel at shoulder width."
+            },
+            {
+                "order": 2,
+                "text": "Sit your hips back onto your heels, pressing the head in between the arms."
+            },
+            {
+                "order": 3,
+                "text": "You should feel a stretch in your lats, triceps and deep in the shoulder joint."
+            },
+            {
+                "order": 4,
+                "text": "You can add movement (bend-extended arms) to mobilise the shoulder joint."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-lat-and-shoulder-external-rotation-stretch-1-kneeling-dowel-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-lat-and-shoulder-external-rotation-stretch-1-kneeling-dowel-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-lat-and-shoulder-external-rotation-stretch-1-kneeling-dowel-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-lat-and-shoulder-external-rotation-stretch-1-kneeling-dowel-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/lat_and_shoulder_external_rotation_stretch_1_kneeling_dowel_front_male_EYNg2Bu.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/lat_and_shoulder_external_rotation_stretch_1_kneeling_dowel_back_male_8a96dK8.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/lat_and_shoulder_external_rotation_stretch_1_kneeling_dowel_front_female_Fz5LYyv.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/lat_and_shoulder_external_rotation_stretch_1_kneeling_dowel_back_female_hKjvYUK.png"
+            }
+        ]
+    }
+]

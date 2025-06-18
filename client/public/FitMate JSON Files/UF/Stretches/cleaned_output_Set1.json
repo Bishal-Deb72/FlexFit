@@ -1,0 +1,280 @@
+[
+    {
+        "id": 123,
+        "name": "Biceps Stretch Variation One",
+        "description": null,
+        "next": 1,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Stretches"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "",
+            "description": ""
+        },
+        "mechanic": {
+            "name": "",
+            "description": ""
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand one foot in front of the other with the wall to your right, an arms width away."
+            },
+            {
+                "order": 2,
+                "text": "Place your hand on the wall, fingers pointing away from you."
+            },
+            {
+                "order": 3,
+                "text": "Gently lean forward, keeping your hand stationary."
+            },
+            {
+                "order": 4,
+                "text": "Repeat with the other arm."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/biceps_stretch_variation_one_front_male_7hmD6ET.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/biceps_stretch_variation_one_back_male_G5GUTf7.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/biceps_stretch_variation_one_front_female_KeDLuWL.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/biceps_stretch_variation_one_back_female_LI9xoby.png"
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "name": "Biceps Stretch Variation Two",
+        "description": null,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Stretches"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand facing the wall, an arm's width away."
+            },
+            {
+                "order": 2,
+                "text": "Place your hand on the wall with your fingers pointing down."
+            },
+            {
+                "order": 3,
+                "text": "Lean slightly into the wall to feel the stretch in your bicep."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/biceps_stretch_variation_two_front_male_Ec08a1Z.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/biceps_stretch_variation_two_back_male_lIQpcFr.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/biceps_stretch_variation_two_front_female_cQzVElT.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/biceps_stretch_variation_two_back_female_fTmoUEM.png"
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "name": "Biceps Stretch Variation Three",
+        "description": null,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Stretches"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Bend your arm at the elbow, raising your hand to your shoulder."
+            },
+            {
+                "order": 2,
+                "text": "Using your other hand, stretch the arm down to its full extent."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/biceps_stretch_variation_three_front_male_7pYC3eY.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/biceps_stretch_variation_three_back_male_4afEqew.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/biceps_stretch_variation_three_front_female_99CiP6e.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/biceps_stretch_variation_three_back_female_dSQj6az.png"
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "name": "Biceps Stretch Variation Four",
+        "description": null,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Stretches"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand an arms width away from the wall."
+            },
+            {
+                "order": 2,
+                "text": "Raise your arms out behind you, and place them on the wall with your fingers pointing up."
+            },
+            {
+                "order": 3,
+                "text": "Bend your knees whilst keeping your hands in the same position."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/biceps_stretch_variation_four_front_male_nmPmBME.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/biceps_stretch_variation_four_back_male_EZ3YtqG.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/biceps_stretch_variation_four_front_female_Fh7cgOh.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/biceps_stretch_variation_four_back_female_D4nvzur.png"
+            }
+        ]
+    }
+]

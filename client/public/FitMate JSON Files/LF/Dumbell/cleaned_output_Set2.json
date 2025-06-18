@@ -1,0 +1,325 @@
+[
+    {
+        "id": 401,
+        "name": "Dumbbell Incline Reverse Curl",
+        "description": "",
+        "next": 1,
+        "prev": 1,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 16,
+                "name": "Long Head Bicep",
+                "description": ""
+            },
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            },
+            {
+                "id": 26,
+                "name": "Wrist Flexors",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 213,
+                "youtube_link": "https://www.youtube.com/embed/10AFVfSUzsU"
+            },
+            {
+                "id": 214,
+                "youtube_link": "https://www.youtube.com/embed/10AFVfSUzsU"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lay on an incline bench."
+            },
+            {
+                "order": 2,
+                "text": "Grab the dumbbells with a pronated (overhand) grip. You can do this exercise thumbless if it's more comfortable on your wrists."
+            },
+            {
+                "order": 3,
+                "text": "Flex at the elbows until your biceps touch your forearms. Try not to let your elbows flair outward."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_reverse_curl_front_male_PV70cV1.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_reverse_curl_back_male_4L6PrSZ.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_reverse_curl_front_female_kuMq3WL.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_reverse_curl_back_female_HOH8NLH.png"
+            }
+        ]
+    },
+    {
+        "id": 402,
+        "name": "Dumbbell Incline Zottman Curl",
+        "description": "",
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 16,
+                "name": "Long Head Bicep",
+                "description": ""
+            },
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            },
+            {
+                "id": 26,
+                "name": "Wrist Flexors",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "Rotating",
+                "description": "Hands rotate"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lay on an incline bench with your palms facing forward."
+            },
+            {
+                "order": 2,
+                "text": "Flex at the elbows until your forearms touch your biceps."
+            },
+            {
+                "order": 3,
+                "text": "When you hit the top of the movement, rotate your palms and then lower the dumbbells slowly."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_zottman_curl_front_male_HzTndUV.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_zottman_curl_back_male_lTSg6dl.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_zottman_curl_front_female_5KMw1v9.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_zottman_curl_back_female_pCyBJfk.png"
+            }
+        ]
+    },
+    {
+        "id": 1060,
+        "name": "Dumbbell Bench Wrist Curl",
+        "description": null,
+        "muscles": [
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            },
+            {
+                "id": 26,
+                "name": "Wrist Flexors",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "Underhand",
+                "description": "Supinated"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Grip the dumbbell with your palm facing upwards with your forearm rested against the bench."
+            },
+            {
+                "order": 2,
+                "text": "Slowly curl your wrist upwards in a semicircular motion."
+            },
+            {
+                "order": 3,
+                "text": "Return to starting position and repeat."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-bench-wrist-curl-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-bench-wrist-curl-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-bench-wrist-curl-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-bench-wrist-curl-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_bench_wrist_curl_front_male_yB3VxKe.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_bench_wrist_curl_back_male_nHE1IgN.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_bench_wrist_curl_front_female_QSZvSdK.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_bench_wrist_curl_back_female_8h0YDYS.png"
+            }
+        ]
+    },
+    {
+        "id": 1209,
+        "name": "Dumbbell Single Arm Bench Wrist Curl",
+        "description": null,
+        "muscles": [
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            },
+            {
+                "id": 26,
+                "name": "Wrist Flexors",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "Underhand",
+                "description": "Supinated"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Drape one arm over a bench while holding a dumbbell. Point your palm toward the ceiling."
+            },
+            {
+                "order": 2,
+                "text": "Extend and curl your wrist against resistance."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-wrist-flexor-curl-dumbbell-kneeling-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-wrist-flexor-curl-dumbbell-kneeling-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-wrist-flexor-curl-dumbbell-kneeling-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-wrist-flexor-curl-dumbbell-kneeling-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_single_arm_bench_wrist_curl_front_male_HF9p7aF.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_single_arm_bench_wrist_curl_back_male_cbSC4un.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_single_arm_bench_wrist_curl_front_female_2aoah7z.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_single_arm_bench_wrist_curl_back_female_nHOPh9S.png"
+            }
+        ]
+    }
+]

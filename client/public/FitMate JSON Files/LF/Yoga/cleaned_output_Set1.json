@@ -1,0 +1,276 @@
+[
+    {
+        "id": 620,
+        "name": "Table Top Pose Variation 1",
+        "description": "",
+        "next": 1,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start in a tabletop position on your hands and knees with your hands directly under your shoulders and your knees directly under your hips."
+            },
+            {
+                "order": 2,
+                "text": "Turn your hands so that your fingers are pointing towards the sides of your mat and the tops of your hands are on the floor."
+            },
+            {
+                "order": 3,
+                "text": "Keep your arms straight and your shoulders away from your ears."
+            },
+            {
+                "order": 4,
+                "text": "Hold the pose for several breaths or as long as is comfortable."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-Bharmanasana-Variation-1-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-Bharmanasana-Variation-1-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-Bharmanasana-Variation-1-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-Bharmanasana-Variation-1-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/table_top_pose_variation_1_front_male_JZnC0ju.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/table_top_pose_variation_1_back_male_tzJVSr8.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/table_top_pose_variation_1_front_female_SsmwfiL.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/table_top_pose_variation_1_back_female_1LwDTzm.png"
+            }
+        ]
+    },
+    {
+        "id": 621,
+        "name": "Table Top Pose Variation 2",
+        "description": "",
+        "muscles": [
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start in a tabletop position on your hands and knees with your hands directly under your shoulders and your knees directly under your hips."
+            },
+            {
+                "order": 2,
+                "text": "Turn your hands so that your fingers are pointing towards your knees and the tops of your hands are on the floor."
+            },
+            {
+                "order": 3,
+                "text": "Keep your arms straight and your shoulders away from your ears."
+            },
+            {
+                "order": 4,
+                "text": "Hold the pose for several breaths or as long as is comfortable."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-Bharmanasana-Variation-2-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-Bharmanasana-Variation-2-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-Bharmanasana-Variation-2-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-Bharmanasana-Variation-2-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/table_top_pose_variation_2_front_male_ROTSY2u.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/table_top_pose_variation_2_back_male_ROSTbQL.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/table_top_pose_variation_2_front_female_d1dfBl5.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/table_top_pose_variation_2_back_female_ugcY67i.png"
+            }
+        ]
+    },
+    {
+        "id": 622,
+        "name": "Table Top Pose Variation 3",
+        "description": "",
+        "muscles": [
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Come onto your hands and knees on the mat with your wrists directly under your shoulders and your knees under your hips."
+            },
+            {
+                "order": 2,
+                "text": "Turn your palms down and spread your fingers wide, with your fingertips pointing towards your knees."
+            },
+            {
+                "order": 3,
+                "text": "Press into your palms and extend your arms fully to lift your shoulders away from your ears."
+            },
+            {
+                "order": 4,
+                "text": "Hold the pose for a few breaths, and then release by slowly lowering your hands to the mat and coming back to a neutral tabletop position."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-Bharmanasana-Variation-3-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-Bharmanasana-Variation-3-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-Bharmanasana-Variation-3-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-Bharmanasana-Variation-3-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/table_top_pose_variation_3_front_male_z21ZU8G.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/table_top_pose_variation_3_back_male_3HPxVob.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/table_top_pose_variation_3_front_female_bTFArTL.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/table_top_pose_variation_3_back_female_0fDiUYE.png"
+            }
+        ]
+    },
+    {
+        "id": 688,
+        "name": "Vajrasana Variation 1",
+        "description": "",
+        "muscles": [
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Begin in a kneeling position with your knees together and your shins and feet on the floor."
+            },
+            {
+                "order": 2,
+                "text": "Sit back on your heels and place your palms face down on your thighs, with your fingers pointing towards your knees."
+            },
+            {
+                "order": 3,
+                "text": "Relax your shoulders and take deep breaths."
+            },
+            {
+                "order": 4,
+                "text": "Hold the pose for several breaths or as long as is comfortable."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-vajrasana-variation-1-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-vajrasana-variation-1-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-vajrasana-variation-1-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-vajrasana-variation-1-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/vajrasana_variation_1_front_male_FYGeMzg.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/vajrasana_variation_1_back_male_EHv3XWU.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/vajrasana_variation_1_front_female_dLNtAei.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/vajrasana_variation_1_back_female_QOggDyr.png"
+            }
+        ]
+    }
+]

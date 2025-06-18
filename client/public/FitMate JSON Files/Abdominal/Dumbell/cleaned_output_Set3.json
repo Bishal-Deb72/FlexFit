@@ -1,0 +1,156 @@
+[
+    {
+        "id": 447,
+        "name": "Dumbbell Renegade Row",
+        "description": null,
+        "next": 0,
+        "prev": 1,
+        "muscles": [
+            {
+                "id": 12,
+                "name": "Abdominals",
+                "description": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the \u201c6 pack,\u201d however, this is only one part of the abdominals."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start by getting into a plank position with a dumbbell in each hand. Your feet should be shoulder-width apart and your hands should be placed on the dumbbells, with your palms facing each other."
+            },
+            {
+                "order": 2,
+                "text": "From this starting position, row one dumbbell up towards your chest, keeping your elbow close to your body and your core engaged."
+            },
+            {
+                "order": 3,
+                "text": "Slowly lower the dumbbell back down to the starting position, and repeat on the other side."
+            },
+            {
+                "order": 4,
+                "text": "Make sure to keep your body straight and your hips level throughout the movement."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_renegade_row_front_male_2xVIwzu.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_renegade_row_back_male_DQ1zi1q.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_renegade_row_front_female_MTagiZw.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_renegade_row_back_female_tkTYzKj.png"
+            }
+        ]
+    },
+    {
+        "id": 574,
+        "name": "Pushup to Renegade Row",
+        "description": "",
+        "muscles": [
+            {
+                "id": 12,
+                "name": "Abdominals",
+                "description": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the \u201c6 pack,\u201d however, this is only one part of the abdominals."
+            },
+            {
+                "id": 7,
+                "name": "Lats",
+                "description": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+            },
+            {
+                "id": 2,
+                "name": "Chest",
+                "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start in a high plank position with a pair of dumbbells positioned under your shoulders. Your hands should grip the dumbbells, palms facing each other."
+            },
+            {
+                "order": 2,
+                "text": "Keep your core engaged and your back straight as you row one dumbbell up towards your hip, keeping your elbow close to your body."
+            },
+            {
+                "order": 3,
+                "text": "Lower the dumbbell back down to the starting position and repeat on the other side."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/pushup_to_renegade_row_front_male_dYAFD8M.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/pushup_to_renegade_row_back_male_4ZntIae.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/pushup_to_renegade_row_front_female_WDZ97TQ.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/pushup_to_renegade_row_back_female_cuUm9dU.png"
+            }
+        ]
+    }
+]

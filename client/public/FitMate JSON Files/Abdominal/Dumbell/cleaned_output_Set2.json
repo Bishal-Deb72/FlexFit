@@ -1,0 +1,290 @@
+[
+    {
+        "id": 563,
+        "name": "Dumbbell Crunch",
+        "description": "",
+        "next": 1,
+        "prev": 1,
+        "muscles": [
+            {
+                "id": 12,
+                "name": "Abdominals",
+                "description": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the \u201c6 pack,\u201d however, this is only one part of the abdominals."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Underhand",
+                "description": "Supinated"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start by lying flat on your back with your feet flat on the floor and your knees bent."
+            },
+            {
+                "order": 2,
+                "text": "Hold a dumbbell over your clavicle."
+            },
+            {
+                "order": 3,
+                "text": "Engage your core muscles and lift your torso off the floor until your shoulders are a few inches off the ground."
+            },
+            {
+                "order": 4,
+                "text": "Lower yourself back down to the starting position, but avoid resting completely on the floor between reps."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_crunch_front_male_Ce8OwZ9.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_crunch_back_male_3rwWIWD.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_crunch_front_female_xKKZnuU.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_crunch_back_female_svyAjQN.png"
+            }
+        ]
+    },
+    {
+        "id": 573,
+        "name": "Plank IYTW",
+        "description": null,
+        "muscles": [
+            {
+                "id": 12,
+                "name": "Abdominals",
+                "description": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the \u201c6 pack,\u201d however, this is only one part of the abdominals."
+            },
+            {
+                "id": 6,
+                "name": "Shoulders",
+                "description": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start in a plank position. Hold one dumbbell."
+            },
+            {
+                "order": 2,
+                "text": "Raise the dumbbell straight out in front of you (I), at a 45 degree angle (Y), out to the side (T), and then bend at the elbow while raising (W)."
+            },
+            {
+                "order": 3,
+                "text": "Going through IYTW counts as one rep."
+            },
+            {
+                "order": 4,
+                "text": "Make sure to keep your hips stable. If you're unable to, try performing this exercise from the knees."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/plank_iytw_front_male_htPEgMr.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/plank_iytw_back_male_mwIJ9pm.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/plank_iytw_front_female_YJ1W4rm.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/plank_iytw_back_female_7w8xjOp.png"
+            }
+        ]
+    },
+    {
+        "id": 581,
+        "name": "Dumbbell Suitcase Crunch",
+        "description": "",
+        "muscles": [
+            {
+                "id": 12,
+                "name": "Abdominals",
+                "description": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the \u201c6 pack,\u201d however, this is only one part of the abdominals."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Advanced"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lay flat on the ground with a dumbbell. Point the soles of your shoes at the ceiling as well as the dumbbell."
+            },
+            {
+                "order": 2,
+                "text": "Reach for your feet with the dumbbell before bringing your spine back to the floor."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_suitcase_crunch_front_male_e73zEc4.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_suitcase_crunch_back_male_CTmMaVE.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_suitcase_crunch_front_female_BFeMnHW.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_suitcase_crunch_back_female_D5vvBIv.png"
+            }
+        ]
+    },
+    {
+        "id": 429,
+        "name": "Dumbbell Half Kneeling Wood Chopper",
+        "description": null,
+        "muscles": [
+            {
+                "id": 12,
+                "name": "Abdominals",
+                "description": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the \u201c6 pack,\u201d however, this is only one part of the abdominals."
+            },
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Take a half kneeling position. Start with the dumbbell by your knee on the side of the kneeling leg."
+            },
+            {
+                "order": 2,
+                "text": "Rotate at the upper spine, holding the dumbbell away from your body with nearly extended elbows."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-half-kneeling-wood-chopper-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-half-kneeling-wood-chopper-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-half-kneeling-wood-chopper-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-half-kneeling-wood-chopper-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_half_kneeling_wood_chopper_front_male_49Yu3kp.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_half_kneeling_wood_chopper_back_male_2oElrul.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_half_kneeling_wood_chopper_front_female_3Bw3tli.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_half_kneeling_wood_chopper_back_female_1QqRp0o.png"
+            }
+        ]
+    }
+]

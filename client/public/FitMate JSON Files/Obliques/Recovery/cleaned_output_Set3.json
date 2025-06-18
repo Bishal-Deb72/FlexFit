@@ -1,0 +1,227 @@
+[
+    {
+        "id": 1425,
+        "name": "Lat And Lateral Line Stretch",
+        "description": null,
+        "next": 0,
+        "prev": 1,
+        "muscles": [
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start from the standing position with an upright posture."
+            },
+            {
+                "order": 2,
+                "text": "Cross your right leg over the left and raise your right arm over your head."
+            },
+            {
+                "order": 3,
+                "text": "Lean towards your left and reach with your right arm as far to the left as possible."
+            },
+            {
+                "order": 4,
+                "text": "Repeat on the opposite side by crossing the left leg over the right."
+            },
+            {
+                "order": 5,
+                "text": "You can do the same exercise against a wall or by holding onto a pull-up bar."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-lat-and-lateral-line-stretch-unilateral-standing-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-lat-and-lateral-line-stretch-unilateral-standing-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-lat-and-lateral-line-stretch-unilateral-standing-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-lat-and-lateral-line-stretch-unilateral-standing-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/lat_and_lateral_line_stretch_front_male_emIxhkx.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/lat_and_lateral_line_stretch_back_male_KcdVIDz.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/lat_and_lateral_line_stretch_front_female_sjil2Ow.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/lat_and_lateral_line_stretch_back_female_gQUlysM.png"
+            }
+        ]
+    },
+    {
+        "id": 1416,
+        "name": "Seated Lateral Line Stretch",
+        "description": null,
+        "muscles": [
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start from a seated position with an upright posture."
+            },
+            {
+                "order": 2,
+                "text": "Cross your right leg over the left and raise your right arm over your head."
+            },
+            {
+                "order": 3,
+                "text": "Lean towards your left and reach with your right arm as far to the left as possible."
+            },
+            {
+                "order": 4,
+                "text": "Repeat on the opposite side by crossing the left leg over the right."
+            },
+            {
+                "order": 5,
+                "text": "You can do the same exercise against a wall or by holding onto a pull-up bar."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-lateral-line-stretch-and-lumbar-spine-rotation-seated-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-lateral-line-stretch-and-lumbar-spine-rotation-seated-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-lateral-line-stretch-and-lumbar-spine-rotation-seated-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-lateral-line-stretch-and-lumbar-spine-rotation-seated-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_lateral_line_stretch_front_male_tA4vSde.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_lateral_line_stretch_back_male_IRVQT2t.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_lateral_line_stretch_front_female_5AfTBq9.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_lateral_line_stretch_back_female_hMJc5Tx.png"
+            }
+        ]
+    },
+    {
+        "id": 1320,
+        "name": "Prayer Stretch Side Bend",
+        "description": null,
+        "muscles": [
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Sit on your heels and reach out your arms on the floor while pressing the chest towards the ground."
+            },
+            {
+                "order": 2,
+                "text": "Bend your spine towards one side and reach over with your arms."
+            },
+            {
+                "order": 3,
+                "text": "Do the same on the opposite side."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-prayer-stretch-side-bend-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-prayer-stretch-side-bend-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-prayer-stretch-side-bend-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-prayer-stretch-side-bend-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/prayer_stretch_side_bend_front_male_KazlWoS.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/prayer_stretch_side_bend_back_male_JXj63Uo.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/prayer_stretch_side_bend_front_female_9HdxjLd.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/prayer_stretch_side_bend_back_female_SMulKLS.png"
+            }
+        ]
+    }
+]

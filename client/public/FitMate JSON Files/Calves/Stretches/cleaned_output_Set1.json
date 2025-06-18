@@ -1,0 +1,211 @@
+[
+    {
+        "id": 158,
+        "name": "Calves Stretch Variation One",
+        "description": null,
+        "next":0,
+        "prev":0,
+        "muscles": [
+            {
+                "id": 11,
+                "name": "Calves",
+                "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Stretches"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "",
+            "description": ""
+        },
+        "mechanic": {
+            "name": "",
+            "description": ""
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Place the ball of your foot against the wall with your heel on the ground. Place your hands on the wall in front of your shoulders."
+            },
+            {
+                "order": 2,
+                "text": "Keeping your knee straight, slowly lean towards the wall, pause for a few seconds when you feel the stretch extending through your calf muscle."
+            },
+            {
+                "order": 3,
+                "text": "Return to the starting position, and repeat the stretch with your other leg."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calves_stretch_variation_one_front_male_0Y3WzEe.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calves_stretch_variation_one_back_male_6ihJIdm.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calves_stretch_variation_one_front_female_QKSlkJd.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calves_stretch_variation_one_back_female_DORVjoI.png"
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "name": "Calves Stretch Variation Two",
+        "description": null,
+        "muscles": [
+            {
+                "id": 11,
+                "name": "Calves",
+                "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Stretches"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "",
+            "description": ""
+        },
+        "mechanic": {
+            "name": "",
+            "description": ""
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "With both feet flat on the ground, place one leg in front of your shoulder, your other leg should mirror this position behind your other shoulder. In the starting position both of your knees should be straight."
+            },
+            {
+                "order": 2,
+                "text": "Place the palms of your hands against the wall at shoulder height in front of you, lean towards the wall and bend your front leg at the knee while keeping your back leg straight."
+            },
+            {
+                "order": 3,
+                "text": "Pause at the apex of the stretch and return to the starting position. Switch the position of your legs and repeat."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calves_stretch_variation_two_front_male_JVDLomm.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calves_stretch_variation_two_back_male_ek51ACo.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calves_stretch_variation_two_front_female_JBXZqIe.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calves_stretch_variation_two_back_female_grwO9Vp.png"
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "name": "Calves Stretch Variation Three",
+        "description": null,
+        "muscles": [
+            {
+                "id": 11,
+                "name": "Calves",
+                "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Stretches"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "",
+            "description": ""
+        },
+        "mechanic": {
+            "name": "",
+            "description": ""
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Balance the balls of your feet on the platform, leaning forward to use the wall to assist with balance. Engage your calves so that your feet are flat before beginning the stretch."
+            },
+            {
+                "order": 2,
+                "text": "Lower the heels of your feet towards the ground and pause, then push through the balls of your feet like you are standing tip toe, pausing at the apex of the stretch."
+            },
+            {
+                "order": 3,
+                "text": "Repeat as necessary."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calves_stretch_variation_three_front_male_WQA128n.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calves_stretch_variation_three_back_male_yc6qjXB.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calves_stretch_variation_three_front_female_GOJYVfD.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calves_stretch_variation_three_back_female_crnlub4.png"
+            }
+        ]
+    }
+]

@@ -1,0 +1,280 @@
+[
+    {
+        "id": 458,
+        "name": "Dumbbell Single Arm Spider Curl",
+        "description": "",
+        "next": 0,
+        "prev": 1,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Underhand",
+                "description": "Supinated"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lay on an incline or preacher curl bench."
+            },
+            {
+                "order": 2,
+                "text": "Let your arms hang freely off the edge of the bench."
+            },
+            {
+                "order": 3,
+                "text": "Fully flex your elbow and fully extend your elbow on each rep."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_single_arm_spider_curl_front_male_M0efNGK.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_single_arm_spider_curl_back_male_zACUVqv.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_single_arm_spider_curl_front_female_4PL4Re8.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_single_arm_spider_curl_back_female_C07ifBt.png"
+            }
+        ]
+    },
+    {
+        "id": 463,
+        "name": "Dumbbell Spider Curl",
+        "description": "",
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Underhand",
+                "description": "Supinated"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start by placing your forearms on a flat bench and holding a dumbbell in each hand."
+            },
+            {
+                "order": 2,
+                "text": "From this starting position, curl the dumbbells up towards your shoulders, keeping your elbows close to your body and your core engaged."
+            },
+            {
+                "order": 3,
+                "text": "Slowly lower the dumbbells back down to the starting position, and repeat for the desired number of repetitions."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_spider_curl_front_male_uM7h4Pw.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_spider_curl_back_male_uDGW4mb.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_spider_curl_front_female_dHoETzf.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_spider_curl_back_female_c2WJqiY.png"
+            }
+        ]
+    },
+    {
+        "id": 471,
+        "name": "Dumbbell Twisting Curl",
+        "description": "",
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Rotating",
+                "description": "Hands rotate"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start by standing with your feet shoulder-width apart and holding a dumbbell in each hand."
+            },
+            {
+                "order": 2,
+                "text": "Bring the dumbbells to your sides, with your palms facing inward and your elbows bent."
+            },
+            {
+                "order": 3,
+                "text": "From this starting position, curl the dumbbells up towards your shoulders while rotating your wrists so that your palms face your shoulders at the top of the movement."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_twisting_curl_front_male_i6whCA2.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_twisting_curl_back_male_WDYk4jb.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_twisting_curl_front_female_5xjR78s.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_twisting_curl_back_female_1YDS6oK.png"
+            }
+        ]
+    },
+    {
+        "id": 562,
+        "name": "Dumbbell Concentration Curl",
+        "description": "",
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Underhand",
+                "description": "Supinated"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Sit on a flat bench with your feet flat on the floor and your back straight."
+            },
+            {
+                "order": 2,
+                "text": "Lean forward and place your elbow on the inside of your leg."
+            },
+            {
+                "order": 3,
+                "text": "Curl the dumbbell while keeping your elbow against your leg. Make sure to fully extend your elbow on each rep."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_concentration_curl_front_male_ZdN7GKa.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_concentration_curl_back_male_xgYQwRo.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_concentration_curl_front_female_Frqorwy.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_concentration_curl_back_female_r29iQk2.png"
+            }
+        ]
+    }
+]

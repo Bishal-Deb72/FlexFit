@@ -1,0 +1,72 @@
+[
+    {
+        "id": 689,
+        "name": "Vajrasana Variation 2",
+        "description": "",
+        "next": 0,
+        "prev": 1,
+        "muscles": [
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Begin in a kneeling position with your knees together and your shins and feet on the floor."
+            },
+            {
+                "order": 2,
+                "text": "Sit back on your heels and place the tops of your hands on your thighs, with your fingers pointing towards your knees."
+            },
+            {
+                "order": 3,
+                "text": "Relax your shoulders and take deep breaths."
+            },
+            {
+                "order": 4,
+                "text": "Hold the pose for several breaths or as long as is comfortable."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-vajrasana-Variation-2-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-vajrasana-Variation-2-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-vajrasana-Variation-2-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-vajrasana-Variation-2-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/vajrasana_variation_2_front_male_jjxI5s8.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/vajrasana_variation_2_back_male_OaztGCD.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/vajrasana_variation_2_front_female_ihk1dsT.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/vajrasana_variation_2_back_female_1URENDL.png"
+            }
+        ]
+    }
+]

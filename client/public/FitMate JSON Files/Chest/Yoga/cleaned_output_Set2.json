@@ -1,0 +1,212 @@
+[
+    {
+        "id": 691,
+        "name": "Warrior One",
+        "description": "",
+        "next": 0,
+        "prev": 1,
+        "muscles": [
+            {
+                "id": 2,
+                "name": "Chest",
+                "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start in mountain pose, standing with your feet hip-width apart and arms at your sides."
+            },
+            {
+                "order": 2,
+                "text": "Step your left foot back about 3-4 feet and turn it slightly inward, while keeping your right foot facing forward."
+            },
+            {
+                "order": 3,
+                "text": "Inhale and raise your arms overhead, then exhale and bend your right knee, bringing it directly over your ankle."
+            },
+            {
+                "order": 4,
+                "text": "Hold the pose for a few breaths, then inhale and return to mountain pose. Repeat on the other side."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-warrior-one-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-warrior-one-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-warrior-one-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-warrior-one-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/warrior_one_front_male_YhzBMpl.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/warrior_one_back_male_QApX6Z4.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/warrior_one_front_female_PwJwnJI.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/warrior_one_back_female_EJjO92f.png"
+            }
+        ]
+    },
+    {
+        "id": 693,
+        "name": "Warrior Two",
+        "description": "",
+        "muscles": [
+            {
+                "id": 2,
+                "name": "Chest",
+                "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start in mountain pose, standing with your feet hip-width apart and arms at your sides."
+            },
+            {
+                "order": 2,
+                "text": "Step your left foot back about 3-4 feet and turn it slightly inward, while keeping your right foot facing forward."
+            },
+            {
+                "order": 3,
+                "text": "Inhale and raise your arms to shoulder height, parallel to the ground, with your palms facing down."
+            },
+            {
+                "order": 4,
+                "text": "Exhale and bend your right knee, bringing it directly over your ankle while keeping your left leg straight."
+            },
+            {
+                "order": 5,
+                "text": "Look over your right hand and hold the pose for a few breaths, then inhale and return to mountain pose. Repeat on the other side."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-warrior-two-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-warrior-two-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-warrior-two-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-warrior-two-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/warrior_two_front_male_wyhJXiL.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/warrior_two_back_male_5JQCD51.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/warrior_two_front_female_KvuAHWF.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/warrior_two_back_female_roOOpnz.png"
+            }
+        ]
+    },
+    {
+        "id": 696,
+        "name": "Yogi Arm Clock",
+        "description": "",
+        "muscles": [
+            {
+                "id": 2,
+                "name": "Chest",
+                "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand facing a wall with your arms extended and your palms pressing into the wall at shoulder height."
+            },
+            {
+                "order": 2,
+                "text": "Slowly begin to walk your feet away from the wall, keeping your arms straight and your hands pressing into the wall."
+            },
+            {
+                "order": 3,
+                "text": "Walk until your arms are fully extended and your body is at a 45-degree angle to the ground."
+            },
+            {
+                "order": 4,
+                "text": "Repeat From High to Low Angles starting above the shoulder, and ending below the chest."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-yogi-arm-clock-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-yogi-arm-clock-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-yogi-arm-clock-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-yogi-arm-clock-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/yogi_arm_clock_front_male_ftFb560.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/yogi_arm_clock_back_male_SBJhYMT.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/yogi_arm_clock_front_female_h92zH3f.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/yogi_arm_clock_back_female_7mFK1Z3.png"
+            }
+        ]
+    }
+]

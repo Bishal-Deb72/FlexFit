@@ -1,0 +1,294 @@
+[
+    {
+        "id": 162,
+        "name": "Abdominals Stretch Variation One",
+        "description": null,
+        "next": 0,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 12,
+                "name": "Abdominals",
+                "description": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the \u201c6 pack,\u201d however, this is only one part of the abdominals."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Stretches"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "",
+            "description": ""
+        },
+        "mechanic": {
+            "name": "",
+            "description": ""
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lay on your stomach on the floor with your forearms flat on the ground."
+            },
+            {
+                "order": 2,
+                "text": "Extend your elbows and push your upper body upwards."
+            },
+            {
+                "order": 3,
+                "text": "Push your upper body upwards until you feel a stretch in your abs, then return to the starting position and repeat."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/abdominals_stretch_variation_one_front_male_O52ehLI.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/abdominals_stretch_variation_one_back_male_Bgw2x9I.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/abdominals_stretch_variation_one_front_female_ZKsEuE0.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/abdominals_stretch_variation_one_back_female_gtgxIcj.png"
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "name": "Abdominals Stretch Variation Two",
+        "description": null,
+        "muscles": [
+            {
+                "id": 12,
+                "name": "Abdominals",
+                "description": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the \u201c6 pack,\u201d however, this is only one part of the abdominals."
+            },
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Stretches"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "",
+            "description": ""
+        },
+        "mechanic": {
+            "name": "",
+            "description": ""
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand upright."
+            },
+            {
+                "order": 2,
+                "text": "Reach with both hands upwards until you can interlock your fingers."
+            },
+            {
+                "order": 3,
+                "text": "With your hands above your head, lean back until a stretch is felt in the abdominals."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/abdominals_stretch_variation_two_front_male_KLyunnD.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/abdominals_stretch_variation_two_back_male_qFcx2tu.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/abdominals_stretch_variation_two_front_female_MnsF9Hg.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/abdominals_stretch_variation_two_back_female_jj2UJJf.png"
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "name": "Abdominals Stretch Variation Three",
+        "description": null,
+        "muscles": [
+            {
+                "id": 12,
+                "name": "Abdominals",
+                "description": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the \u201c6 pack,\u201d however, this is only one part of the abdominals."
+            },
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Stretches"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "",
+            "description": ""
+        },
+        "mechanic": {
+            "name": "",
+            "description": ""
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand upright."
+            },
+            {
+                "order": 2,
+                "text": "After completing the desired amount of reps with the left arm, switch to the right arm and lean to the left."
+            },
+            {
+                "order": 3,
+                "text": "Reach up with your left arm and then lean slowly to the right. Lean until a stretch is felt in the obliques."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/abdominals_stretch_variation_three_front_male_7uqrxFC.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/abdominals_stretch_variation_three_back_male_YoGgIcN.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/abdominals_stretch_variation_three_front_female_nhXrIyQ.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/abdominals_stretch_variation_three_back_female_KbESDvm.png"
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "name": "Abdominals Stretch Variation Four",
+        "description": null,
+        "muscles": [
+            {
+                "id": 12,
+                "name": "Abdominals",
+                "description": "Aesthetically, the abs are seen as one of the most desirable muscles to possess. To the majority of people, abs consist of only the \u201c6 pack,\u201d however, this is only one part of the abdominals."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Stretches"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "",
+            "description": ""
+        },
+        "mechanic": {
+            "name": "",
+            "description": ""
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lay on a ball or a Bosu ball with your feet firmly planted on the floor."
+            },
+            {
+                "order": 2,
+                "text": "Lean all the way back until you feel a stretch in your abdomen."
+            },
+            {
+                "order": 3,
+                "text": "Crunch upwards and hold for a 1-2 count."
+            },
+            {
+                "order": 4,
+                "text": "Slowly return to the starting position and repeat."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/abdominals_stretch_variation_four_front_male_wyMWmJv.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/abdominals_stretch_variation_four_back_male_eqEZcgd.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/abdominals_stretch_variation_four_front_female_c9QAx2s.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/abdominals_stretch_variation_four_back_female_R6jHc4D.png"
+            }
+        ]
+    }
+]

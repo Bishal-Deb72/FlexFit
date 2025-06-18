@@ -1,0 +1,276 @@
+[
+    {
+        "id": 645,
+        "name": "Gate Pose Variation Arm Extended on Side",
+        "description": "",
+        "next": 1,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start on your knees and extend your right leg out to the side."
+            },
+            {
+                "order": 2,
+                "text": "Raise your right arm above your head and reach towards the left side of the room."
+            },
+            {
+                "order": 3,
+                "text": "Gently bend your body to the left side and rest your left hand on your left thigh."
+            },
+            {
+                "order": 4,
+                "text": "Look up towards your right hand and hold the pose for a few breaths before switching sides."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-gate-pose-arm-extended-on-side-of-head-looking-up-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-gate-pose-arm-extended-on-side-of-head-looking-up-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-gate-pose-arm-extended-on-side-of-head-looking-up-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-gate-pose-arm-extended-on-side-of-head-looking-up-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/gate_pose_variation_arm_extended_on_side_front_male_ITt30Rh.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/gate_pose_variation_arm_extended_on_side_back_male_p5YIUjY.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/gate_pose_variation_arm_extended_on_side_front_female_ron7dp0.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/gate_pose_variation_arm_extended_on_side_back_female_frqsocl.png"
+            }
+        ]
+    },
+    {
+        "id": 670,
+        "name": "Revolved Head To Knee",
+        "description": "",
+        "muscles": [
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Advanced"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Sit on the floor with your legs extended in front of you."
+            },
+            {
+                "order": 2,
+                "text": "Bend your right knee and bring your heel towards your perineum."
+            },
+            {
+                "order": 3,
+                "text": "Place your left hand on the outside of your right knee and twist your body to the right."
+            },
+            {
+                "order": 4,
+                "text": "Reach your right hand towards your left foot and look up towards the ceiling. Hold the pose for a few breaths before switching sides."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-revolved-head-to-knee-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-revolved-head-to-knee-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-revolved-head-to-knee-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-revolved-head-to-knee-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/revolved_head_to_knee_front_male_TelGmLI.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/revolved_head_to_knee_back_male_htZQf7e.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/revolved_head_to_knee_front_female_15JBmz4.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/revolved_head_to_knee_back_female_Xsysmz9.png"
+            }
+        ]
+    },
+    {
+        "id": 676,
+        "name": "Seated Side Bend Pose",
+        "description": "",
+        "muscles": [
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Sit comfortably on the floor with your legs crossed."
+            },
+            {
+                "order": 2,
+                "text": "Inhale and raise your right arm above your head."
+            },
+            {
+                "order": 3,
+                "text": "As you exhale, bend your body to the left side and rest your left hand on the ground."
+            },
+            {
+                "order": 4,
+                "text": "Look up towards the ceiling and hold the pose for a few breaths. Then switch sides and repeat the pose on the other side."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-seated-side-bend-pose-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-seated-side-bend-pose-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-seated-side-bend-pose-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-seated-side-bend-pose-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_side_bend_pose_front_male_QTXKgWv.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_side_bend_pose_back_male_vnI3SjI.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_side_bend_pose_front_female_eSmaVcd.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_side_bend_pose_back_female_I1F3BJK.png"
+            }
+        ]
+    },
+    {
+        "id": 682,
+        "name": "Supine Twist Lying",
+        "description": "",
+        "muscles": [
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lie down on your back with your arms stretched out to your sides."
+            },
+            {
+                "order": 2,
+                "text": "Bend your right knee and bring it towards your chest."
+            },
+            {
+                "order": 3,
+                "text": "Slowly twist your body to the left side, bringing your right knee across your body towards the ground on the left side."
+            },
+            {
+                "order": 4,
+                "text": "Look towards your right hand and hold the pose for a few breaths before switching sides."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-supine-twist-lying-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-supine-twist-lying-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-supine-twist-lying-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-supine-twist-lying-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/supine_twist_lying_front_male_eCftthL.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/supine_twist_lying_back_male_3xriAQ8.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/supine_twist_lying_front_female_TAbcUpp.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/supine_twist_lying_back_female_2KjGTyH.png"
+            }
+        ]
+    }
+]

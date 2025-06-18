@@ -1,0 +1,289 @@
+[
+    {
+        "id": 443,
+        "name": "Dumbbell Overhead Side Bend",
+        "description": "",
+        "next": 1,
+        "prev": 1,
+        "muscles": [
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            },
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Advanced"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start by standing with your feet shoulder-width apart and holding a dumbbell overhead."
+            },
+            {
+                "order": 2,
+                "text": "From this starting position, bend to the side as far as you can while keeping your feet planted and your core engaged."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_overhead_side_bend_front_male_MizAbeO.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_overhead_side_bend_back_male_gQnU2ev.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_overhead_side_bend_front_female_4yLrLkz.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_overhead_side_bend_back_female_mEwXCXm.png"
+            }
+        ]
+    },
+    {
+        "id": 450,
+        "name": "Dumbbell Side Plank Up Down",
+        "description": "",
+        "muscles": [
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 77,
+                "youtube_link": "https://www.youtube.com/embed/7Zat7RFY52Y"
+            },
+            {
+                "id": 78,
+                "youtube_link": "https://www.youtube.com/embed/7Zat7RFY52Y"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start by lying on your side with your feet stacked on top of each other and a dumbbell on your hip."
+            },
+            {
+                "order": 2,
+                "text": "Place your bottom elbow on the ground beneath your shoulder and engage your core to raise your hips off the ground."
+            },
+            {
+                "order": 3,
+                "text": "Your hips will do all the moving. Think, \"hips up, hips down.\""
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_side_plank_up_down_front_male_JcFOKRu.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_side_plank_up_down_back_male_mBr6nUA.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_side_plank_up_down_front_female_PBs4Btp.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_side_plank_up_down_back_female_0hr8UX1.png"
+            }
+        ]
+    },
+    {
+        "id": 472,
+        "name": "Dumbbell Hand Side Plank",
+        "description": null,
+        "muscles": [
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            },
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 69,
+                "youtube_link": "https://www.youtube.com/embed/7Zat7RFY52Y"
+            },
+            {
+                "id": 70,
+                "youtube_link": "https://www.youtube.com/embed/7Zat7RFY52Y"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start by lying on your side with your feet stacked on top of each other and a dumbbell on your hip."
+            },
+            {
+                "order": 2,
+                "text": "Place your bottom hand on the ground beneath your shoulder and engage your core to raise your hips off the ground."
+            },
+            {
+                "order": 3,
+                "text": "From this starting position, hold the side plank position for the desired amount of time, making sure to keep your body straight and your hips level."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-hand-side-plank-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-hand-side-plank-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-hand-side-plank-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-hand-side-plank-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_hand_side_plank_front_male_vSdaVZi.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_hand_side_plank_back_male_6FkwfF8.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_hand_side_plank_front_female_3QsUDVS.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_hand_side_plank_back_female_nSbphk8.png"
+            }
+        ]
+    },
+    {
+        "id": 473,
+        "name": "Dumbbell Elbow Side Plank",
+        "description": null,
+        "muscles": [
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-elbow-side-plank-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-elbow-side-plank-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-elbow-side-plank-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-elbow-side-plank-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_elbow_side_plank_front_male_mWPBurj.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_elbow_side_plank_back_male_luhImql.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_elbow_side_plank_front_female_POAfgfO.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_elbow_side_plank_back_female_CFyYPXj.png"
+            }
+        ]
+    }
+]

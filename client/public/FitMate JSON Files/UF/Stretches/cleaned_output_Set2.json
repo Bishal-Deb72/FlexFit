@@ -1,0 +1,77 @@
+[
+    {
+        "id": 119,
+        "name": "Biceps Stretch Variation Five",
+        "description": null,
+        "next": 0,
+        "prev": 1,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Stretches"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand upright with your feet shoulder width apart."
+            },
+            {
+                "order": 2,
+                "text": "Raise your arms out to your sides, bringing them up to shoulder level."
+            },
+            {
+                "order": 3,
+                "text": "Rotate your palms so they are facing the ceiling."
+            },
+            {
+                "order": 4,
+                "text": "Then, change direction and rotate the arms as much as you can."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/biceps_stretch_variation_five_front_male_95LDdZL.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/biceps_stretch_variation_five_back_male_HjawEUx.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/biceps_stretch_variation_five_front_female_usJDTtb.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/biceps_stretch_variation_five_back_female_TM0ecxH.png"
+            }
+        ]
+    }
+]

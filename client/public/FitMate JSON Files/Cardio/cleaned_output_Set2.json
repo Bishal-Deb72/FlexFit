@@ -1,0 +1,332 @@
+[
+    {
+        "id": 1089,
+        "name": "Cardio Assault Bike",
+        "description": null,
+        "next": 0,
+        "prev": 1,
+        "muscles": [
+            {
+                "id": 9,
+                "name": "Glutes",
+                "description": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+            },
+            {
+                "id": 6,
+                "name": "Shoulders",
+                "description": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+            },
+            {
+                "id": 19,
+                "name": "Anterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            },
+            {
+                "id": 2,
+                "name": "Chest",
+                "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+            },
+            {
+                "id": 47,
+                "name": "Front Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Cardio"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Adjust seat and handlebar height for comfort and proper posture on the assault bike."
+            },
+            {
+                "order": 2,
+                "text": "Start pedaling with even, controlled motion, maintaining your desired resistance level."
+            },
+            {
+                "order": 3,
+                "text": "Monitor heart rate and intensity; increase or decrease resistance for an effective cardio workout."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cardio-cardio-assault-bike-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Cardio-cardio-assault-bike-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cardio-cardio-assault-bike-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Cardio-cardio-assault-bike-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cardio_assault_bike_front_male_MVN6irp.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cardio_assault_bike_back_male_QTWBeDz.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cardio_assault_bike_front_female_9kX8B7u.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cardio_assault_bike_back_female_9ODzZly.png"
+            }
+        ]
+    },
+    {
+        "id": 1090,
+        "name": "Cardio Band Hammer Curl Jacks",
+        "description": null,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 37,
+                "name": "Gluteus Medius",
+                "description": ""
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Cardio"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand with a band looped under both feet and the band grasped in both hands."
+            },
+            {
+                "order": 2,
+                "text": "Do a light hop and bring your feet outward while simultaneously flexing the elbows."
+            },
+            {
+                "order": 3,
+                "text": "Bring both feet back together and extend the elbows."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cardio-cardio-band-hammer-curl-jacks-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Cardio-cardio-band-hammer-curl-jacks-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cardio-cardio-band-hammer-curl-jacks-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Cardio-cardio-band-hammer-curl-jacks-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cardio_band_hammer_curl_jacks_front_male_ykup8do.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cardio_band_hammer_curl_jacks_back_male_sjje538.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cardio_band_hammer_curl_jacks_front_female_iWWyX4Y.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cardio_band_hammer_curl_jacks_back_female_jmQWsxa.png"
+            }
+        ]
+    },
+    {
+        "id": 1091,
+        "name": "Cardio Band Press Jacks",
+        "description": null,
+        "muscles": [
+            {
+                "id": 37,
+                "name": "Gluteus Medius",
+                "description": ""
+            },
+            {
+                "id": 6,
+                "name": "Shoulders",
+                "description": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+            },
+            {
+                "id": 18,
+                "name": "Lateral Deltoid",
+                "description": ""
+            },
+            {
+                "id": 19,
+                "name": "Anterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 5,
+                "name": "Triceps",
+                "description": "The triceps are a muscle with three heads, hence the name. Those heads are the long head, lateral head, and medial head. The triceps are traditionally considered a powerhouse due to their overwhelmingly fast twitch. This expression refers to muscle fibers which expend energy quickly, and the triceps are particularly dominant in this trait. The triceps are involved during any pushing movement."
+            },
+            {
+                "id": 47,
+                "name": "Front Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Cardio"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand with the band looped under both feet and the other end of the band in both hands in an overhead press position."
+            },
+            {
+                "order": 2,
+                "text": "Do a light hop and bring both feet outward while pressing the band overhead."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cardio-cardio-band-press-jacks-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Cardio-cardio-band-press-jacks-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cardio-cardio-band-press-jacks-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Cardio-cardio-band-press-jacks-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cardio_band_press_jacks_front_male_fWbseBG.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cardio_band_press_jacks_back_male_YGfeFfF.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cardio_band_press_jacks_front_female_s7Wr3Vu.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cardio_band_press_jacks_back_female_18hUzTu.png"
+            }
+        ]
+    },
+    {
+        "id": 1092,
+        "name": "Cardio Band Reverse Fly Jacks",
+        "description": null,
+        "muscles": [
+            {
+                "id": 37,
+                "name": "Gluteus Medius",
+                "description": ""
+            },
+            {
+                "id": 20,
+                "name": "Posterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 48,
+                "name": "Rear Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Cardio"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Grab the band with a double overhand grip. Bring both feet outward while performing a little hop."
+            },
+            {
+                "order": 2,
+                "text": "As you hop, pull the band apart."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cardio-cardio-band-reverse-fly-jacks-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Cardio-cardio-band-reverse-fly-jacks-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Cardio-cardio-band-reverse-fly-jacks-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Cardio-cardio-band-reverse-fly-jacks-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cardio_band_reverse_fly_jacks_front_male_8EnUG3t.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cardio_band_reverse_fly_jacks_back_male_AYVW9UC.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cardio_band_reverse_fly_jacks_front_female_JtxfxnR.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/cardio_band_reverse_fly_jacks_back_female_NjxD0ao.png"
+            }
+        ]
+    }
+]

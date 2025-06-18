@@ -1,0 +1,300 @@
+[
+    {
+        "id": 1494,
+        "name": "Machine Assisted Pull Up",
+        "description": null,
+        "next": 1,
+        "prev": 1,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 7,
+                "name": "Lats",
+                "description": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Machine"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Adjust weight for assistance. Stand on platform, grip handles above shoulder-width. Knees on pad if available."
+            },
+            {
+                "order": 2,
+                "text": "Slowly pull up until chin is above the bar. Keep elbows close, core engaged."
+            },
+            {
+                "order": 3,
+                "text": "Lower back with control. Pause at bottom. Repeat for reps."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-assisted-pull-up-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-machine-assisted-pull-up-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-assisted-pull-up-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-machine-assisted-pull-up-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_assisted_pull_up_front_male_D0VvzH9.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_assisted_pull_up_back_male_5tRuFrB.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_assisted_pull_up_front_female_nlzxFsn.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_assisted_pull_up_back_female_9lgE9np.png"
+            }
+        ]
+    },
+    {
+        "id": 1495,
+        "name": "Machine Assisted Narrow Pull Up",
+        "description": null,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 7,
+                "name": "Lats",
+                "description": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Machine"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Adjust weight for assistance. Stand on platform, grip handles above shoulder-width. Knees on pad if available."
+            },
+            {
+                "order": 2,
+                "text": "Slowly pull up until chin is above the bar. Keep elbows close, core engaged."
+            },
+            {
+                "order": 3,
+                "text": "Lower back with control. Pause at bottom. Repeat for reps."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-assisted-narrow-pull-up-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-machine-assisted-narrow-pull-up-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-assisted-narrow-pull-up-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-machine-assisted-narrow-pull-up-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_assisted_narrow_pull_up_front_male_FOLNeCJ.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_assisted_narrow_pull_up_back_male_VtuPCPv.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_assisted_narrow_pull_up_front_female_zX0ipJz.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_assisted_narrow_pull_up_back_female_oV4rwMz.png"
+            }
+        ]
+    },
+    {
+        "id": 1496,
+        "name": "Machine Assisted Neutral Chin Up",
+        "description": null,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 7,
+                "name": "Lats",
+                "description": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Underhand",
+                "description": "Supinated"
+            }
+        ],
+        "category": {
+            "name": "Machine"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Adjust weight for assistance. Stand on platform, grip handles above shoulder-width. Knees on pad if available."
+            },
+            {
+                "order": 2,
+                "text": "Slowly pull up until chin is above the bar. Keep elbows close, core engaged."
+            },
+            {
+                "order": 3,
+                "text": "Lower back with control. Pause at bottom. Repeat for reps."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-assisted-neutral-chin-up-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-machine-assisted-neutral-chin-up-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-assisted-neutral-chin-up-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-machine-assisted-neutral-chin-up-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_assisted_neutral_chin_up_front_male_calgLus.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_assisted_neutral_chin_up_back_male_M1PPSHM.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_assisted_neutral_chin_up_front_female_lpLaFr0.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_assisted_neutral_chin_up_back_female_AXQb49y.png"
+            }
+        ]
+    },
+    {
+        "id": 1497,
+        "name": "Machine Assisted Chin Up",
+        "description": null,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 7,
+                "name": "Lats",
+                "description": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Underhand",
+                "description": "Supinated"
+            }
+        ],
+        "category": {
+            "name": "Machine"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Adjust weight for assistance. Stand on platform, grip handles above shoulder-width. Knees on pad if available."
+            },
+            {
+                "order": 2,
+                "text": "Slowly pull up until chin is above the bar. Keep elbows close, core engaged."
+            },
+            {
+                "order": 3,
+                "text": "Lower back with control. Pause at bottom. Repeat for reps."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-assisted-chin-up-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-machine-assisted-chin-up-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-assisted-chin-up-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-machine-assisted-chin-up-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_assisted_chin_up_front_male_0NmN3u8.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_assisted_chin_up_back_male_AMndRaw.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_assisted_chin_up_front_female_wOKDHYZ.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_assisted_chin_up_back_female_m89wGxF.png"
+            }
+        ]
+    }
+]

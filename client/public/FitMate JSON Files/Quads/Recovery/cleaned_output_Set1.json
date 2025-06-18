@@ -1,0 +1,308 @@
+[
+    {
+        "id": 1483,
+        "name": "Standing Mini-Band Hip Flexion",
+        "description": null,
+        "next":1,
+        "prev":0,
+        "muscles": [
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            },
+            {
+                "id": 30,
+                "name": "Rectus Femoris",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Wrap a loop band around your feet."
+            },
+            {
+                "order": 2,
+                "text": "Drive a knee upwards till your thigh is parallel to the ground."
+            },
+            {
+                "order": 3,
+                "text": "Pause for a moment and then return to the starting position."
+            },
+            {
+                "order": 4,
+                "text": "Try to maintain balance and a good posture when raising the knee."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-hip-flexions-standing-resisted-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-hip-flexions-standing-resisted-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-hip-flexions-standing-resisted-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-hip-flexions-standing-resisted-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_mini-band_hip_flexion_front_male_15AIaQ6.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_mini-band_hip_flexion_back_male_pbO44uy.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_mini-band_hip_flexion_front_female_7pOiMST.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/standing_mini-band_hip_flexion_back_female_qgH6Pad.png"
+            }
+        ]
+    },
+    {
+        "id": 1479,
+        "name": "Hip Flexor Stretch Kneeling Lunge 1",
+        "description": null,
+        "muscles": [
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            },
+            {
+                "id": 30,
+                "name": "Rectus Femoris",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Bring yourself to kneeling lunge position. Keep a 90\u00b0 angle at knees."
+            },
+            {
+                "order": 2,
+                "text": "Slide the front knee forward while gently leaning back."
+            },
+            {
+                "order": 3,
+                "text": "Squeeze the glute on the side of the leg that's to the front to avoid lower back complaints."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-hip-flexor-stretch-kneeling-lunge-1-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-hip-flexor-stretch-kneeling-lunge-1-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-hip-flexor-stretch-kneeling-lunge-1-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-hip-flexor-stretch-kneeling-lunge-1-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/hip_flexor_stretch_kneeling_lunge_1_front_male_zODqpWd.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/hip_flexor_stretch_kneeling_lunge_1_back_male_hxou3dZ.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/hip_flexor_stretch_kneeling_lunge_1_front_female_EwhzNOP.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/hip_flexor_stretch_kneeling_lunge_1_back_female_P4B6gfB.png"
+            }
+        ]
+    },
+    {
+        "id": 1476,
+        "name": "Hip Flexor Stretch Kneeling Lunge 2",
+        "description": null,
+        "muscles": [
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            },
+            {
+                "id": 30,
+                "name": "Rectus Femoris",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Bring yourself to kneeling lunge position. Keep a 90\u00b0 angle at knees."
+            },
+            {
+                "order": 2,
+                "text": "Slide the front knee forward while gently leaning back. Raise your arm diagonally backwards"
+            },
+            {
+                "order": 3,
+                "text": "Squeeze the glute on the side of the leg that's to the front to avoid lower back complaints."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-hip-flexor-stretch-kneeling-lunge-2-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-hip-flexor-stretch-kneeling-lunge-2-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-hip-flexor-stretch-kneeling-lunge-2-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-hip-flexor-stretch-kneeling-lunge-2-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/hip_flexor_stretch_kneeling_lunge_2_front_male_KULcICy.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/hip_flexor_stretch_kneeling_lunge_2_back_male_bBXvQQH.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/hip_flexor_stretch_kneeling_lunge_2_front_female_XwDTSI2.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/hip_flexor_stretch_kneeling_lunge_2_back_female_yOfWOlS.png"
+            }
+        ]
+    },
+    {
+        "id": 1474,
+        "name": "Hip Flexor Stretch Kneeling Lunge 3",
+        "description": null,
+        "muscles": [
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            },
+            {
+                "id": 30,
+                "name": "Rectus Femoris",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Bring yourself to kneeling lunge position. Keep a 90\u00b0 angle at knees."
+            },
+            {
+                "order": 2,
+                "text": "Back foot should be elevated (the higher the elevation the more the hip flexor/upper quad will stretch)."
+            },
+            {
+                "order": 3,
+                "text": "Slide the front knee forward while gently leaning back."
+            },
+            {
+                "order": 4,
+                "text": "Squeeze the glute on the side of the leg that's to the front to avoid lower back complaints."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-hip-flexor-stretch-kneeling-lunge-3-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-hip-flexor-stretch-kneeling-lunge-3-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-hip-flexor-stretch-kneeling-lunge-3-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-hip-flexor-stretch-kneeling-lunge-3-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/hip_flexor_stretch_kneeling_lunge_3_front_male_4N6UJky.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/hip_flexor_stretch_kneeling_lunge_3_back_male_sHH1IUm.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/hip_flexor_stretch_kneeling_lunge_3_front_female_WnjcZhf.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/hip_flexor_stretch_kneeling_lunge_3_back_female_rCIhJxz.png"
+            }
+        ]
+    }
+]

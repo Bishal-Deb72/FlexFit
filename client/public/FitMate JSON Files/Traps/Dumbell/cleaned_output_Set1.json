@@ -1,0 +1,318 @@
+[
+    {
+        "id": 451,
+        "name": "Dumbbell Silverback Shrug",
+        "description": "",
+        "next": 1,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 14,
+                "name": "Traps (mid-back)",
+                "description": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+            },
+            {
+                "id": 4,
+                "name": "Traps",
+                "description": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            },
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 169,
+                "youtube_link": "https://www.youtube.com/embed/StaMuh5azZk"
+            },
+            {
+                "id": 170,
+                "youtube_link": "https://www.youtube.com/embed/StaMuh5azZk"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand with your feet shoulder width apart holding dumbbells with both hands in front just past shoulder width."
+            },
+            {
+                "order": 2,
+                "text": "Bend forward at the hips with a slight bend in your knees, keeping your back straight."
+            },
+            {
+                "order": 3,
+                "text": "Engage your shoulder blades, as if you are trying to touch them together."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-silverback-shrug-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-silverback-shrug-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-silverback-shrug-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-silverback-shrug-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_silverback_shrug_front_male_17ZB9Ug.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_silverback_shrug_back_male_wBSPmVI.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_silverback_shrug_front_female_iAfvyNe.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_silverback_shrug_back_female_oH6An76.png"
+            }
+        ]
+    },
+    {
+        "id": 290,
+        "name": "Dumbbell Shrug",
+        "description": "<p><b><span style=\"font-size: 36px;\">How To Perform The Standing Dumbbell Shrug</span></b></p><p><b><span style=\"font-size: 36px;\"><br></span></b></p><p><b><span style=\"font-size: 24px;\">Setup</span></b></p><p>Grab two dumbbells and stand tall with a narrow foot stance. Poke your chest out and pull your shoulder blades back. The dumbbells should be on the side of your legs.&nbsp;</p><p><br></p><p><b><span style=\"font-size: 24px;\">Performing&nbsp;</span></b></p><p>Pull your shoulder joint straight up toward the ceiling. Get your shoulders as high as you can. You should feel your traps contract very hard when you have hit an adequate range of motion. From this point, begin to drop your shoulders back down to the starting position.</p><p><br></p><p>Avoid rolling your shoulders. This is a very common form mistake on shrugs. The upper portion of the traps elevates the scapula, while the mid and lower traps, retract and depress the scapula. However, when you are in a seated or standing position the dumbbells will be pulling downward (because of gravity) so scapular elevation is the only anatomical function being performed against resistance. Therefore, retracting and depressing the scapula on each rep (rolling the shoulders) will not recruit your mid and lower traps. You would need a different exercise for that.</p><p><br></p><p>Also, pay particular attention to your neck. It is also very common to push one's head forward when performing a shrug. This can put unnecessary stress on your neck and cervical spine. Keep your chin pulled back and your head in a neutral position.</p>",
+        "muscles": [
+            {
+                "id": 4,
+                "name": "Traps",
+                "description": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+            },
+            {
+                "id": 41,
+                "name": "Upper Traps",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 225,
+                "youtube_link": "https://www.youtube.com/embed/Vfmo9cfeOJc?si=x9am08WW2iYrFgdF"
+            },
+            {
+                "id": 226,
+                "youtube_link": "https://www.youtube.com/embed/Vfmo9cfeOJc?si=x9am08WW2iYrFgdF"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand tall with two dumbbells. Pull your shoulder blades up. Give a one second squeeze at the top."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-shrug-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-shrug-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-shrug-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-shrug-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_shrug_front_male_XZTlJSA.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_shrug_back_male_dERdrBL.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_shrug_front_female_RaVagvs.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_shrug_back_female_Xf0LpO6.png"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Dumbbell Seated Shrug",
+        "description": "<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 36px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b>How To Perform The Seated Shrug</b></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\"><br></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b>Setup</b></span></p><p><b style=\"font-weight:normal;\" id=\"docs-internal-guid-627774cb-7fff-38e2-c50d-2e4afb554689\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Grab two dumbbells and sit at the edge of either a bench or box. Bring your legs relatively close together, so they are out of the way of the dumbbells.</span></p><p><b style=\"font-weight:normal;\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Use the cue, \"superman chest.\" Imagine you have the Superman logo on your chest and show it off. This will open your chest and force you to sit tall while pulling your shoulder blades back.</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Let your arms be in a dead hang position.</span></p><p><b style=\"font-weight:normal;\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b>Performing the Seated Shrug</b></span></p><p><b style=\"font-weight:normal;\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Pull your shoulder joint straight up toward the ceiling. Get your shoulders as high as you can. You should feel your traps contract very hard when you have hit an adequate range of motion. From this point, begin to drop your shoulders back down to the starting position.</span></p><p><b style=\"font-weight:normal;\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Avoid rolling your shoulders. This is a very common form mistake on shrugs. The upper portion of the traps elevates the scapula, while the mid and lower traps, retract and depress the scapula. However, when you are in a seated or standing position the dumbbells will be pulling downward (because of gravity) so scapular elevation is the only anatomical function being performed against resistance. Therefore, retracting and depressing the scapula on each rep (rolling the shoulders) will not recruit your mid and lower traps. You would need a different exercise for that.</span></p><p><br></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Also, pay particular attention to your neck. It is also very common to push one's head forward when performing a shrug. This can put unnecessary stress on your neck and cervical spine. Keep your chin pulled back and your head in a neutral position.</span></p>",
+        "muscles": [
+            {
+                "id": 4,
+                "name": "Traps",
+                "description": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+            },
+            {
+                "id": 41,
+                "name": "Upper Traps",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 39,
+                "youtube_link": "https://www.youtube.com/embed/Vfmo9cfeOJc?si=x9am08WW2iYrFgdF"
+            },
+            {
+                "id": 40,
+                "youtube_link": "https://www.youtube.com/embed/Vfmo9cfeOJc?si=x9am08WW2iYrFgdF"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Sit on a bench with dumbbells in both hands, palms facing your body, back straight."
+            },
+            {
+                "order": 2,
+                "text": "Elevate your shoulders and hold the contracted position at the apex of the motion."
+            },
+            {
+                "order": 3,
+                "text": "Slowly lower your shoulders back to starting position."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_seated_shrug_front_male_MZKf8GL.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_seated_shrug_back_male_nrABKrf.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_seated_shrug_front_female_SDFx1PC.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_seated_shrug_back_female_MBecZsH.png"
+            }
+        ]
+    },
+    {
+        "id": 406,
+        "name": "Dumbbell Laying 30 Degree Shrug",
+        "description": "",
+        "muscles": [
+            {
+                "id": 4,
+                "name": "Traps",
+                "description": "There is far more to the trapezius muscle than meets the eye. The traps are not just the muscle that sits on top of your shoulders. The traps actually travel a large portion of your spine. When well developed, the traps take on the look of a cobra hood.\r\n\r\nThe traps are divided into three portions. Those portions are referred to as the superior, medial, and inferior fibers. All three parts serve similar, but different functions."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            },
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lay sideways on a bench letting your arm hang freely."
+            },
+            {
+                "order": 2,
+                "text": "Pull your shoulder blade and joint toward the ceiling."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_laying_30_degree_shrug_front_male_ADpN42F.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_laying_30_degree_shrug_back_male_3kaC8qr.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_laying_30_degree_shrug_front_female_tSoufnB.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_laying_30_degree_shrug_back_female_GE0dEiG.png"
+            }
+        ]
+    }
+]

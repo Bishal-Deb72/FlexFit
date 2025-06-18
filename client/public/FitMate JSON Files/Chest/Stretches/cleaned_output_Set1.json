@@ -1,0 +1,280 @@
+[
+    {
+        "id": 127,
+        "name": "Chest Stretch Variation One",
+        "description": null,
+        "next": 0,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 2,
+                "name": "Chest",
+                "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Stretches"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "",
+            "description": ""
+        },
+        "mechanic": {
+            "name": "",
+            "description": ""
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Using a raised wall, place your arm at a 90 degree angle against it."
+            },
+            {
+                "order": 2,
+                "text": "With a staggered stance, lean into the wall extending your chest."
+            },
+            {
+                "order": 3,
+                "text": "Pause for a few seconds and then return to starting position and repeat on opposite side."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/chest_stretch_variation_one_front_male_M0tksKZ.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/chest_stretch_variation_one_back_male_jfkFgoa.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/chest_stretch_variation_one_front_female_9r9LSjk.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/chest_stretch_variation_one_back_female_VfzLHKB.png"
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "name": "Chest Stretch Variation Two",
+        "description": null,
+        "muscles": [
+            {
+                "id": 2,
+                "name": "Chest",
+                "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Stretches"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "",
+            "description": ""
+        },
+        "mechanic": {
+            "name": "",
+            "description": ""
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lay on your side with one hand just in front of you."
+            },
+            {
+                "order": 2,
+                "text": "With a slight bend in your arm, rotate your arm around your body as slowly as possible."
+            },
+            {
+                "order": 3,
+                "text": "Return to the starting position and then repeat on the other side."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/chest_stretch_variation_two_front_male_YvI9I3I.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/chest_stretch_variation_two_back_male_N9PfVcG.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/chest_stretch_variation_two_front_female_JjHZaiY.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/chest_stretch_variation_two_back_female_HYUiCCo.png"
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "name": "Chest Stretch Variation Three",
+        "description": null,
+        "muscles": [
+            {
+                "id": 2,
+                "name": "Chest",
+                "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Stretches"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "",
+            "description": ""
+        },
+        "mechanic": {
+            "name": "",
+            "description": ""
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Place your arms behind your back and clasp your hands together."
+            },
+            {
+                "order": 2,
+                "text": "Slowly extend your elbows until they are locked then lift them away from you."
+            },
+            {
+                "order": 3,
+                "text": "Pause in this position for a few seconds and then return them to starting position."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/chest_stretch_variation_three_front_male_M8X5BAu.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/chest_stretch_variation_three_back_male_JNJ3Vnf.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/chest_stretch_variation_three_front_female_Edy2jEU.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/chest_stretch_variation_three_back_female_hrcu44a.png"
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "name": "Chest Stretch Variation Four",
+        "description": null,
+        "muscles": [
+            {
+                "id": 2,
+                "name": "Chest",
+                "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Stretches"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "",
+            "description": ""
+        },
+        "mechanic": {
+            "name": "",
+            "description": ""
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Raise your arms to shoulder height, fully extended in front of you."
+            },
+            {
+                "order": 2,
+                "text": "Slowly bring your arms behind your back still at shoulder height."
+            },
+            {
+                "order": 3,
+                "text": "Pause for a few seconds and then return to starting position."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/chest_stretch_variation_four_front_male_N2oN4Co.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/chest_stretch_variation_four_back_male_hBRLHLd.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/chest_stretch_variation_four_front_female_d386pUR.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/chest_stretch_variation_four_back_female_hLXx3mc.png"
+            }
+        ]
+    }
+]

@@ -1,0 +1,303 @@
+[
+    {
+        "id": 1452,
+        "name": "Jump Into Single Leg Landing",
+        "description": null,
+        "next":1,
+        "prev":1,
+        "muscles": [
+            {
+                "id": 9,
+                "name": "Glutes",
+                "description": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+            },
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start from the standing position. Lower your body into a semi-squatted position."
+            },
+            {
+                "order": 2,
+                "text": "Push off the ground with two legs to perform the jump."
+            },
+            {
+                "order": 3,
+                "text": "Land on one leg, making sure to absorb the impact by bending the knee as much as needed."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-jump-bilateral-into-unilateral-landing-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-jump-bilateral-into-unilateral-landing-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-jump-bilateral-into-unilateral-landing-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-jump-bilateral-into-unilateral-landing-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/jump_into_single_leg_landing_front_male_EgC7FVh.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/jump_into_single_leg_landing_back_male_3QvXZQL.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/jump_into_single_leg_landing_front_female_Ki6LScV.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/jump_into_single_leg_landing_back_female_EAPltfr.png"
+            }
+        ]
+    },
+    {
+        "id": 1448,
+        "name": "Jump Off Box Single Leg Landing",
+        "description": null,
+        "muscles": [
+            {
+                "id": 9,
+                "name": "Glutes",
+                "description": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+            },
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start from the standing position on a box. Lower your body into a semi-squatted position"
+            },
+            {
+                "order": 2,
+                "text": "Push off the box with two legs to perform the jump."
+            },
+            {
+                "order": 3,
+                "text": "Land on one leg, on the ground, making sure to absorb the impact by bending the knee as much as needed."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-jump-off-box-single-leg-landing-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-jump-off-box-single-leg-landing-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-jump-off-box-single-leg-landing-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-jump-off-box-single-leg-landing-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/jump_off_box_single_leg_landing_front_male_XRZ7iFZ.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/jump_off_box_single_leg_landing_back_male_PA6N8oV.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/jump_off_box_single_leg_landing_front_female_rt50u1G.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/jump_off_box_single_leg_landing_back_female_quLeeKO.png"
+            }
+        ]
+    },
+    {
+        "id": 1445,
+        "name": "Jump On And Off Box",
+        "description": null,
+        "muscles": [
+            {
+                "id": 9,
+                "name": "Glutes",
+                "description": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+            },
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start from the standing position. Lower your body into a semi-squatted position"
+            },
+            {
+                "order": 2,
+                "text": "Push off the ground with two legs to perform the jump and land on the box. Jump off the box in the same manner"
+            },
+            {
+                "order": 3,
+                "text": "Land on one leg, on the ground, making sure to absorb the impact by bending the knee as much as needed."
+            },
+            {
+                "order": 4,
+                "text": "Absorb the impact by bending the knees when landing. Try to maintain your balance"
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-jump-on-and-off-box-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-jump-on-and-off-box-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-jump-on-and-off-box-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-jump-on-and-off-box-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/jump_on_and_off_box_front_male_cXwydEc.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/jump_on_and_off_box_back_male_XuzT1vj.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/jump_on_and_off_box_front_female_EeVRC7h.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/jump_on_and_off_box_back_female_zOEZ7tz.png"
+            }
+        ]
+    },
+    {
+        "id": 1440,
+        "name": "Band Knee Extension",
+        "description": null,
+        "muscles": [
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Attach a band to a fixed point and wrap the loose end around your knee."
+            },
+            {
+                "order": 2,
+                "text": "Start in the standing position, facing the anchoring point and with the band already under tension."
+            },
+            {
+                "order": 3,
+                "text": "Allow the working knee to bend (the band will pull the knee), while shifting your weight onto the supporting leg."
+            },
+            {
+                "order": 4,
+                "text": "Shift your weight back onto the bentleg and fully extend the knee (pull the kneecap up)"
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-knee-extension-closed-chain-standing-resisted-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-knee-extension-closed-chain-standing-resisted-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-knee-extension-closed-chain-standing-resisted-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-knee-extension-closed-chain-standing-resisted-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/band_knee_extension_front_male_piJvskk.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/band_knee_extension_back_male_Cl1a82M.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/band_knee_extension_front_female_EPNIIzs.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/band_knee_extension_back_female_mOd7Q3t.png"
+            }
+        ]
+    }
+]

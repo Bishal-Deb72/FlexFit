@@ -1,0 +1,144 @@
+[
+    {
+        "id": 674,
+        "name": "Scorpion Twist Pose",
+        "description": "",
+        "next": 0,
+        "prev": 1,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Begin in a downward-facing dog pose."
+            },
+            {
+                "order": 2,
+                "text": "Slowly lift one leg up towards the ceiling, keeping your hips level and your toes pointed."
+            },
+            {
+                "order": 3,
+                "text": "Bend your lifted leg and try to touch your toes to the back of your head."
+            },
+            {
+                "order": 4,
+                "text": "Once you have a firm grip with your toes, slowly begin to twist your torso towards the lifted leg."
+            },
+            {
+                "order": 5,
+                "text": "Keep your hands and feet firmly planted on the ground as you hold the pose for a few breaths. Release the pose and repeat on the other side."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-scorpion-twist-pose-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-scorpion-twist-pose-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-scorpion-twist-pose-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-scorpion-twist-pose-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/scorpion_twist_pose_front_male_H4NC7ee.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/scorpion_twist_pose_back_male_H0JD8Oy.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/scorpion_twist_pose_front_female_fjYXwzv.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/scorpion_twist_pose_back_female_z8Uc5To.png"
+            }
+        ]
+    },
+    {
+        "id": 675,
+        "name": "Seated Arm Stretch",
+        "description": "",
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Sit cross-legged on the floor."
+            },
+            {
+                "order": 2,
+                "text": "Extend your arms straight out in front of you, palms facing forward."
+            },
+            {
+                "order": 3,
+                "text": "Cross your right arm over your left arm and interlace your fingers."
+            },
+            {
+                "order": 4,
+                "text": "Pull your hands away from your body and hold for a few breaths, then release and repeat with the opposite arm on top."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-seated-arm-stretch-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-seated-arm-stretch-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-seated-arm-stretch-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-seated-arm-stretch-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_arm_stretch_front_male_voN8h68.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_arm_stretch_back_male_DwwAkBo.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_arm_stretch_front_female_Nk2iujl.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_arm_stretch_back_female_vWn4Rpd.png"
+            }
+        ]
+    }
+]

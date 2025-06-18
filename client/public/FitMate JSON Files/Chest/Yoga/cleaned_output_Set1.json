@@ -1,0 +1,280 @@
+[
+    {
+        "id": 623,
+        "name": "Bow Pose",
+        "description": "",
+        "next": 1,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 2,
+                "name": "Chest",
+                "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lie on your stomach with your arms at your sides."
+            },
+            {
+                "order": 2,
+                "text": "Bend your knees and bring your heels towards your buttocks."
+            },
+            {
+                "order": 3,
+                "text": "Reach back with your hands and grab your ankles."
+            },
+            {
+                "order": 4,
+                "text": "Inhale and lift your chest off the ground, pulling your legs up and back with your hands."
+            },
+            {
+                "order": 5,
+                "text": "Keep your gaze forward and hold the pose for a few breaths before releasing back to the ground."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-bow-pose-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-bow-pose-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-bow-pose-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-bow-pose-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bow_pose_front_male_Ykb5Gmc.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bow_pose_back_male_CEUfw98.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bow_pose_front_female_XTIkdM3.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/bow_pose_back_female_9bIDvMN.png"
+            }
+        ]
+    },
+    {
+        "id": 655,
+        "name": "Mountain",
+        "description": "",
+        "muscles": [
+            {
+                "id": 2,
+                "name": "Chest",
+                "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand tall with your feet hip-width apart and your arms at your sides."
+            },
+            {
+                "order": 2,
+                "text": "Press your feet into the ground and engage your leg muscles."
+            },
+            {
+                "order": 3,
+                "text": "Lift your chest and roll your shoulders back and down."
+            },
+            {
+                "order": 4,
+                "text": "Take a deep breath in, and as you exhale, release any tension in your body and relax your muscles."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-mountain-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-mountain-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-mountain-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-mountain-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/mountain_front_male_NTM40cu.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/mountain_back_male_s6L32aD.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/mountain_front_female_D7YC4ip.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/mountain_back_female_j0cZfUb.png"
+            }
+        ]
+    },
+    {
+        "id": 683,
+        "name": "Supported Matsyasana Pose",
+        "description": "",
+        "muscles": [
+            {
+                "id": 2,
+                "name": "Chest",
+                "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Sit on the floor with your legs stretched out in front of you."
+            },
+            {
+                "order": 2,
+                "text": "Place a yoga block behind you, horizontally, at the base of your spine."
+            },
+            {
+                "order": 3,
+                "text": "Slowly recline over the block, supporting yourself with your forearms, until your back is resting on the block."
+            },
+            {
+                "order": 4,
+                "text": "Relax your arms at your sides, palms facing up, and breathe deeply."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-supported-matsyasana-pose-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-supported-matsyasana-pose-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-supported-matsyasana-pose-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-supported-matsyasana-pose-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/supported_matsyasana_pose_front_male_ntYgRiS.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/supported_matsyasana_pose_back_male_e2grgXE.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/supported_matsyasana_pose_front_female_E54AoaG.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/supported_matsyasana_pose_back_female_h5CHIxe.png"
+            }
+        ]
+    },
+    {
+        "id": 685,
+        "name": "Tree Pose",
+        "description": "",
+        "muscles": [
+            {
+                "id": 2,
+                "name": "Chest",
+                "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start in mountain pose, standing with your feet hip-width apart and arms at your sides."
+            },
+            {
+                "order": 2,
+                "text": "Shift your weight onto your left foot and bend your right knee, bringing the sole of your right foot to the inside of your left thigh."
+            },
+            {
+                "order": 3,
+                "text": "Bring your hands together in front of your heart, or raise them overhead."
+            },
+            {
+                "order": 4,
+                "text": "Hold the pose for a few breaths, then release and repeat on the other side."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-tree-pose-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-tree-pose-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-tree-pose-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-tree-pose-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/tree_pose_front_male_F6MBP7V.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/tree_pose_back_male_qO3CXRQ.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/tree_pose_front_female_c6JOINJ.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/tree_pose_back_female_lRypmPd.png"
+            }
+        ]
+    }
+]

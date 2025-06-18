@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1490,
+        "name": "EZ Bar Reverse Preacher Curl",
+        "description": null,
+        "next": 0,
+        "prev": 1,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Sit on preacher bench, grip EZ bar overhand at shoulder width, elbows resting on pad."
+            },
+            {
+                "order": 2,
+                "text": "Curl bar towards chin, keep elbows stable."
+            },
+            {
+                "order": 3,
+                "text": "Lower bar slowly to starting position, maintaining control throughout."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-ez-bar-reverse-preacher-curl-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-ez-bar-reverse-preacher-curl-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-ez-bar-reverse-preacher-curl-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-ez-bar-reverse-preacher-curl-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/ez_bar_reverse_preacher_curl_front_male_UPIM6BU.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/ez_bar_reverse_preacher_curl_back_male_VDkFL4m.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/ez_bar_reverse_preacher_curl_front_female_OIKa0OR.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/ez_bar_reverse_preacher_curl_back_female_OyMMnXE.png"
+            }
+        ]
+    }
+]

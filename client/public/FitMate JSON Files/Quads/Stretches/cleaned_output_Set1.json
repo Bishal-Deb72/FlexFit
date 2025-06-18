@@ -1,0 +1,280 @@
+[
+    {
+        "id": 131,
+        "name": "Quads Stretch Variation One",
+        "description": null,
+        "next": 0,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Stretches"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "",
+            "description": ""
+        },
+        "mechanic": {
+            "name": "",
+            "description": ""
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand perpendicular to a wall, using one arm against the wall for balance. With your other arm, grab the top of your foot."
+            },
+            {
+                "order": 2,
+                "text": "Pull your leg upwards and back to engage your quads, pausing at the apex of the stretch for a few seconds."
+            },
+            {
+                "order": 3,
+                "text": "Return to starting position and repeat with your other leg."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/quads_stretch_variation_one_front_male_YLo0NsV.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/quads_stretch_variation_one_back_male_v6bXTxk.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/quads_stretch_variation_one_front_female_VhPabmx.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/quads_stretch_variation_one_back_female_0ek5nhZ.png"
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "name": "Quads Stretch Variation Two",
+        "description": null,
+        "muscles": [
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Stretches"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "",
+            "description": ""
+        },
+        "mechanic": {
+            "name": "",
+            "description": ""
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Place one foot flat on the ground in front of you at a 90 degree angle. With your other leg, balance upon your knee, placing the tip of your foot against the wall behind you for balance."
+            },
+            {
+                "order": 2,
+                "text": "Place your hands on your knee in front of you, and lean forward so that your knee extends over your foot."
+            },
+            {
+                "order": 3,
+                "text": "Pause at the apex of the stretch, and slowly return to starting position. Repeat with your other leg."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/quads_stretch_variation_two_front_male_3yLTeom.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/quads_stretch_variation_two_back_male_IkTV9bU.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/quads_stretch_variation_two_front_female_ayKuypC.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/quads_stretch_variation_two_back_female_1rhF14V.png"
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "name": "Quads Stretch Variation Three",
+        "description": null,
+        "muscles": [
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Stretches"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "",
+            "description": ""
+        },
+        "mechanic": {
+            "name": "",
+            "description": ""
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lay flat on your belly, with both hands reach back and grab the tops of your feet."
+            },
+            {
+                "order": 2,
+                "text": "Keeping your upper legs flat on the ground, pull both of your feet towards your buttocks."
+            },
+            {
+                "order": 3,
+                "text": "Pause at the apex of the stretch, then return to starting position."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/quads_stretch_variation_three_front_male_kMUE57S.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/quads_stretch_variation_three_back_male_6wA20Js.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/quads_stretch_variation_three_front_female_XF7lM93.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/quads_stretch_variation_three_back_female_OyPK0ao.png"
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "name": "Quads Stretch Variation Four",
+        "description": null,
+        "muscles": [
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Stretches"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "",
+            "description": ""
+        },
+        "mechanic": {
+            "name": "",
+            "description": ""
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lay flat on your belly. Extend one arm out in front of you, placing your palm on the floor. With your other arm, grab the top of your foot."
+            },
+            {
+                "order": 2,
+                "text": "Keeping your upper leg flat on the floor, pull your foot towards your buttocks to engage the stretch."
+            },
+            {
+                "order": 3,
+                "text": "Pause for a few seconds, and then repeat the stretch with your other leg."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/quads_stretch_variation_four_front_male_5tXDpgy.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/quads_stretch_variation_four_back_male_D3vpIF4.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/quads_stretch_variation_four_front_female_cSsrlHv.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/quads_stretch_variation_four_back_female_FVtBpLo.png"
+            }
+        ]
+    }
+]

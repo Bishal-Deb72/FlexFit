@@ -1,0 +1,296 @@
+[
+    {
+        "id": 155,
+        "name": "Forearms Stretch Variation One",
+        "description": null,
+        "next": 0,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Stretches"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "",
+            "description": ""
+        },
+        "mechanic": {
+            "name": "",
+            "description": ""
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Place your palm flush against the wall."
+            },
+            {
+                "order": 2,
+                "text": "Take one step forward and straighten your arm slowly to extend your bicep."
+            },
+            {
+                "order": 3,
+                "text": "Hold at the peak of the stretch."
+            },
+            {
+                "order": 4,
+                "text": "Return to starting position."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/forearms_stretch_variation_one_front_male_kF5ph8E.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/forearms_stretch_variation_one_back_male_kbYYJ76.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/forearms_stretch_variation_one_front_female_dRPy2Qn.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/forearms_stretch_variation_one_back_female_0W2qU8V.png"
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "name": "Forearms Stretch Variation Two",
+        "description": null,
+        "muscles": [
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Stretches"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "",
+            "description": ""
+        },
+        "mechanic": {
+            "name": "",
+            "description": ""
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Place your hand against a wall, palms facing upward, with finger tips touching."
+            },
+            {
+                "order": 2,
+                "text": "Slowly lean into your palm."
+            },
+            {
+                "order": 3,
+                "text": "Hold at the peak of the stretch."
+            },
+            {
+                "order": 4,
+                "text": "Return to starting position."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/forearms_stretch_variation_two_front_male_GsKycqk.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/forearms_stretch_variation_two_back_male_pfsn69J.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/forearms_stretch_variation_two_front_female_8rlhVQd.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/forearms_stretch_variation_two_back_female_QLzbbJx.png"
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "name": "Forearms Stretch Variation Three",
+        "description": null,
+        "muscles": [
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Stretches"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "",
+            "description": ""
+        },
+        "mechanic": {
+            "name": "",
+            "description": ""
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Place your hands together."
+            },
+            {
+                "order": 2,
+                "text": "Rotate your arms and hands 180 degrees."
+            },
+            {
+                "order": 3,
+                "text": "Hold at the peak of the stretch."
+            },
+            {
+                "order": 4,
+                "text": "Return to starting position."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/forearms_stretch_variation_three_front_male_8Cy8D34.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/forearms_stretch_variation_three_back_male_JtMH0mY.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/forearms_stretch_variation_three_front_female_NvbqjGI.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/forearms_stretch_variation_three_back_female_fg0qteH.png"
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "name": "Forearms Stretch Variation Four",
+        "description": null,
+        "muscles": [
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Stretches"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "",
+            "description": ""
+        },
+        "mechanic": {
+            "name": "",
+            "description": ""
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Raise your arm to shoulder height at 90 degrees to your body."
+            },
+            {
+                "order": 2,
+                "text": "Press lightly on your hand and push towards you."
+            },
+            {
+                "order": 3,
+                "text": "Rotate the arm across your body."
+            },
+            {
+                "order": 4,
+                "text": "Switch sides and repeat."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/forearms_stretch_variation_four_front_male_FWVILCC.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/forearms_stretch_variation_four_back_male_WDzGHCy.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/forearms_stretch_variation_four_front_female_1ELij0X.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/forearms_stretch_variation_four_back_female_UU7JY1r.png"
+            }
+        ]
+    }
+]

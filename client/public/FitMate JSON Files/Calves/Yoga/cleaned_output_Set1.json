@@ -1,0 +1,204 @@
+[
+    {
+        "id": 636,
+        "name": "Downward Dog Toe To Heel",
+        "description": "",
+        "next":0,
+        "prev":0,
+        "muscles": [
+            {
+                "id": 11,
+                "name": "Calves",
+                "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Begin in a downward-facing dog position with your hands shoulder-width apart and your feet hip-width apart."
+            },
+            {
+                "order": 2,
+                "text": "Lift your right foot off the mat and place your right toes on top of your left heel."
+            },
+            {
+                "order": 3,
+                "text": "Press your palms and fingers firmly into the mat and lift your hips up towards the ceiling, deepening the stretch in your hamstrings and calves."
+            },
+            {
+                "order": 4,
+                "text": "Hold the pose for a few breaths, and then release by slowly walking your hands back out to a downward-facing dog position."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-downward-dog-toe-to-heel-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-downward-dog-toe-to-heel-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-downward-dog-toe-to-heel-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-downward-dog-toe-to-heel-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/downward_dog_toe_to_heel_front_male_0WSkH4d.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/downward_dog_toe_to_heel_back_male_SjePD06.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/downward_dog_toe_to_heel_front_female_7QGbY1J.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/downward_dog_toe_to_heel_back_female_MsvOJfP.png"
+            }
+        ]
+    },
+    {
+        "id": 662,
+        "name": "Pyramid Pose Calf Blocks",
+        "description": "",
+        "muscles": [
+            {
+                "id": 11,
+                "name": "Calves",
+                "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Start standing with a flat and vertical block on the matt"
+            },
+            {
+                "order": 2,
+                "text": "Bend forward, placing hand on vertical block, and front of foot on the flat block."
+            },
+            {
+                "order": 3,
+                "text": "Press the bottom of your foot towards the ground, and repeat on each side."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-pyramid-pose-calf-blocks-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-pyramid-pose-calf-blocks-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-pyramid-pose-calf-blocks-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-pyramid-pose-calf-blocks-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/pyramid_pose_calf_blocks_front_male_luaEjC8.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/pyramid_pose_calf_blocks_back_male_QuQ8HJr.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/pyramid_pose_calf_blocks_front_female_0jsFvRC.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/pyramid_pose_calf_blocks_back_female_r79wDKa.png"
+            }
+        ]
+    },
+    {
+        "id": 690,
+        "name": "Walk Your Downward Dog",
+        "description": "",
+        "muscles": [
+            {
+                "id": 11,
+                "name": "Calves",
+                "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Yoga"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Begin in a downward-facing dog position with your hands shoulder-width apart and your feet hip-width apart."
+            },
+            {
+                "order": 2,
+                "text": "Walk your feet towards your hands, bending your knees as needed to allow your heels to touch the mat."
+            },
+            {
+                "order": 3,
+                "text": "Press your palms and fingers into the mat and lift your hips up towards the ceiling to deepen the stretch in your hamstrings and calves."
+            },
+            {
+                "order": 4,
+                "text": "Hold the pose for a few breaths, and then release by slowly walking your hands back out to a downward-facing dog position."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-walk-into-downward-dog-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-walk-into-downward-dog-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-walk-into-downward-dog-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-walk-into-downward-dog-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/walk_your_downward_dog_front_male_6Rr3HOq.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/walk_your_downward_dog_back_male_Od7bJM8.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/walk_your_downward_dog_front_female_3D6Pnmm.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/walk_your_downward_dog_back_female_L6VSVqQ.png"
+            }
+        ]
+    }
+]

@@ -1,0 +1,337 @@
+[
+    {
+        "id": 1,
+        "name": "Barbell Curl",
+        "description": "<p>**Detailed How To:**</p><p><br></p><p>- Grab the barbell with a shoulder width, underhand grip.</p><p>- Flex at the elbows until your forearms press into your bicep (this will look different from person to person).</p><p>- Begin to extend your elbows and control the weight during the eccentric part of the exercise.</p><p>- Make sure to fully extend your elbows at the end of the rep.</p><p>- Repeat until you hit muscular fatigue (1-3 reps left in the tank)</p><p><br></p><p>**Ty's Tips**</p><p><br></p><p>One of the drawbacks with a Barbell Curl is the bar limits Range of Motion somewhat. The bar will hit your legs before you can fully extend your arms. On most exercises, we want the longest Range or Motion possible. To remedy this,</p><p><br></p><p>Push your butt back a tad bit. This will give you a little more room to fully extend your elbows.</p><p>Watch out for cheating. Using momentum often naturally happens with a Barbell Curl (and most Dumbbell curl variations). There is a move called the Cheat Curl popularized by Arnold himself. But consider that a separate exercise.</p><p><br></p><p>Root your feet to the floor and use a mirror to watch your form. If your hips begin moving and you're unable to continue to perform reps without any hip movement, end the set.</p><p>A 6-12 rep range works well for this exercise.</p>",
+        "next": 1,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 16,
+                "name": "Long Head Bicep",
+                "description": ""
+            },
+            {
+                "id": 17,
+                "name": "Short Head Bicep",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "Underhand",
+                "description": "Supinated"
+            }
+        ],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 29,
+                "youtube_link": "https://www.youtube.com/embed/ZoZTBY008V4?si=_eHS6ENHSyBHeBk2"
+            },
+            {
+                "id": 30,
+                "youtube_link": "https://www.youtube.com/embed/ZoZTBY008V4?si=_eHS6ENHSyBHeBk2"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "While holding the upper arms stationary, curl the weights forward while contracting the biceps as you breathe out."
+            },
+            {
+                "order": 2,
+                "text": "Continue the movement until your biceps are fully contracted and the bar is at shoulder level."
+            },
+            {
+                "order": 3,
+                "text": "Hold the contracted position for a second and squeeze the biceps hard."
+            },
+            {
+                "order": 4,
+                "text": "Slowly bring the weight back down to the starting position."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-curl-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-barbell-curl-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-curl-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-barbell-curl-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_curl_front_male_GKjdpCJ.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_curl_back_male_BxW2POI.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_curl_front_female_TAoiuLU.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_curl_back_female_wmAXhKR.png"
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Barbell Bent Over Row",
+        "description": "<p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 36px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b>How To Perform The Barbell Row (Supinated)&nbsp;</b></span></p><p><b style=\"font-weight:normal;\" id=\"docs-internal-guid-4ed89476-7fff-1ba1-76b3-3ae49246f57e\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b>Setting Up</b></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Grab your barbell with an underhand/supinated grip. Stay with feet about shoulder width apart or a little more narrow. Push your butt back and hinge at the hips. Make sure you keep your back flat throughout the entirety of this exercise. Before beginning your set, let your elbows fully extend.</span></p><p><b style=\"font-weight:normal;\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">The closer your torso is to parallel with the ground. The longer the range of motion will be during your row. The more vertical your torso is, the shorter the range of motion. It's extremely important to hinge as far forward as you can without rounding your back and maintaining that torso position for the entire set.</span></p><p><b style=\"font-weight:normal;\"><br></b></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"><b>Performing&nbsp;</b></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Pull your elbows straight back toward the ceiling until the bar touches your torso. The bar should land somewhere between your belly button and your rib cage. Use the cue, \"squeeze the tennis ball.\" Imagine you have a tennis ball in your armpits and when you perform each rep try to squeeze that tennis ball.</span></p><p><br></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">On the eccentric, let your elbows fully extend before initiating the next rep. Ego lifting is very easy to do with the barbell row. If you find yourself having to bounce or use momentum to get the weight from point A to point B, the weight is too heavy. Your torso should maintain its horizontal position for the entire set. </span></p>",
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            },
+            {
+                "id": 7,
+                "name": "Lats",
+                "description": "The lats are a large flat muscle that has origin points at the mid and lower spine, the iliac crest (pelvis), and the ribs. Well-developed lats give the appearance of a wider back, therefore making the waist look smaller."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Underhand",
+                "description": "Supinated"
+            }
+        ],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [
+            {
+                "id": 107,
+                "youtube_link": "https://www.youtube.com/embed/wo_gGRjVrrw"
+            },
+            {
+                "id": 108,
+                "youtube_link": "https://www.youtube.com/embed/wo_gGRjVrrw"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Grab a barbell with a shoulder width pronated or supinated grip."
+            },
+            {
+                "order": 2,
+                "text": "Bend forward at your hips while maintaining a flat back."
+            },
+            {
+                "order": 3,
+                "text": "Pull the weight toward your upper abdomen."
+            },
+            {
+                "order": 4,
+                "text": "Lower the weight in a controlled manner and repeat."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_bent_over_row_front_male_fPoMFmP.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_bent_over_row_back_male_vbBynaX.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_bent_over_row_front_female_qeZ4EhJ.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_bent_over_row_back_female_9fGBlt0.png"
+            }
+        ]
+    },
+    {
+        "id": 310,
+        "name": "Barbell Reverse Curl",
+        "description": "<p><br></p>\r\n<h1>Barbell Reverse Curl: A Comprehensive Guide</h1>\r\n<h2>Setup</h2>\r\n<ul>\r\n  <li>Select a barbell with the appropriate weight for your strength level</li>\r\n  <li>Stand with your feet shoulder-width apart and grip the barbell with a shoulder-width overhand grip</li>\r\n  <li>Keep your arms straight and the barbell hanging at arm's length in front of your thighs</li>\r\n</ul>\r\n<h2>How to Perform</h2>\r\n<ul>\r\n  <li>Breathe in and tighten your core</li>\r\n  <li>Curl the barbell upwards towards your chest, keeping your upper arms stationary and your elbows tucked in close to your torso</li>\r\n  <li>Hold the contraction at the top for a count of one</li>\r\n  <li>Lower the barbell back down to the starting position with control, inhaling as you do so</li>\r\n  <li>Repeat the movement for the desired number of reps</li>\r\n</ul>\r\n<h2>Technique</h2>\r\n<ul>\r\n  <li>Keep your movements smooth and controlled throughout the exercise</li>\r\n  <li>Avoid using momentum to swing the barbell up and down</li>\r\n  <li>Keep your head and neck in a neutral position, looking straight ahead and avoiding any unnecessary neck strain</li>\r\n  <li>Engage your shoulder blades and keep your shoulders down and away from your ears</li>\r\n</ul>\r\n<h2>Things to Avoid</h2>\r\n<ul>\r\n  <li>Using a weight that is too heavy and sacrificing form</li>\r\n  <li>Arching your back or swaying excessively</li>\r\n  <li>Locking out your elbows at the top of the movement</li>\r\n  <li>Allowing your elbows to flare out to the sides</li>\r\n</ul>",
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            },
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            },
+            {
+                "id": 25,
+                "name": "Wrist Extensors",
+                "description": ""
+            },
+            {
+                "id": 26,
+                "name": "Wrist Flexors",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Advanced"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Take a double overhand grip that's about shoulder width. Flex your elbows while keeping your elbows tucked in. Try not to let them flare out."
+            },
+            {
+                "order": 2,
+                "text": "Curl until your forearm presses into your bicep. Then fully extend your elbows at the bottom of each rep."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-reverse-curl-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-barbell-reverse-curl-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-reverse-curl-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-barbell-reverse-curl-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_reverse_curl_front_male_Jz9Z4q2.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_reverse_curl_back_male_yKvCmPb.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_reverse_curl_front_female_Isie5EQ.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_reverse_curl_back_female_w7dhuxo.png"
+            }
+        ]
+    },
+    {
+        "id": 1491,
+        "name": "EZ Bar Preacher Curl",
+        "description": null,
+        "muscles": [
+            {
+                "id": 1,
+                "name": "Biceps",
+                "description": "The biceps brachii is one of the most often trained muscles. stereotypically most guys want big biceps - and in practice, this is often true. As is commonly known, the main function of the biceps brachii is elbow flexion (what occurs during a curl exercise). However, the biceps have far more responsibilities than just curls."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Underhand",
+                "description": "Supinated"
+            }
+        ],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Position yourself on preacher bench; grasp EZ bar with underhand grip, elbows extended."
+            },
+            {
+                "order": 2,
+                "text": "Slowly curl bar towards shoulders; keep upper arms stationary, focus on biceps."
+            },
+            {
+                "order": 3,
+                "text": "Lower bar back to starting position; maintain control, repeat for reps."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-ez-bar-preacher-curl-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-ez-bar-preacher-curl-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-ez-bar-preacher-curl-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-ez-bar-preacher-curl-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/ez_bar_preacher_curl_front_male_Q6pK3hT.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/ez_bar_preacher_curl_back_male_WfviqWE.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/ez_bar_preacher_curl_front_female_hkfrskL.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/ez_bar_preacher_curl_back_female_tvJRghX.png"
+            }
+        ]
+    }
+]

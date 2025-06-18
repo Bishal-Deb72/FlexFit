@@ -1,0 +1,326 @@
+[
+    {
+        "id": 215,
+        "name": "Barbell Landmine Side Bend",
+        "description": "<p><span style=\"font-size: 36px;\"><b>Setup</b></span></p><p><span style=\"font-size: 14px;\">To set up for a barbell landmine side bend exercise, you will need a barbell and a landmine attachment. If you do not have a landmine attachment, you can also use a sandbag, a heavy bag, or a bench.</span></p><p><br></p><p><span style=\"font-weight: 700;\">Foot Placement</span></p><p>Stand with your feet shoulder-width apart and your side to the barbell.</p><div><br></div><div><b>How to do a Barbell Landmine Side Bend</b></div><div>Grasp the barbell with both hands, keeping your arms straight and your hands shoulder-width apart. </div><div>Lift the barbell off the ground and hold it in front of your hips, keeping your arms straight and your core engaged. </div><div><br></div><div>Bend at the waist and reach the barbell towards the ground on the side of your body. Keep your arms straight and your core engaged as you bend. Return to the starting position and repeat for the desired number of reps. Make sure to keep your core engaged and your movements controlled throughout the exercise.<br></div>",
+        "next": 1,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 295,
+                "youtube_link": "https://www.youtube.com/embed/63QN-Id-p94?si=kQcOykoNZ-0utrIY"
+            },
+            {
+                "id": 296,
+                "youtube_link": "https://www.youtube.com/embed/63QN-Id-p94?si=kQcOykoNZ-0utrIY"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand straight and hold the end of the Barbell"
+            },
+            {
+                "order": 2,
+                "text": "Keep your hips and shoulders facing forward, bend to one side slowly"
+            },
+            {
+                "order": 3,
+                "text": "Return to the upright position."
+            },
+            {
+                "order": 4,
+                "text": "Switch hands and repeat."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-landmine-side-bend-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-barbell-landmine-side-bend-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-landmine-side-bend-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-barbell-landmine-side-bend-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_landmine_side_bend_front_male_8c2QBcv.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_landmine_side_bend_back_male_yJC7Xp2.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_landmine_side_bend_front_female_0uaVCOw.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_landmine_side_bend_back_female_uozF5hj.png"
+            }
+        ]
+    },
+    {
+        "id": 359,
+        "name": "Barbell Suitcase Deadlift",
+        "description": "",
+        "muscles": [
+            {
+                "id": 13,
+                "name": "Lower back",
+                "description": "The erector spinae is another often-misunderstood muscle. The spinal erectors are thought of as the \u201clower back\u201d muscles. However, the spinal erectors travel the length of the entire spine. The upper fibers tuck under the latissimus dorsi and trapezius, and therefore are not visible to the naked eye."
+            },
+            {
+                "id": 9,
+                "name": "Glutes",
+                "description": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+            },
+            {
+                "id": 8,
+                "name": "Hamstrings",
+                "description": "The hamstrings are the big muscles on the back of your thighs. Together with the quadriceps, the hamstrings make walking and standing possible.\r\n\r\nThe hamstrings are made up of the following muscles - the biceps femoris (short and long head), the semimembranosus, and the semitendinosus.\r\n\r\nThe hamstrings are a weak muscle when compared with the quadriceps (front thigh muscle). Both the hamstrings and the quadriceps pull on the knee joint, so if one of those muscles is stronger than the other, then knee problems are bound to arise. A good rule of thumb is to make sure that the hamstrings are 2/3 as strong as the quadriceps. For example, if you can resist 100 lbs with your quads, then you should be able to resist 66 lbs with your hamstrings."
+            },
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            },
+            {
+                "id": 43,
+                "name": "Hands",
+                "description": ""
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Advanced"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Begin by standing with your feet hip-width apart and holding a barbell at one side of your body, with your palms facing your thighs."
+            },
+            {
+                "order": 2,
+                "text": "Keeping your core engaged and your back straight, bend at the hips and knees to lower the barbell down towards the ground."
+            },
+            {
+                "order": 3,
+                "text": "As the barbell reaches the ground, use your legs and glutes to push through your heels and extend your hips and knees to raise your body back to the starting position."
+            },
+            {
+                "order": 4,
+                "text": "Repeat the movement for the desired number of reps, then switch sides and repeat the exercise with the barbell on the opposite side of your body."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_suitcase_deadlift_front_male_FTTBAw8.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_suitcase_deadlift_back_male_STXkFix.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_suitcase_deadlift_front_female_BkJbnp2.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_suitcase_deadlift_back_female_qJ2tsDD.png"
+            }
+        ]
+    },
+    {
+        "id": 743,
+        "name": "Landmine Alternating Lunge And Twist",
+        "description": null,
+        "muscles": [
+            {
+                "id": 9,
+                "name": "Glutes",
+                "description": "With regard to desirability, the glutes are gaining in popularity, however the glutes are far more than something nice to look at. The gluteus maximus is the largest muscle in the body and serves many important functions."
+            },
+            {
+                "id": 3,
+                "name": "Quads",
+                "description": "The quadriceps consist of four heads (hence the name quadriceps). The heads are: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.\r\n\r\nWith the exception of the rectus femoris, all of the heads of the quadriceps have one function, which is extending the knee.\r\n\r\nThat means that the quadriceps are active every time you walk or stand up. Additionally, and in conjunction with the hamstrings, the quadriceps stabilizes the knee."
+            },
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Advanced"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Set up the landmine attachment and load weight."
+            },
+            {
+                "order": 2,
+                "text": "Stand facing the landmine, holding the weight away from your chest."
+            },
+            {
+                "order": 3,
+                "text": "Step backward with one leg, lunge down while twisting your torso toward the front leg, return to starting position, and repeat on the other side."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-landmine-alternating-lunge-and-twist-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-landmine-alternating-lunge-and-twist-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-landmine-alternating-lunge-and-twist-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-landmine-alternating-lunge-and-twist-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/landmine_alternating_lunge_and_twist_front_male_cZdKOtK.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/landmine_alternating_lunge_and_twist_back_male_4mjmSK8.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/landmine_alternating_lunge_and_twist_front_female_EFzSiXC.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/landmine_alternating_lunge_and_twist_back_female_G2BL9HF.png"
+            }
+        ]
+    },
+    {
+        "id": 758,
+        "name": "Landmine Kneeling Twist",
+        "description": null,
+        "muscles": [
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Barbell"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Kneel down facing the landmine with your knees hip-width apart and your back straight. Grasp the landmine barbell with both hands, interlacing your fingers and holding it above and slightly in front of your body."
+            },
+            {
+                "order": 2,
+                "text": "Keeping your core engaged and your back straight, twist your torso to one side, rotating your arms and the landmine along with it. Pause briefly at the end of the twist, feeling the contraction in your oblique muscles."
+            },
+            {
+                "order": 3,
+                "text": "Slowly rotate back to the starting position, then twist to the opposite side, repeating the same motion."
+            },
+            {
+                "order": 4,
+                "text": "Repeat both sides of the rotation for the desired number of reps."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-landmine-kneeling-twist-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-landmine-kneeling-twist-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-landmine-kneeling-twist-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-landmine-kneeling-twist-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/landmine_kneeling_twist_front_male_DPrZqVr.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/landmine_kneeling_twist_back_male_pXgXJHv.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/landmine_kneeling_twist_front_female_5WOkrOD.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/landmine_kneeling_twist_back_female_gwdpzaX.png"
+            }
+        ]
+    }
+]

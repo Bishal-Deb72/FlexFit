@@ -1,0 +1,356 @@
+[
+    {
+        "id": 20,
+        "name": "Dumbbell Lateral Raise",
+        "description": null,
+        "next": 1,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 6,
+                "name": "Shoulders",
+                "description": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+            },
+            {
+                "id": 18,
+                "name": "Lateral Deltoid",
+                "description": ""
+            },
+            {
+                "id": 47,
+                "name": "Front Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 279,
+                "youtube_link": "https://www.youtube.com/embed/TOKQbh6FPkU?si=ux6xWFu6kGcl_2Cm"
+            },
+            {
+                "id": 280,
+                "youtube_link": "https://www.youtube.com/embed/TOKQbh6FPkU?si=ux6xWFu6kGcl_2Cm"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Stand up straight with dumbbells at either side, palms facing your hips."
+            },
+            {
+                "order": 2,
+                "text": "Raise your arms on either side with a slight bend in your elbow until they are parallel with the floor. Pause at the top of the motion."
+            },
+            {
+                "order": 3,
+                "text": "Slowly return your arms down to starting position."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-lateral-raise-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-lateral-raise-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-lateral-raise-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-lateral-raise-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_lateral_raise_front_male_3NtpOzC.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_lateral_raise_back_male_N3MBGNH.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_lateral_raise_front_female_04fp6o0.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_lateral_raise_back_female_cMNl6vU.png"
+            }
+        ]
+    },
+    {
+        "id": 398,
+        "name": "Dumbbell Incline Bench Press",
+        "description": "<p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><span style=\"font-size: 36px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"font-weight: 700;\">How To Perform The Dumbbell Incline Bench Press</span></span></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><span style=\"font-size: 36px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"font-weight: 700;\"><br></span></span></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><span style=\"font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"font-weight: 700;\">Setup</span></span></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space: pre-wrap;\">Set an incline bench at around 30\u00b0 high. Any higher than 30\u00b0, and the tension will go to your anterior deltoid as opposed to your upper pecs. A low incline is all you need.&nbsp;</span></p><p><span id=\"docs-internal-guid-2ba2daee-7fff-4a57-8f31-1042530e451f\"><br></span></p><p style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space: pre-wrap;\">Getting the dumbbells into position for an incline bench press can be challenging. You've got a couple of options here.</span></p><ol><li style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space: pre-wrap;\">Start with the dumbbells sitting vertically on your quads. Push one leg up toward the ceiling and get your elbow underneath the dumbbell. Then repeat on the other leg with the other dumbbell as you fall back onto the bench.&nbsp;</span></li><li style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space: pre-wrap;\">Have a gym partner help out. If you're going to have someone help. Make sure they either grab your wrists or the dumbbells themselves to help you get into position. Some people have a tendency to push the elbows up in order to get the dumbbells in position for this move. This can be dangerous as the dumbbell might fall laterally one direction, or another.</span></li></ol><p><br></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space: pre-wrap;\">Make sure both feet are planted firmly on the ground. Push your toes through the front of your shoes. This will generate some tension through your quads and keep you more stable.&nbsp;</span></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space: pre-wrap;\"><br></span></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space: pre-wrap;\">Like any other bench press, pull your shoulder blades back and dig them into the bench. Also point your ribs up toward the ceiling, giving yourself a minor arch in your spine.&nbsp;</span></p><p><br></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><span style=\"font-size: 24px; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"font-weight: 700;\">Performing&nbsp;</span></span></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space: pre-wrap;\">Press the weights up toward the ceiling to initiate your first rep. Extend your elbows, but do not fully lock them out. As you perform the eccentric, maintain a 45\u00b0 angle between your upper arm and torso. Your elbows should not be flared all the way out, or tucked all the way in, but in the middle between the two.&nbsp;</span></p><p><br></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space: pre-wrap;\">Stop the eccentric when your elbows are even with your torso or slightly behind your torso. The pecs are not designed well to function when your upper arm travels behind your body. Because the pecs are two lengthened in this position, they will not be able to generate force properly. All the tension from the dumbbells will go onto your shoulder joint instead of your muscles.&nbsp;</span></p><p><br></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space: pre-wrap;\">Getting from underneath the dumbbells at the end of the set can be challenging as well. You also have two options here.&nbsp;</span></p><ol><li style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space: pre-wrap;\"><u>If you end the set by completing your last rep, meaning your elbows are extended and the dumbbells are away from your body</u></span><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline; white-space: pre-wrap;\">, turn your fists into a neutral position, lift your legs up touching the dumbbell to your quads, and then roll your entire body forward. This can take some practice, so try it with light dumbbells first.</span></li><li style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"background-color: transparent; color: rgb(0, 0, 0); font-family: Arial; font-size: 11pt; white-space: pre-wrap;\"><u>If you end the set not having completed your final rep, meaning the dumbbells are against your chest,</u> then you have no choice but to dump the dumbbells off of you onto the ground. Be very careful with this. Do your best to control the weights as you get them off of you, so they do not bounce. If the dumbbells bounce off the floor and land on someone's foot, you have an issue on your hands. Some gyms don't want any dropping of weights at all. Try to set them down as gently as possible, but don't injure yourself in the process. </span></li><li></li></ol>",
+        "muscles": [
+            {
+                "id": 19,
+                "name": "Anterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 2,
+                "name": "Chest",
+                "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+            },
+            {
+                "id": 23,
+                "name": "Upper Pectoralis",
+                "description": ""
+            },
+            {
+                "id": 47,
+                "name": "Front Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [
+            {
+                "id": 197,
+                "youtube_link": "https://www.youtube.com/embed/Q5oKabCPV8k?si=XtpNXqTbuTmIiwTc"
+            },
+            {
+                "id": 198,
+                "youtube_link": "https://www.youtube.com/embed/Q5oKabCPV8k?si=XtpNXqTbuTmIiwTc"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lay flat on the incline bench with your feet on the ground. Raise the dumbbells until you have straight arms."
+            },
+            {
+                "order": 2,
+                "text": "Lower the dumbbells to your mid chest"
+            },
+            {
+                "order": 3,
+                "text": "Raise the dumbbells until you've locked your elbows."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_bench_press_front_male_GDQ7Yfi.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_bench_press_back_male_c2i14oP.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_bench_press_front_female_X6T3pnk.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_bench_press_back_female_RyZ1QXQ.png"
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Dumbbell Front Raise",
+        "description": null,
+        "muscles": [
+            {
+                "id": 6,
+                "name": "Shoulders",
+                "description": "For both men and women, the deltoids, also referred to as delts, are a very desirable muscle to build. Well-developed shoulders can give the appearance of a smaller waist (because the shoulders look broader). Therefore, well-trained delts improve the look of the entire physique.\r\n\r\nThe deltoid has three different heads: anterior (front), lateral (middle), and posterior (rear). Each head has similar functions, but they do have some variance."
+            },
+            {
+                "id": 19,
+                "name": "Anterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 47,
+                "name": "Front Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Novice"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Grab two dumbbells while standing upright with the dumbbells at your side."
+            },
+            {
+                "order": 2,
+                "text": "Raise the two dumbbells with your elbows being fully extended until the dumbbells are eye level."
+            },
+            {
+                "order": 3,
+                "text": "Lower the weights in a controlled manner to the starting position and repeat."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-front-raise-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-front-raise-side.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-front-raise-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-front-raise-front.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_front_raise_front_male_1bO7igl.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_front_raise_back_male_e16S71K.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_front_raise_front_female_pg4iHRR.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_front_raise_back_female_PsG0b86.png"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Dumbbell Incline Chest Flys",
+        "description": "",
+        "muscles": [
+            {
+                "id": 19,
+                "name": "Anterior Deltoid",
+                "description": ""
+            },
+            {
+                "id": 2,
+                "name": "Chest",
+                "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+            },
+            {
+                "id": 23,
+                "name": "Upper Pectoralis",
+                "description": ""
+            },
+            {
+                "id": 47,
+                "name": "Front Shoulders",
+                "description": null
+            }
+        ],
+        "grips": [
+            {
+                "name": "Overhand",
+                "description": "Pronated"
+            }
+        ],
+        "category": {
+            "name": "Dumbbells"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Push",
+            "description": "Pushing away from the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [
+            {
+                "id": 229,
+                "youtube_link": "https://www.youtube.com/embed/2maZ-VtpVyU"
+            },
+            {
+                "id": 230,
+                "youtube_link": "https://www.youtube.com/embed/2maZ-VtpVyU"
+            }
+        ],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Lay flat on the bench and place your feet on the ground."
+            },
+            {
+                "order": 2,
+                "text": "Begin the exercise with the dumbbells held together above your chest, elbows slightly bent."
+            },
+            {
+                "order": 3,
+                "text": "Simultaneously lower the weights to either side."
+            },
+            {
+                "order": 4,
+                "text": "Pause when the weights are parallel to the bench, then raise your arms to the starting position."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": null,
+                "unbranded_video": null
+            },
+            {
+                "original_video": null,
+                "unbranded_video": null
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_chest_flys_front_male_35c3n1W.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_chest_flys_back_male_S8KxAs0.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_chest_flys_front_female_Iy2qml4.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_incline_chest_flys_back_female_du4gCf5.png"
+            }
+        ]
+    }
+]

@@ -1,0 +1,1553 @@
+[
+    {
+      "id": 1454,
+      "name": "Calf Isometric On Step",
+      "description": null,
+      "next": 1,
+      "prev": 0,
+      "muscles": [
+        {
+          "id": 11,
+          "name": "Calves",
+          "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        }
+      ],
+      "grips": [],
+      "category": {
+        "name": "Recovery"
+      },
+      "difficulty": {
+        "name": "Novice"
+      },
+      "force": {
+        "name": "Hold",
+        "description": "Exercise which resists movement as opposed to inducing."
+      },
+      "mechanic": {
+        "name": "Isolation",
+        "description": "Exercise trains a single body part."
+      },
+      "long_form_content": [],
+      "correct_steps": [
+        {
+          "order": 1,
+          "text": "Stand on the edge of a step (on the balls of your feet)"
+        },
+        {
+          "order": 2,
+          "text": "Support your weight in this position for the given amount of time"
+        },
+        {
+          "order": 3,
+          "text": "You should feel your calves working"
+        }
+      ],
+      "male_images": [
+        {
+          "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-calf-isometric-on-step-front.mp4",
+          "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-calf-isometric-on-step-front.mp4"
+        },
+        {
+          "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-calf-isometric-on-step-side.mp4",
+          "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-calf-isometric-on-step-side.mp4"
+        }
+      ],
+      "body_map_images": [
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_isometric_on_step_front_male_50bntau.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_isometric_on_step_back_male_TFmmJ6s.png"
+        },
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_isometric_on_step_front_female_ViFOrOJ.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_isometric_on_step_back_female_NRqURTb.png"
+        }
+      ]
+    },
+    {
+      "id": 1453,
+      "name": "Calf Mobilisation Seated Floor Roll",
+      "description": null,
+      "muscles": [
+        {
+          "id": 11,
+          "name": "Calves",
+          "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        }
+      ],
+      "grips": [
+        {
+          "name": "None",
+          "description": "No use of hands in the exercise."
+        }
+      ],
+      "category": {
+        "name": "Recovery"
+      },
+      "difficulty": {
+        "name": "Beginner"
+      },
+      "force": {
+        "name": "Hold",
+        "description": "Exercise which resists movement as opposed to inducing."
+      },
+      "mechanic": {
+        "name": "Isolation",
+        "description": "Exercise trains a single body part."
+      },
+      "long_form_content": [],
+      "correct_steps": [],
+      "male_images": [
+        {
+          "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-calf-mobilisation-seated-floor-roll-side.mp4",  
+          "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-calf-mobilisation-seated-floor-roll-side.mp4" 
+        },
+        {
+          "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-calf-mobilisation-seated-floor-roll-front.mp4", 
+          "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-calf-mobilisation-seated-floor-roll-front.mp4"
+        }
+      ],
+      "body_map_images": [
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_mobilisation_seated_floor_roll_front_male_uunmcRN.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_mobilisation_seated_floor_roll_back_male_detOWN2.png"
+        },
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_mobilisation_seated_floor_roll_front_female_wm5Cw65.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_mobilisation_seated_floor_roll_back_female_gJ5zblD.png"
+        }
+      ]
+    },
+    {
+      "id": 1451,
+      "name": "Calf Raise 1A Bilateral Eccentric Floor",
+      "description": null,
+      "muscles": [
+        {
+          "id": 11,
+          "name": "Calves",
+          "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        }
+      ],
+      "grips": [
+        {
+          "name": "None",
+          "description": "No use of hands in the exercise."
+        }
+      ],
+      "category": {
+        "name": "Recovery"
+      },
+      "difficulty": {
+        "name": "Beginner"
+      },
+      "force": {
+        "name": "Push",
+        "description": "Pushing away from the body."
+      },
+      "mechanic": {
+        "name": "Isolation",
+        "description": "Exercise trains a single body part."
+      },
+      "long_form_content": [],
+      "correct_steps": [],
+      "male_images": [
+        {
+          "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-calf-raise-1a-bilateral-eccentric-floor-side.mp4",
+          "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-calf-raise-1a-bilateral-eccentric-floor-side.mp4"
+        },
+        {
+          "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-calf-raise-1a-bilateral-eccentric-floor-front.mp4",
+          "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-calf-raise-1a-bilateral-eccentric-floor-front.mp4"
+        }
+      ],
+      "body_map_images": [
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_raise_1a_bilateral_eccentric_floor_front_male_W16cXHL.png",       
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_raise_1a_bilateral_eccentric_floor_back_male_TtQPnL4.png"
+        },
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_raise_1a_bilateral_eccentric_floor_front_female_58apLEX.png",     
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_raise_1a_bilateral_eccentric_floor_back_female_Ea1mQUo.png"        
+        }
+      ]
+    },
+    {
+      "id": 1450,
+      "name": "Calf Raise 1B Bilateral Floor",
+      "description": null,
+      "muscles": [
+        {
+          "id": 11,
+          "name": "Calves",
+          "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        }
+      ],
+      "grips": [
+        {
+          "name": "Neutral",
+          "description": "Neutral"
+        }
+      ],
+      "category": {
+        "name": "Recovery"
+      },
+      "difficulty": {
+        "name": "Beginner"
+      },
+      "force": {
+        "name": "Push",
+        "description": "Pushing away from the body."
+      },
+      "mechanic": {
+        "name": "Isolation",
+        "description": "Exercise trains a single body part."
+      },
+      "long_form_content": [],
+      "correct_steps": [
+        {
+          "order": 1,
+          "text": "From the standing position, shift your weight onto the balls of your feet"
+        },
+        {
+          "order": 2,
+          "text": "Raise the heels off the ground, before lowering them back to the ground"
+        },
+        {
+          "order": 3,
+          "text": "Do not rest at the bottom. As soon as you feel your heels touch the ground, repeat the movement"
+        },
+        {
+          "order": 4,
+          "text": "You should feel your calves working"
+        }
+      ],
+      "male_images": [
+        {
+          "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-calf-raise-1b-bilateral-floor-front.mp4",       
+          "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-calf-raise-1b-bilateral-floor-front.mp4"      
+        },
+        {
+          "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-calf-raise-1b-bilateral-floor-side.mp4",        
+          "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-calf-raise-1b-bilateral-floor-side.mp4"       
+        }
+      ],
+      "body_map_images": [
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_raise_1b_bilateral_floor_front_male_s4tMfJ2.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_raise_1b_bilateral_floor_back_male_RPA725l.png"
+        },
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_raise_1b_bilateral_floor_front_female_di0SK4O.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calf_raise_1b_bilateral_floor_back_female_mIGya2O.png"
+        }
+      ]
+    },
+    {
+      "id": 210,
+      "name": "Barbell Calf Raises",
+      "next": 1,
+      "prev": 0,
+      "description": null,
+      "muscles": [
+        {
+          "id": 11,
+          "name": "Calves",
+          "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        },
+        {
+          "id": 33,
+          "name": "Gastrocnemius",
+          "description": ""
+        }
+      ],
+      "grips": [
+        {
+          "name": "Overhand",
+          "description": "Pronated"
+        }
+      ],
+      "category": {
+        "name": "Barbell"
+      },
+      "difficulty": {
+        "name": "Intermediate"
+      },
+      "force": {
+        "name": "Push",
+        "description": "Pushing away from the body."
+      },
+      "mechanic": {
+        "name": "Isolation",
+        "description": "Exercise trains a single body part."
+      },
+      "long_form_content": [
+        {
+          "id": 227,
+          "youtube_link": "https://www.youtube.com/embed/qVqTCzHFePk?si=_s6R06ziBqxsPuVE"
+        },
+        {
+          "id": 228,
+          "youtube_link": "https://www.youtube.com/embed/qVqTCzHFePk?si=_s6R06ziBqxsPuVE"
+        }
+      ],
+      "correct_steps": [
+        {
+          "order": 1,
+          "text": "Place the bar on your back"
+        },
+        {
+          "order": 2,
+          "text": "Start with feet flat on the ground"
+        },
+        {
+          "order": 3,
+          "text": "Extend your heels upwards while keeping your knees stationary, and pause at the contracted position."
+        },
+        {
+          "order": 4,
+          "text": "Slowly return to the starting position. Repeat."
+        }
+      ],
+      "male_images": [
+        {
+          "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-calf-raises-side.mp4",
+          "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-barbell-calf-raises-side.mp4"
+        },
+        {
+          "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Barbell-barbell-calf-raises-front.mp4",
+          "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Barbell-barbell-calf-raises-front.mp4"
+        }
+      ],
+      "body_map_images": [
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_calf_raises_front_male_dtPJRtb.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_calf_raises_back_male_bnl7OCB.png"
+        },
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_calf_raises_front_female_Qn0IGlP.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_calf_raises_back_female_PVeGclM.png"
+        }
+      ]
+    },
+    {
+      "id": 329,
+      "name": "Barbell Calf Jump",
+      "description": null,
+      "muscles": [
+        {
+          "id": 11,
+          "name": "Calves",
+          "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        },
+        {
+          "id": 32,
+          "name": "Soleus",
+          "description": ""
+        },
+        {
+          "id": 33,
+          "name": "Gastrocnemius",
+          "description": ""
+        }
+      ],
+      "grips": [
+        {
+          "name": "None",
+          "description": "No use of hands in the exercise."
+        }
+      ],
+      "category": {
+        "name": "Barbell"
+      },
+      "difficulty": {
+        "name": "Advanced"
+      },
+      "force": {
+        "name": "Push",
+        "description": "Pushing away from the body."
+      },
+      "mechanic": {
+        "name": "Isolation",
+        "description": "Exercise trains a single body part."
+      },
+      "long_form_content": [],
+      "correct_steps": [
+        {
+          "order": 1,
+          "text": "Stand with your feet shoulder-width apart and your knees slightly bent."
+        },
+        {
+          "order": 2,
+          "text": "Shift your weight onto the balls of your feet and raise stay flat footed. Using your calf muscles, mimic a jumping motion but don't leave the floor."
+        },
+        {
+          "order": 3,
+          "text": "Explode onto your tip toes and hold for a second."
+        },
+        {
+          "order": 4,
+          "text": "Bring your heels back to the floor then initiate the next rep."
+        }
+      ],
+      "male_images": [
+        {
+          "original_video": null,
+          "unbranded_video": null
+        },
+        {
+          "original_video": null,
+          "unbranded_video": null
+        }
+      ],
+      "body_map_images": [
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_calf_jump_front_male_C4jtWvX.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_calf_jump_back_male_qAoDpq5.png"
+        },
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_calf_jump_front_female_AdjufbW.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_calf_jump_back_female_ZA841PR.png"
+        }
+      ]
+    },
+    {
+      "id": 350,
+      "name": "Barbell Seated Calf Raise",
+      "description": "",
+      "muscles": [
+        {
+          "id": 11,
+          "name": "Calves",
+          "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        },
+        {
+          "id": 32,
+          "name": "Soleus",
+          "description": ""
+        }
+      ],
+      "grips": [
+        {
+          "name": "Overhand",
+          "description": "Pronated"
+        },
+        {
+          "name": "Underhand",
+          "description": "Supinated"
+        },
+        {
+          "name": "Mixed",
+          "description": "Mixed"
+        }
+      ],
+      "category": {
+        "name": "Barbell"
+      },
+      "difficulty": {
+        "name": "Beginner"
+      },
+      "force": {
+        "name": "Push",
+        "description": "Pushing away from the body."
+      },
+      "mechanic": {
+        "name": "Isolation",
+        "description": "Exercise trains a single body part."
+      },
+      "long_form_content": [],
+      "correct_steps": [
+        {
+          "order": 1,
+          "text": "Start by sitting on a bench with a barbell resting on your knees. Your feet should be flat on the ground, about hip-width apart."
+        },
+        {
+          "order": 2,
+          "text": "Place your hands on the barbell for support, and lift your heels off the ground."
+        },
+        {
+          "order": 3,
+          "text": "Hold this position for a moment, then slowly lower your heels back to the ground."
+        }
+      ],
+      "male_images": [
+        {
+          "original_video": null,
+          "unbranded_video": null
+        },
+        {
+          "original_video": null,
+          "unbranded_video": null
+        }
+      ],
+      "body_map_images": [
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_seated_calf_raise_front_male_7YWBQqO.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_seated_calf_raise_back_male_lbwKPSG.png"
+        },
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_seated_calf_raise_front_female_VDJ5POX.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_seated_calf_raise_back_female_YQwP88s.png"
+        }
+      ]
+    },
+    {
+      "id": 363,
+      "name": "Barbell Toes Up Calf Raise",
+      "description": "",
+      "muscles": [
+        {
+          "id": 11,
+          "name": "Calves",
+          "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        }
+      ],
+      "grips": [
+        {
+          "name": "Overhand",
+          "description": "Pronated"
+        }
+      ],
+      "category": {
+        "name": "Barbell"
+      },
+      "difficulty": {
+        "name": "Beginner"
+      },
+      "force": {
+        "name": "Push",
+        "description": "Pushing away from the body."
+      },
+      "mechanic": {
+        "name": "Isolation",
+        "description": "Exercise trains a single body part."
+      },
+      "long_form_content": [],
+      "correct_steps": [
+        {
+          "order": 1,
+          "text": "Begin by standing on a raised surface (such as a step or box) with the balls of your feet on the edge of the surface and your heels hanging off. Hold a barbell across your upper back and shoulders, using an overhand grip."
+        },
+        {
+          "order": 2,
+          "text": "Keeping your core engaged and your back straight, push through the balls of your feet to raise your heels up as high as you can."
+        },
+        {
+          "order": 3,
+          "text": "Lower your heels back down to the starting position, allowing your calves to stretch."
+        }
+      ],
+      "male_images": [
+        {
+          "original_video": null,
+          "unbranded_video": null
+        },
+        {
+          "original_video": null,
+          "unbranded_video": null
+        }
+      ],
+      "body_map_images": [
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_toes_up_calf_raise_front_male_1n56B6S.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_toes_up_calf_raise_back_male_NLhh5MA.png"
+        },
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_toes_up_calf_raise_front_female_EXzTkNy.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_toes_up_calf_raise_back_female_2LcMZFr.png"
+        }
+      ]
+    },
+    {
+      "id": 294,
+      "name": "Dumbbell Calf Raise",
+      "description": "",
+      "next": 0,
+      "prev": 0,
+      "muscles": [
+        {
+          "id": 11,
+          "name": "Calves",
+          "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        },
+        {
+          "id": 33,
+          "name": "Gastrocnemius",
+          "description": ""
+        }
+      ],
+      "grips": [
+        {
+          "name": "Overhand",
+          "description": "Pronated"
+        },
+        {
+          "name": "Neutral",
+          "description": "Neutral"
+        }
+      ],
+      "category": {
+        "name": "Dumbbells"
+      },
+      "difficulty": {
+        "name": "Novice"
+      },
+      "force": {
+        "name": "Push",
+        "description": "Pushing away from the body."
+      },
+      "mechanic": {
+        "name": "Isolation",
+        "description": "Exercise trains a single body part."
+      },
+      "long_form_content": [
+        {
+          "id": 273,
+          "youtube_link": "https://www.youtube.com/embed/qVqTCzHFePk?si=_s6R06ziBqxsPuVE"
+        },
+        {
+          "id": 274,
+          "youtube_link": "https://www.youtube.com/embed/qVqTCzHFePk?si=_s6R06ziBqxsPuVE"
+        }
+      ],
+      "correct_steps": [
+        {
+          "order": 1,
+          "text": "Stand tall with your feet on the ground. You can put the the balls of your feet on top of a plate to extend the range of motion."
+        },
+        {
+          "order": 2,
+          "text": "Imagine you have a string attached to your heels and pull your heels up toward the ceiling."
+        }
+      ],
+      "male_images": [
+        {
+          "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-calf-raise-front.mp4",
+          "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-calf-raise-front.mp4"
+        },
+        {
+          "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-calf-raise-side.mp4",
+          "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-calf-raise-side.mp4"
+        }
+      ],
+      "body_map_images": [
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_calf_raise_front_male_J9bprXv.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_calf_raise_back_male_vTBWsTk.png"
+        },
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_calf_raise_front_female_eN7rykF.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_calf_raise_back_female_L24F1ny.png"
+        }
+      ]
+    },
+    {
+      "id": 448,
+      "name": "Dumbbell Seated Calf Raise",
+      "description": null,
+      "muscles": [
+        {
+          "id": 11,
+          "name": "Calves",
+          "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        },
+        {
+          "id": 32,
+          "name": "Soleus",
+          "description": ""
+        }
+      ],
+      "grips": [
+        {
+          "name": "Overhand",
+          "description": "Pronated"
+        }
+      ],
+      "category": {
+        "name": "Dumbbells"
+      },
+      "difficulty": {
+        "name": "Novice"
+      },
+      "force": {
+        "name": "Push",
+        "description": "Pushing away from the body."
+      },
+      "mechanic": {
+        "name": "Isolation",
+        "description": "Exercise trains a single body part."
+      },
+      "long_form_content": [],
+      "correct_steps": [
+        {
+          "order": 1,
+          "text": "Start by sitting on a bench with your feet shoulder-width apart and a dumbbell in each hand placed on each leg."
+        },
+        {
+          "order": 2,
+          "text": "From this starting position, raise your heels as high as you can by pushing up through your toes."
+        },
+        {
+          "order": 3,
+          "text": "Slowly lower your heels back down to the starting position, and repeat for the desired number of repetitions."
+        }
+      ],
+      "male_images": [
+        {
+          "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-seated-calf-raise-side.mp4",
+          "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-seated-calf-raise-side.mp4"
+        },
+        {
+          "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Dumbbells-dumbbell-seated-calf-raise-front.mp4",
+          "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Dumbbells-dumbbell-seated-calf-raise-front.mp4"
+        }
+      ],
+      "body_map_images": [
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_seated_calf_raise_front_male_gAud0S7.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_seated_calf_raise_back_male_dAZoDNe.png"
+        },
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_seated_calf_raise_front_female_JZmSKWu.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/dumbbell_seated_calf_raise_back_female_VrTRLf6.png"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Machine Seated Calf Raises",
+      "description": "",
+      "next": 0,
+      "prev": 0,
+      "muscles": [
+        {
+          "id": 11,
+          "name": "Calves",
+          "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        },
+        {
+          "id": 32,
+          "name": "Soleus",
+          "description": ""
+        }
+      ],
+      "grips": [
+        {
+          "name": "None",
+          "description": "No use of hands in the exercise."
+        }
+      ],
+      "category": {
+        "name": "Machine"
+      },
+      "difficulty": {
+        "name": "Novice"
+      },
+      "force": {
+        "name": "Push",
+        "description": "Pushing away from the body."
+      },
+      "mechanic": {
+        "name": "Isolation",
+        "description": "Exercise trains a single body part."
+      },
+      "long_form_content": [
+        {
+          "id": 269,
+          "youtube_link": "https://www.youtube.com/embed/qVqTCzHFePk?si=_s6R06ziBqxsPuVE"
+        },
+        {
+          "id": 270,
+          "youtube_link": "https://www.youtube.com/embed/qVqTCzHFePk?si=_s6R06ziBqxsPuVE"
+        }
+      ],
+      "correct_steps": [
+        {
+          "order": 1,
+          "text": "Get comfortable on the machine, then place your lower thighs beneath the padded lever. Place your toes and the balls of your feet onto the foot supports."
+        },
+        {
+          "order": 2,
+          "text": "Prevent the weight from slipping forward by gripping the handles, and release the safety bar. Lower the weight until your calves are extended."
+        },
+        {
+          "order": 3,
+          "text": "Push your heels up to lift the padded lever and hold the contracted position, then slowly lower back down to the starting position. Repeat."
+        }
+      ],
+      "male_images": [
+        {
+          "original_video": null,
+          "unbranded_video": null
+        },
+        {
+          "original_video": null,
+          "unbranded_video": null
+        }
+      ],
+      "body_map_images": [
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_seated_calf_raises_front_male_QmKRTpF.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_seated_calf_raises_back_male_whDYjMs.png"
+        },
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_seated_calf_raises_front_female_V04Fq3U.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_seated_calf_raises_back_female_eIgYgTx.png"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Machine Standing Calf Raises",
+      "description": null,
+      "muscles": [
+        {
+          "id": 11,
+          "name": "Calves",
+          "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        },
+        {
+          "id": 33,
+          "name": "Gastrocnemius",
+          "description": ""
+        }
+      ],
+      "grips": [
+        {
+          "name": "None",
+          "description": "No use of hands in the exercise."
+        }
+      ],
+      "category": {
+        "name": "Machine"
+      },
+      "difficulty": {
+        "name": "Novice"
+      },
+      "force": {
+        "name": "Push",
+        "description": "Pushing away from the body."
+      },
+      "mechanic": {
+        "name": "Isolation",
+        "description": "Exercise trains a single body part."
+      },
+      "long_form_content": [
+        {
+          "id": 271,
+          "youtube_link": "https://www.youtube.com/embed/qVqTCzHFePk?si=_s6R06ziBqxsPuVE"
+        },
+        {
+          "id": 272,
+          "youtube_link": "https://www.youtube.com/embed/qVqTCzHFePk?si=_s6R06ziBqxsPuVE"
+        }
+      ],
+      "correct_steps": [
+        {
+          "order": 1,
+          "text": "Adjust the machine in accordance with your height and place your shoulders underneath the padded lever."
+        },
+        {
+          "order": 2,
+          "text": "The balls of your feet should be supporting your weight on the calve block, your heels extending off of it."
+        },
+        {
+          "order": 3,
+          "text": "Extend your heels upwards while keeping your knees stationary, and pause at the contracted position."
+        },
+        {
+          "order": 4,
+          "text": "Slowly return to the starting position. Repeat."
+        }
+      ],
+      "male_images": [
+        {
+          "original_video": null,
+          "unbranded_video": null
+        },
+        {
+          "original_video": null,
+          "unbranded_video": null
+        }
+      ],
+      "body_map_images": [
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_standing_calf_raises_front_male_eY08yfs.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_standing_calf_raises_back_male_g0bSZSo.png"
+        },
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_standing_calf_raises_front_female_KnuPJb6.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_standing_calf_raises_back_female_ecE71bw.png"
+        }
+      ]
+    },
+    {
+      "id": 1501,
+      "name": "Machine Horizontal Leg Press Calf Jump",
+      "description": null,
+      "muscles": [
+        {
+          "id": 11,
+          "name": "Calves",
+          "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        }
+      ],
+      "grips": [
+        {
+          "name": "None",
+          "description": "No use of hands in the exercise."
+        }
+      ],
+      "category": {
+        "name": "Machine"
+      },
+      "difficulty": {
+        "name": "Beginner"
+      },
+      "force": {
+        "name": "Push",
+        "description": "Pushing away from the body."
+      },
+      "mechanic": {
+        "name": "Isolation",
+        "description": "Exercise trains a single body part."
+      },
+      "long_form_content": [],
+      "correct_steps": [
+        {
+          "order": 1,
+          "text": "Start with your feet shoulder-width apart and your knees slightly bent."
+        },
+        {
+          "order": 2,
+          "text": "Shift your weight onto the balls of your feet and raise stay flat footed. Using your calf muscles, mimic a jumping motion but don't leave the platform."
+        },
+        {
+          "order": 3,
+          "text": "Explode onto your toes and hold for a second."
+        }
+      ],
+      "male_images": [
+        {
+          "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-horizontal-leg-press-calf-jump-front.mp4",
+          "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-machine-horizontal-leg-press-calf-jump-front.mp4"
+        },
+        {
+          "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-horizontal-leg-press-calf-jump-side.mp4",
+          "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-machine-horizontal-leg-press-calf-jump-side.mp4"
+        }
+      ],
+      "body_map_images": [
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_horizontal_leg_press_calf_jump_front_male_bmfK9SQ.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_horizontal_leg_press_calf_jump_back_male_hjilkqo.png"
+        },
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_horizontal_leg_press_calf_jump_front_female_6Lm2bNz.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_horizontal_leg_press_calf_jump_back_female_fJLsAuO.png"
+        }
+      ]
+    },
+    {
+      "id": 1502,
+      "name": "Machine Horizontal Leg Press Calf Raise",
+      "description": null,
+      "muscles": [
+        {
+          "id": 11,
+          "name": "Calves",
+          "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        },
+        {
+          "id": 33,
+          "name": "Gastrocnemius",
+          "description": ""
+        }
+      ],
+      "grips": [
+        {
+          "name": "None",
+          "description": "No use of hands in the exercise."
+        }
+      ],
+      "category": {
+        "name": "Machine"
+      },
+      "difficulty": {
+        "name": "Beginner"
+      },
+      "force": {
+        "name": "Push",
+        "description": "Pushing away from the body."
+      },
+      "mechanic": {
+        "name": "Isolation",
+        "description": "Exercise trains a single body part."
+      },
+      "long_form_content": [],
+      "correct_steps": [
+        {
+          "order": 1,
+          "text": "Adjust the machine in accordance with your height."
+        },
+        {
+          "order": 2,
+          "text": "The balls of your feet should be supporting your weight on the bottom of the platform, your heels extending off of it."
+        },
+        {
+          "order": 3,
+          "text": "Extend your heels upwards while keeping your knees stationary, and pause at the contracted position."
+        },
+        {
+          "order": 4,
+          "text": "Slowly return to the starting position. Repeat."
+        }
+      ],
+      "male_images": [
+        {
+          "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-horizontal-leg-press-calf-raise-side.mp4",
+          "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-machine-horizontal-leg-press-calf-raise-side.mp4"
+        },
+        {
+          "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Machine-machine-horizontal-leg-press-calf-raise-front.mp4",
+          "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Machine-machine-horizontal-leg-press-calf-raise-front.mp4"
+        }
+      ],
+      "body_map_images": [
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_horizontal_leg_press_calf_raise_front_male_vHd0dqt.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_horizontal_leg_press_calf_raise_back_male_yakTce2.png"
+        },
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_horizontal_leg_press_calf_raise_front_female_5SuDnAj.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/machine_horizontal_leg_press_calf_raise_back_female_vwxRagq.png"
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "name": "Calves Stretch Variation One",
+      "description": null,
+      "next": 0,
+      "prev": 0,
+      "muscles": [
+        {
+          "id": 11,
+          "name": "Calves",
+          "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        }
+      ],
+      "grips": [
+        {
+          "name": "None",
+          "description": "No use of hands in the exercise."
+        }
+      ],
+      "category": {
+        "name": "Stretches"
+      },
+      "difficulty": {
+        "name": "Beginner"
+      },
+      "force": {
+        "name": "",
+        "description": ""
+      },
+      "mechanic": {
+        "name": "",
+        "description": ""
+      },
+      "long_form_content": [],
+      "correct_steps": [
+        {
+          "order": 1,
+          "text": "Place the ball of your foot against the wall with your heel on the ground. Place your hands on the wall in front of your shoulders."
+        },
+        {
+          "order": 2,
+          "text": "Keeping your knee straight, slowly lean towards the wall, pause for a few seconds when you feel the stretch extending through your calf muscle."
+        },
+        {
+          "order": 3,
+          "text": "Return to the starting position, and repeat the stretch with your other leg."
+        }
+      ],
+      "male_images": [
+        {
+          "original_video": null,
+          "unbranded_video": null
+        },
+        {
+          "original_video": null,
+          "unbranded_video": null
+        }
+      ],
+      "body_map_images": [
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calves_stretch_variation_one_front_male_0Y3WzEe.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calves_stretch_variation_one_back_male_6ihJIdm.png"
+        },
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calves_stretch_variation_one_front_female_QKSlkJd.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calves_stretch_variation_one_back_female_DORVjoI.png"
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "name": "Calves Stretch Variation Two",
+      "description": null,
+      "muscles": [
+        {
+          "id": 11,
+          "name": "Calves",
+          "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        }
+      ],
+      "grips": [
+        {
+          "name": "None",
+          "description": "No use of hands in the exercise."
+        }
+      ],
+      "category": {
+        "name": "Stretches"
+      },
+      "difficulty": {
+        "name": "Beginner"
+      },
+      "force": {
+        "name": "",
+        "description": ""
+      },
+      "mechanic": {
+        "name": "",
+        "description": ""
+      },
+      "long_form_content": [],
+      "correct_steps": [
+        {
+          "order": 1,
+          "text": "With both feet flat on the ground, place one leg in front of your shoulder, your other leg should mirror this position behind your other shoulder. In the starting position both of your knees should be straight."
+        },
+        {
+          "order": 2,
+          "text": "Place the palms of your hands against the wall at shoulder height in front of you, lean towards the wall and bend your front leg at the knee while keeping your back leg straight."
+        },
+        {
+          "order": 3,
+          "text": "Pause at the apex of the stretch and return to the starting position. Switch the position of your legs and repeat."
+        }
+      ],
+      "male_images": [
+        {
+          "original_video": null,
+          "unbranded_video": null
+        },
+        {
+          "original_video": null,
+          "unbranded_video": null
+        }
+      ],
+      "body_map_images": [
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calves_stretch_variation_two_front_male_JVDLomm.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calves_stretch_variation_two_back_male_ek51ACo.png"
+        },
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calves_stretch_variation_two_front_female_JBXZqIe.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calves_stretch_variation_two_back_female_grwO9Vp.png"
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "name": "Calves Stretch Variation Three",
+      "description": null,
+      "muscles": [
+        {
+          "id": 11,
+          "name": "Calves",
+          "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        }
+      ],
+      "grips": [
+        {
+          "name": "None",
+          "description": "No use of hands in the exercise."
+        }
+      ],
+      "category": {
+        "name": "Stretches"
+      },
+      "difficulty": {
+        "name": "Beginner"
+      },
+      "force": {
+        "name": "",
+        "description": ""
+      },
+      "mechanic": {
+        "name": "",
+        "description": ""
+      },
+      "long_form_content": [],
+      "correct_steps": [
+        {
+          "order": 1,
+          "text": "Balance the balls of your feet on the platform, leaning forward to use the wall to assist with balance. Engage your calves so that your feet are flat before beginning the stretch."
+        },
+        {
+          "order": 2,
+          "text": "Lower the heels of your feet towards the ground and pause, then push through the balls of your feet like you are standing tip toe, pausing at the apex of the stretch."
+        },
+        {
+          "order": 3,
+          "text": "Repeat as necessary."
+        }
+      ],
+      "male_images": [
+        {
+          "original_video": null,
+          "unbranded_video": null
+        },
+        {
+          "original_video": null,
+          "unbranded_video": null
+        }
+      ],
+      "body_map_images": [
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calves_stretch_variation_three_front_male_WQA128n.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calves_stretch_variation_three_back_male_yc6qjXB.png"
+        },
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calves_stretch_variation_three_front_female_GOJYVfD.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/calves_stretch_variation_three_back_female_crnlub4.png"
+        }
+      ]
+    },
+    {
+      "id": 636,
+      "name": "Downward Dog Toe To Heel",
+      "description": "",
+      "next": 0,
+      "prev": 0,
+      "muscles": [
+        {
+          "id": 11,
+          "name": "Calves",
+          "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        }
+      ],
+      "grips": [],
+      "category": {
+        "name": "Yoga"
+      },
+      "difficulty": {
+        "name": "Beginner"
+      },
+      "force": {
+        "name": "Hold",
+        "description": "Exercise which resists movement as opposed to inducing."
+      },
+      "mechanic": {
+        "name": "Compound",
+        "description": "Exercise trains multiple body parts."
+      },
+      "long_form_content": [],
+      "correct_steps": [
+        {
+          "order": 1,
+          "text": "Begin in a downward-facing dog position with your hands shoulder-width apart and your feet hip-width apart."
+        },
+        {
+          "order": 2,
+          "text": "Lift your right foot off the mat and place your right toes on top of your left heel."
+        },
+        {
+          "order": 3,
+          "text": "Press your palms and fingers firmly into the mat and lift your hips up towards the ceiling, deepening the stretch in your hamstrings and calves."
+        },
+        {
+          "order": 4,
+          "text": "Hold the pose for a few breaths, and then release by slowly walking your hands back out to a downward-facing dog position."
+        }
+      ],
+      "male_images": [
+        {
+          "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-downward-dog-toe-to-heel-front.mp4",
+          "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-downward-dog-toe-to-heel-front.mp4"
+        },
+        {
+          "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-downward-dog-toe-to-heel-side.mp4",
+          "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-downward-dog-toe-to-heel-side.mp4"
+        }
+      ],
+      "body_map_images": [
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/downward_dog_toe_to_heel_front_male_0WSkH4d.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/downward_dog_toe_to_heel_back_male_SjePD06.png"
+        },
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/downward_dog_toe_to_heel_front_female_7QGbY1J.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/downward_dog_toe_to_heel_back_female_MsvOJfP.png"
+        }
+      ]
+    },
+    {
+      "id": 662,
+      "name": "Pyramid Pose Calf Blocks",
+      "description": "",
+      "muscles": [
+        {
+          "id": 11,
+          "name": "Calves",
+          "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        }
+      ],
+      "grips": [],
+      "category": {
+        "name": "Yoga"
+      },
+      "difficulty": {
+        "name": "Beginner"
+      },
+      "force": {
+        "name": "Hold",
+        "description": "Exercise which resists movement as opposed to inducing."
+      },
+      "mechanic": {
+        "name": "Isolation",
+        "description": "Exercise trains a single body part."
+      },
+      "long_form_content": [],
+      "correct_steps": [
+        {
+          "order": 1,
+          "text": "Start standing with a flat and vertical block on the matt"
+        },
+        {
+          "order": 2,
+          "text": "Bend forward, placing hand on vertical block, and front of foot on the flat block."
+        },
+        {
+          "order": 3,
+          "text": "Press the bottom of your foot towards the ground, and repeat on each side."
+        }
+      ],
+      "male_images": [
+        {
+          "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-pyramid-pose-calf-blocks-front.mp4",
+          "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-pyramid-pose-calf-blocks-front.mp4"
+        },
+        {
+          "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-pyramid-pose-calf-blocks-side.mp4",
+          "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-pyramid-pose-calf-blocks-side.mp4"
+        }
+      ],
+      "body_map_images": [
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/pyramid_pose_calf_blocks_front_male_luaEjC8.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/pyramid_pose_calf_blocks_back_male_QuQ8HJr.png"
+        },
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/pyramid_pose_calf_blocks_front_female_0jsFvRC.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/pyramid_pose_calf_blocks_back_female_r79wDKa.png"
+        }
+      ]
+    },
+    {
+      "id": 690,
+      "name": "Walk Your Downward Dog",
+      "description": "",
+      "muscles": [
+        {
+          "id": 11,
+          "name": "Calves",
+          "description": "The calves are composed of two muscles, the gastrocnemius, and the soleus. Both muscles are active every time the ankle joint flexes. In other words, the calves are involved every time you take a step, stand up, or jump."
+        }
+      ],
+      "grips": [],
+      "category": {
+        "name": "Yoga"
+      },
+      "difficulty": {
+        "name": "Beginner"
+      },
+      "force": {
+        "name": "Hold",
+        "description": "Exercise which resists movement as opposed to inducing."
+      },
+      "mechanic": {
+        "name": "Compound",
+        "description": "Exercise trains multiple body parts."
+      },
+      "long_form_content": [],
+      "correct_steps": [
+        {
+          "order": 1,
+          "text": "Begin in a downward-facing dog position with your hands shoulder-width apart and your feet hip-width apart."
+        },
+        {
+          "order": 2,
+          "text": "Walk your feet towards your hands, bending your knees as needed to allow your heels to touch the mat."
+        },
+        {
+          "order": 3,
+          "text": "Press your palms and fingers into the mat and lift your hips up towards the ceiling to deepen the stretch in your hamstrings and calves."
+        },
+        {
+          "order": 4,
+          "text": "Hold the pose for a few breaths, and then release by slowly walking your hands back out to a downward-facing dog position."
+        }
+      ],
+      "male_images": [
+        {
+          "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-walk-into-downward-dog-front.mp4",
+          "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-walk-into-downward-dog-front.mp4"
+        },
+        {
+          "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-yoga-walk-into-downward-dog-side.mp4",
+          "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-yoga-walk-into-downward-dog-side.mp4"
+        }
+      ],
+      "body_map_images": [
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/walk_your_downward_dog_front_male_6Rr3HOq.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/walk_your_downward_dog_back_male_Od7bJM8.png"
+        },
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/walk_your_downward_dog_front_female_3D6Pnmm.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/walk_your_downward_dog_back_female_L6VSVqQ.png"
+        }
+      ]
+    },
+
+
+
+    {
+      "id": 4,
+      "name": "Barbell Bench Press",
+      "description": null,
+      "next": 1,
+      "prev": 0,
+      "muscles": [
+        {
+          "id": 2,
+          "name": "Chest",
+          "description": "Primarily, there are three chest muscles involved in movement: the pectoralis major, the pectoralis minor, and the serratus anterior.\r\n\r\nPectoral muscles are most predominantly associated with movement of the shoulders and arms. When working together, they provide stability for bone structures such as the clavicle (collar bone) and the scapula (shoulder). Muscles of the chest enable us to lift, extend, and rotate our arms, along with playing a part in the process of respiration. Chest muscles are required in order to carry out everyday activities like moving furniture, lifting heavy objects, pitching a baseball, and stretching our arms."
+        },
+        {
+          "id": 24,
+          "name": "Mid and Lower Chest",
+          "description": ""
+        }
+      ],
+      "grips": [
+        {
+          "name": "Overhand",
+          "description": "Pronated"
+        }
+      ],
+      "category": {
+        "name": "Barbell"
+      },
+      "difficulty": {
+        "name": "Intermediate"
+      },
+      "force": {
+        "name": "Push",
+        "description": "Pushing away from the body."
+      },
+      "mechanic": {
+        "name": "Compound",
+        "description": "Exercise trains multiple body parts."
+      },
+      "long_form_content": [
+        {
+          "id": 1,
+          "youtube_link": "https://www.youtube.com/embed/WPM5e8Xv69A"
+        },
+        {
+          "id": 2,
+          "youtube_link": "https://www.youtube.com/embed/WPM5e8Xv69A"
+        }
+      ],
+      "correct_steps": [
+        {
+          "order": 1,
+          "text": "Lay flat on the bench with your feet on the ground. With straight arms unrack the bar."
+        },
+        {
+          "order": 2,
+          "text": "Lower the bar to your mid chest"
+        },
+        {
+          "order": 3,
+          "text": "Raise the bar until you've locked your elbows."
+        }
+      ],
+      "male_images": [
+        {
+          "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-triceps-stretch-variation-3-side_01iBKm9.mp4",
+          "unbranded_video": null
+        },
+        {
+          "original_video": "https://media.musclewiki.com/media/uploads/videos/original/female-triceps-stretch-variation-3-side_a4ZMpsB.mp4",
+          "unbranded_video": null
+        }
+      ],
+      "body_map_images": [
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_bench_press_front_male_OAkqUzJ.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_bench_press_back_male_v8U6Kc0.png"
+        },
+        {
+          "kind": "Muscles Impacted",
+          "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_bench_press_front_female_siUVG1z.png",
+          "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/barbell_bench_press_back_female_eXRWc3C.png"
+        }
+      ]
+    }
+]

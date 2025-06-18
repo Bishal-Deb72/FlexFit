@@ -1,0 +1,300 @@
+[
+    {
+        "id": 1216,
+        "name": "Crosslateral Core Stabilisation Unilateral Load Kettlebell",
+        "description": null,
+        "next": 1,
+        "prev": 0,
+        "muscles": [
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            },
+            {
+                "id": 15,
+                "name": "Obliques",
+                "description": "The obliques are made up of the internal and external obliques. \r\n\r\nThe internal oblique sits between the transverse abdominis and the external oblique. The origin is from the iliac crest, and the lower part of the pelvis. The insertion is at the linea alba, pubic crest, and the lower 3-4 ribs.\r\n\r\nThe internal oblique serves the exact same functions as the external oblique - aiding rotation, flexion and lateral flexion of the spine.\r\n\r\nThe external oblique is visible at low body fat percentages. The muscle appears as a series of diagonal lines connecting to the six-pack.\r\n\r\nThe external oblique originates from the 5th \u2013 8th ribs, and insert at several points (linea alba, iliac spine, pubic crest, and the iliac crest).\r\n\r\nThe functions of the external oblique are to aid in rotation (chopping down a tree), flexion (bending over), and lateral flexion of the spine (bending to the side)."
+            }
+        ],
+        "grips": [
+            {
+                "name": "Neutral",
+                "description": "Neutral"
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Intermediate"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Begin by standing with your feet hip-width apart and holding a kettlebell at one side of your body, with your palms facing your thighs."
+            },
+            {
+                "order": 2,
+                "text": "Hing forward with a flat back and lift the kettlebell."
+            },
+            {
+                "order": 3,
+                "text": "Hold the kettlebell at your side and make sure to not lean to one side."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-crosslateral-core-stabilisation-unilateral-load-kettlebell-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-crosslateral-core-stabilisation-unilateral-load-kettlebell-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-crosslateral-core-stabilisation-unilateral-load-kettlebell-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-crosslateral-core-stabilisation-unilateral-load-kettlebell-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/crosslateral_core_stabilisation_unilateral_load_kettlebell_front_male_UpvYB5Y.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/crosslateral_core_stabilisation_unilateral_load_kettlebell_back_male_XESzXuj.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/crosslateral_core_stabilisation_unilateral_load_kettlebell_front_female_MtidJnZ.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/crosslateral_core_stabilisation_unilateral_load_kettlebell_back_female_c3sWwrC.png"
+            }
+        ]
+    },
+    {
+        "id": 1229,
+        "name": "Wrist Extensor Kneeling Hold",
+        "description": null,
+        "muscles": [
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            },
+            {
+                "id": 25,
+                "name": "Wrist Extensors",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Drape your forearm over a bench."
+            },
+            {
+                "order": 2,
+                "text": "Hold a dumbbell in a neutral wrist position with your palm facing downwards."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-wrist-extensor-isometric-dumbbell-kneeling-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-wrist-extensor-isometric-dumbbell-kneeling-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-wrist-extensor-isometric-dumbbell-kneeling-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-wrist-extensor-isometric-dumbbell-kneeling-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/wrist_extensor_kneeling_hold_front_male_6uhmHYf.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/wrist_extensor_kneeling_hold_back_male_lkU14dK.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/wrist_extensor_kneeling_hold_front_female_t5h3miG.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/wrist_extensor_kneeling_hold_back_female_33BdOVz.png"
+            }
+        ]
+    },
+    {
+        "id": 1228,
+        "name": "Wrist Extensor Mobilisation",
+        "description": null,
+        "muscles": [
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            },
+            {
+                "id": 25,
+                "name": "Wrist Extensors",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Hold",
+            "description": "Exercise which resists movement as opposed to inducing."
+        },
+        "mechanic": {
+            "name": "Compound",
+            "description": "Exercise trains multiple body parts."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Kneel by a bench placing the arm you want to mobilise on, palm facing down."
+            },
+            {
+                "order": 2,
+                "text": "Bring a massage ball to the top of your forearm and move it around applying gentle pressure."
+            },
+            {
+                "order": 3,
+                "text": "Find the right/sore spot."
+            },
+            {
+                "order": 4,
+                "text": "You can move your wrist in various directions in order to mobilise your wrist extensors."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-wrist-extensor-mobilisation-lacrosse-ball-kneeling-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-wrist-extensor-mobilisation-lacrosse-ball-kneeling-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-wrist-extensor-mobilisation-lacrosse-ball-kneeling-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-wrist-extensor-mobilisation-lacrosse-ball-kneeling-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/wrist_extensor_mobilisation_front_male_XV13Niy.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/wrist_extensor_mobilisation_back_male_B3RdVHs.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/wrist_extensor_mobilisation_front_female_4IrjAsT.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/wrist_extensor_mobilisation_back_female_gc6FDDe.png"
+            }
+        ]
+    },
+    {
+        "id": 1227,
+        "name": "Seated Wrist Extensor Stretch",
+        "description": null,
+        "muscles": [
+            {
+                "id": 10,
+                "name": "Forearms",
+                "description": "The forearms consist of many different muscles and the exact number depends on the anatomy book you are reading! Frequently, the forearms are broken down into three main parts: the brachioradialis, the wrist flexors, and the pronator teres."
+            },
+            {
+                "id": 25,
+                "name": "Wrist Extensors",
+                "description": ""
+            }
+        ],
+        "grips": [
+            {
+                "name": "None",
+                "description": "No use of hands in the exercise."
+            }
+        ],
+        "category": {
+            "name": "Recovery"
+        },
+        "difficulty": {
+            "name": "Beginner"
+        },
+        "force": {
+            "name": "Pull",
+            "description": "Pulling towards the body."
+        },
+        "mechanic": {
+            "name": "Isolation",
+            "description": "Exercise trains a single body part."
+        },
+        "long_form_content": [],
+        "correct_steps": [
+            {
+                "order": 1,
+                "text": "Raise one arm keeping your shoulder relaxed."
+            },
+            {
+                "order": 2,
+                "text": "Hold the back of your palm with the other hand and passively flex the wrist."
+            },
+            {
+                "order": 3,
+                "text": "You should feel a stretch on the top part of your arm."
+            }
+        ],
+        "male_images": [
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-wrist-extensor-stretch-seated-front.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-wrist-extensor-stretch-seated-front.mp4"
+            },
+            {
+                "original_video": "https://media.musclewiki.com/media/uploads/videos/original/male-Recovery-wrist-extensor-stretch-seated-side.mp4",
+                "unbranded_video": "https://media.musclewiki.com/media/uploads/videos/unbranded/male-Recovery-wrist-extensor-stretch-seated-side.mp4"
+            }
+        ],
+        "body_map_images": [
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_wrist_extensor_stretch_front_male_ph0mMPo.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_wrist_extensor_stretch_back_male_ilbvPrU.png"
+            },
+            {
+                "kind": "Muscles Impacted",
+                "front": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_wrist_extensor_stretch_front_female_tq1mGHe.png",
+                "back": "https://media.musclewiki.com/media/uploads/videos/bodymaps/seated_wrist_extensor_stretch_back_female_fS0DewD.png"
+            }
+        ]
+    }
+]
